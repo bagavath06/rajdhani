@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "42452",
+    "station_code": "SPE",
+    "station_name": "SULLURUPETA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "22:50:00"
+  },
+  {
+    "train_number": "42452",
+    "station_code": "AKAT",
+    "station_name": "AKKAMPET",
+    "day": 1,
+    "arrival": "22:53:00",
+    "departure": "22:53:00"
+  },
+  {
+    "train_number": "42452",
+    "station_code": "TADA",
+    "station_name": "TADA",
+    "day": 1,
+    "arrival": "23:03:00",
+    "departure": "23:04:00"
+  },
+  {
+    "train_number": "42452",
+    "station_code": "AKM",
+    "station_name": "ARAMBAKKAM",
+    "day": 1,
+    "arrival": "23:10:00",
+    "departure": "23:11:00"
+  },
+  {
+    "train_number": "42452",
+    "station_code": "ELR",
+    "station_name": "ELAVUR",
+    "day": 1,
+    "arrival": "23:19:00",
+    "departure": "23:20:00"
+  },
+  {
+    "train_number": "42452",
+    "station_code": "GPD",
+    "station_name": "GUMMIDIPUNDI",
+    "day": 1,
+    "arrival": "23:35:00",
+    "departure": "None"
+  }
+]

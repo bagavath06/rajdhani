@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "56377",
+    "station_code": "ALLP",
+    "station_name": "ALLEPPEY",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:05:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "PNPR",
+    "station_name": "PUNNAPURA",
+    "day": 1,
+    "arrival": "05:10:00",
+    "departure": "05:12:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "PUPR",
+    "station_name": "PUNNAPRA",
+    "day": 1,
+    "arrival": "05:14:00",
+    "departure": "05:14:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "AMPA",
+    "station_name": "AMBALAPUZHA",
+    "day": 1,
+    "arrival": "05:19:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "THZI",
+    "station_name": "Takazhi",
+    "day": 1,
+    "arrival": "05:27:00",
+    "departure": "05:27:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "KVTA",
+    "station_name": "KARUVATTA HALT",
+    "day": 1,
+    "arrival": "05:34:00",
+    "departure": "05:35:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "HAD",
+    "station_name": "HARIPPAD",
+    "day": 1,
+    "arrival": "05:44:00",
+    "departure": "05:45:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "CHPD",
+    "station_name": "CHEPPAD HALT",
+    "day": 1,
+    "arrival": "05:49:00",
+    "departure": "05:50:00"
+  },
+  {
+    "train_number": "56377",
+    "station_code": "KYJ",
+    "station_name": "KAYANKULAM JN",
+    "day": 1,
+    "arrival": "06:15:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "train_number": "16227",
+    "station_code": "SBC",
+    "station_name": "BANGALORE CITY JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "23:15:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "MWM",
+    "station_name": "MALLESWARAM",
+    "day": 1,
+    "arrival": "23:21:00",
+    "departure": "23:22:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "YPR",
+    "station_name": "YESVANTPUR JN",
+    "day": 1,
+    "arrival": "23:28:00",
+    "departure": "23:30:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BAW",
+    "station_name": "CHIK BANAVAR",
+    "day": 1,
+    "arrival": "23:39:00",
+    "departure": "23:39:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SDVL",
+    "station_name": "SOLDEVANAHALLI",
+    "day": 1,
+    "arrival": "23:42:00",
+    "departure": "23:42:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "GHL",
+    "station_name": "GOLHALLI",
+    "day": 1,
+    "arrival": "23:54:00",
+    "departure": "23:54:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BNKH",
+    "station_name": "BHAIRANAYAKANAH",
+    "day": 2,
+    "arrival": "00:01:00",
+    "departure": "00:01:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "DBL",
+    "station_name": "DODBELE",
+    "day": 2,
+    "arrival": "00:07:00",
+    "departure": "00:07:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "MDLL",
+    "station_name": "MUDDALINGAHALLI",
+    "day": 2,
+    "arrival": "00:13:00",
+    "departure": "00:13:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "NDV",
+    "station_name": "NIDVANDA",
+    "day": 2,
+    "arrival": "00:18:00",
+    "departure": "00:18:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "DBS",
+    "station_name": "DOBBSPET",
+    "day": 2,
+    "arrival": "00:21:00",
+    "departure": "00:21:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "HHL",
+    "station_name": "HIREHALI",
+    "day": 2,
+    "arrival": "00:31:00",
+    "departure": "00:31:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "KIAT",
+    "station_name": "KYATSANDRA",
+    "day": 2,
+    "arrival": "00:38:00",
+    "departure": "00:38:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "TK",
+    "station_name": "TUMKUR",
+    "day": 2,
+    "arrival": "00:43:00",
+    "departure": "00:45:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "HEI",
+    "station_name": "HEGGERE HALT",
+    "day": 2,
+    "arrival": "00:51:00",
+    "departure": "00:51:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "MLSA",
+    "station_name": "MALLASANDRA",
+    "day": 2,
+    "arrival": "00:55:00",
+    "departure": "00:55:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "GBB",
+    "station_name": "GUBBI",
+    "day": 2,
+    "arrival": "01:03:00",
+    "departure": "01:03:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "NTR",
+    "station_name": "NITTUR",
+    "day": 2,
+    "arrival": "01:12:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SPGR",
+    "station_name": "SAMPIGE ROAD",
+    "day": 2,
+    "arrival": "01:23:00",
+    "departure": "01:23:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "AMSA",
+    "station_name": "AMMASANDRA",
+    "day": 2,
+    "arrival": "01:29:00",
+    "departure": "01:29:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BSN",
+    "station_name": "BANASANDRA",
+    "day": 2,
+    "arrival": "01:35:00",
+    "departure": "01:35:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "ARGP",
+    "station_name": "ARALAGUPPE",
+    "day": 2,
+    "arrival": "01:40:00",
+    "departure": "01:40:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "RDI",
+    "station_name": "KARDI",
+    "day": 2,
+    "arrival": "01:45:00",
+    "departure": "01:45:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BNK",
+    "station_name": "BANASANKARAI HA",
+    "day": 2,
+    "arrival": "01:50:00",
+    "departure": "01:50:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "TTR",
+    "station_name": "TIPTUR",
+    "day": 2,
+    "arrival": "01:54:00",
+    "departure": "01:55:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SSNH",
+    "station_name": "SREE SARADANAGAR HALT",
+    "day": 2,
+    "arrival": "01:59:00",
+    "departure": "01:59:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "HVL",
+    "station_name": "HONNAVALLI ROAD",
+    "day": 2,
+    "arrival": "02:14:00",
+    "departure": "02:14:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "ADHL",
+    "station_name": "ADIHALLI",
+    "day": 2,
+    "arrival": "02:23:00",
+    "departure": "02:23:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "ASK",
+    "station_name": "ARSIKERE JN",
+    "day": 2,
+    "arrival": "02:45:00",
+    "departure": "02:50:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BVR",
+    "station_name": "BANAVAR",
+    "day": 2,
+    "arrival": "03:11:00",
+    "departure": "03:11:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "VNR",
+    "station_name": "DEVANUR",
+    "day": 2,
+    "arrival": "03:18:00",
+    "departure": "03:18:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BLKR",
+    "station_name": "BALLEKERE HALT",
+    "day": 2,
+    "arrival": "03:33:00",
+    "departure": "03:33:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "DRU",
+    "station_name": "KADUR",
+    "day": 2,
+    "arrival": "03:41:00",
+    "departure": "03:41:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "RRB",
+    "station_name": "BIRUR JN",
+    "day": 2,
+    "arrival": "03:48:00",
+    "departure": "03:50:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SPV",
+    "station_name": "Sivapur",
+    "day": 2,
+    "arrival": "04:01:00",
+    "departure": "04:01:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "KRNH",
+    "station_name": "Karanahalli",
+    "day": 2,
+    "arrival": "04:04:00",
+    "departure": "04:04:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "TKE",
+    "station_name": "Tarikere Junction",
+    "day": 2,
+    "arrival": "04:24:00",
+    "departure": "04:25:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "MSS",
+    "station_name": "Masarahalli",
+    "day": 2,
+    "arrival": "04:51:00",
+    "departure": "04:51:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "BDVT",
+    "station_name": "Bhadravati",
+    "day": 2,
+    "arrival": "04:59:00",
+    "departure": "05:00:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SME",
+    "station_name": "Shimoga",
+    "day": 2,
+    "arrival": "05:24:00",
+    "departure": "05:25:00"
+  },
+  {
+    "train_number": "16227",
+    "station_code": "SMET",
+    "station_name": "Shimoga Town",
+    "day": 2,
+    "arrival": "06:10:00",
+    "departure": "None"
+  }
+]

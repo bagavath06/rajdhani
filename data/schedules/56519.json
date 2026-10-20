@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "56519",
+    "station_code": "JRU",
+    "station_name": "CHIKJAJUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:25:00"
+  },
+  {
+    "train_number": "56519",
+    "station_code": "CKVD",
+    "station_name": "Chikkandawadi",
+    "day": 1,
+    "arrival": "15:34:00",
+    "departure": "15:35:00"
+  },
+  {
+    "train_number": "56519",
+    "station_code": "AMC",
+    "station_name": "Amritapura",
+    "day": 1,
+    "arrival": "15:43:00",
+    "departure": "15:44:00"
+  },
+  {
+    "train_number": "56519",
+    "station_code": "BTGH",
+    "station_name": "Bettadnagenhali",
+    "day": 1,
+    "arrival": "15:52:00",
+    "departure": "15:53:00"
+  },
+  {
+    "train_number": "56519",
+    "station_code": "HLV",
+    "station_name": "Haliyuru",
+    "day": 1,
+    "arrival": "16:02:00",
+    "departure": "16:03:00"
+  },
+  {
+    "train_number": "56519",
+    "station_code": "CTA",
+    "station_name": "Chitradurg",
+    "day": 1,
+    "arrival": "16:30:00",
+    "departure": "None"
+  }
+]

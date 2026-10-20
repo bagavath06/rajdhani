@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "51256",
+    "station_code": "CWA",
+    "station_name": "Chhindwara Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:30:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "GNW",
+    "station_name": "Gangiwara",
+    "day": 1,
+    "arrival": "12:51:00",
+    "departure": "12:52:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "KUX",
+    "station_name": "Khirsadoh Junction",
+    "day": 1,
+    "arrival": "13:12:00",
+    "departure": "13:13:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "PUX",
+    "station_name": "Parasia",
+    "day": 1,
+    "arrival": "13:17:00",
+    "departure": "13:19:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "IKR",
+    "station_name": "Iklehra",
+    "day": 1,
+    "arrival": "13:31:00",
+    "departure": "13:32:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "PCLI",
+    "station_name": "Palachauri",
+    "day": 1,
+    "arrival": "13:41:00",
+    "departure": "13:42:00"
+  },
+  {
+    "train_number": "51256",
+    "station_code": "JNO",
+    "station_name": "Junnor Deo",
+    "day": 1,
+    "arrival": "14:00:00",
+    "departure": "None"
+  }
+]

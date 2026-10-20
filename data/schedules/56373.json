@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "56373",
+    "station_code": "GUV",
+    "station_name": "GURUVAYUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:55:00"
+  },
+  {
+    "train_number": "56373",
+    "station_code": "AMLR",
+    "station_name": "AMALA NAGAR",
+    "day": 1,
+    "arrival": "09:12:00",
+    "departure": "09:12:00"
+  },
+  {
+    "train_number": "56373",
+    "station_code": "PNQ",
+    "station_name": "PUNKUNNAM",
+    "day": 1,
+    "arrival": "09:18:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "56373",
+    "station_code": "TCR",
+    "station_name": "THRISUR",
+    "day": 1,
+    "arrival": "09:35:00",
+    "departure": "None"
+  }
+]

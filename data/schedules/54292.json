@@ -1,0 +1,786 @@
+[
+  {
+    "train_number": "54292",
+    "station_code": "PBH",
+    "station_name": "PARTAPGARH JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:15:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PHV",
+    "station_name": "PIRTHIGANJ",
+    "day": 1,
+    "arrival": "05:24:00",
+    "departure": "05:25:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DND",
+    "station_name": "DANDUPUR",
+    "day": 1,
+    "arrival": "05:33:00",
+    "departure": "05:34:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GRX",
+    "station_name": "GAURA",
+    "day": 1,
+    "arrival": "05:44:00",
+    "departure": "05:45:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SWS",
+    "station_name": "SUWANSA",
+    "day": 1,
+    "arrival": "05:52:00",
+    "departure": "05:53:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BSE",
+    "station_name": "BADSHAHPUR",
+    "day": 1,
+    "arrival": "06:02:00",
+    "departure": "06:03:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "NBP",
+    "station_name": "NIBHAPUR",
+    "day": 1,
+    "arrival": "06:12:00",
+    "departure": "06:13:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "JNH",
+    "station_name": "JANGHAI JN",
+    "day": 1,
+    "arrival": "06:39:00",
+    "departure": "06:40:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SQN",
+    "station_name": "SARAI KANSRAI",
+    "day": 1,
+    "arrival": "06:49:00",
+    "departure": "06:50:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SAW",
+    "station_name": "SURIAWAN",
+    "day": 1,
+    "arrival": "07:03:00",
+    "departure": "07:04:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MOF",
+    "station_name": "MONDH",
+    "day": 1,
+    "arrival": "07:14:00",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BOY",
+    "station_name": "BHADOHI",
+    "day": 1,
+    "arrival": "07:24:00",
+    "departure": "07:25:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PRF",
+    "station_name": "PARSIPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KEH",
+    "station_name": "KAPSETI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SWPR",
+    "station_name": "SEWAPURI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "CHH",
+    "station_name": "CHAUKHANDI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BSB",
+    "station_name": "VARANASI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KEI",
+    "station_name": "KASHI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "VYN",
+    "station_name": "VYASNAGAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MGS",
+    "station_name": "MUGHAL SARAI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GAQ",
+    "station_name": "GANJ KHAWAJA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "CDMR",
+    "station_name": "CHANDAULI MJHWR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SYJ",
+    "station_name": "SAIDRAJA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KMS",
+    "station_name": "KARAMNASA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DCX",
+    "station_name": "DHANICHHA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DGO",
+    "station_name": "DURGAUTI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BBU",
+    "station_name": "BHABUA ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MTGE",
+    "station_name": "MUTHANI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PSE",
+    "station_name": "PUSAULI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KTQ",
+    "station_name": "KUDRA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KVD",
+    "station_name": "KHURMABAD ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SSG",
+    "station_name": "SHIU SAGAR ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KMGE",
+    "station_name": "KUMAHU",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SSM",
+    "station_name": "SASARAM",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KWD",
+    "station_name": "KARWANDIA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PHE",
+    "station_name": "PAHALEJA HALT",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DOS",
+    "station_name": "DEHRI ON SONE",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SEB",
+    "station_name": "SON NAGAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "AUBR",
+    "station_name": "ANUGRAHA NARAYAN ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PES",
+    "station_name": "PHESAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BHKH",
+    "station_name": "BAGHOI KUSA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "JHN",
+    "station_name": "JAKHIM",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DORD",
+    "station_name": "DEO ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "RFJ",
+    "station_name": "RAFIGANJ",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "IMGE",
+    "station_name": "ISMAILPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GRRU",
+    "station_name": "GURARU",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PRY",
+    "station_name": "PARAIYA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KSTA",
+    "station_name": "KASTHA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MPO",
+    "station_name": "MANPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BNF",
+    "station_name": "BANDHUA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "TKN",
+    "station_name": "TANKUPPA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BNSL",
+    "station_name": "BANSINALA HALT",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PRP",
+    "station_name": "PAHARPUR",
+    "day": 1,
+    "arrival": "07:34:00",
+    "departure": "07:35:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BNSL",
+    "station_name": "BANSINALA HALT",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "TKN",
+    "station_name": "TANKUPPA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BNF",
+    "station_name": "BANDHUA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MPO",
+    "station_name": "MANPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KSTA",
+    "station_name": "KASTHA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PRY",
+    "station_name": "PARAIYA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GRRU",
+    "station_name": "GURARU",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "IMGE",
+    "station_name": "ISMAILPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "RFJ",
+    "station_name": "RAFIGANJ",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DORD",
+    "station_name": "DEO ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "JHN",
+    "station_name": "JAKHIM",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BHKH",
+    "station_name": "BAGHOI KUSA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PES",
+    "station_name": "PHESAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "AUBR",
+    "station_name": "ANUGRAHA NARAYAN ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SEB",
+    "station_name": "SON NAGAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DOS",
+    "station_name": "DEHRI ON SONE",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PHE",
+    "station_name": "PAHALEJA HALT",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KWD",
+    "station_name": "KARWANDIA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SSM",
+    "station_name": "SASARAM",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KMGE",
+    "station_name": "KUMAHU",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SSG",
+    "station_name": "SHIU SAGAR ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KVD",
+    "station_name": "KHURMABAD ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KTQ",
+    "station_name": "KUDRA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "PSE",
+    "station_name": "PUSAULI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MTGE",
+    "station_name": "MUTHANI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BBU",
+    "station_name": "BHABUA ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DGO",
+    "station_name": "DURGAUTI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "DCX",
+    "station_name": "DHANICHHA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KMS",
+    "station_name": "KARAMNASA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SYJ",
+    "station_name": "SAIDRAJA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "CDMR",
+    "station_name": "CHANDAULI MJHWR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "GAQ",
+    "station_name": "GANJ KHAWAJA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "MGS",
+    "station_name": "MUGHAL SARAI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "VYN",
+    "station_name": "VYASNAGAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KEI",
+    "station_name": "KASHI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BSB",
+    "station_name": "VARANASI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "CHH",
+    "station_name": "CHAUKHANDI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SWPR",
+    "station_name": "SEWAPURI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "None"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "KEH",
+    "station_name": "KAPSETI",
+    "day": 1,
+    "arrival": "07:44:00",
+    "departure": "07:45:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "SWPR",
+    "station_name": "SEWAPURI",
+    "day": 1,
+    "arrival": "07:55:00",
+    "departure": "07:56:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "CHH",
+    "station_name": "CHAUKHANDI",
+    "day": 1,
+    "arrival": "08:06:00",
+    "departure": "08:07:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "LOT",
+    "station_name": "LOHRA",
+    "day": 1,
+    "arrival": "08:18:00",
+    "departure": "08:19:00"
+  },
+  {
+    "train_number": "54292",
+    "station_code": "BSB",
+    "station_name": "VARANASI JN",
+    "day": 1,
+    "arrival": "09:00:00",
+    "departure": "None"
+  }
+]

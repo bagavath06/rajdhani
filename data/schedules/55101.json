@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "55101",
+    "station_code": "BTT",
+    "station_name": "BHATNI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:00:00"
+  },
+  {
+    "train_number": "55101",
+    "station_code": "POKL",
+    "station_name": "PEOKOL",
+    "day": 1,
+    "arrival": "05:08:00",
+    "departure": "05:09:00"
+  },
+  {
+    "train_number": "55101",
+    "station_code": "SRU",
+    "station_name": "SALEMPUR JN",
+    "day": 1,
+    "arrival": "05:18:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "55101",
+    "station_code": "DRBR",
+    "station_name": "Deoraha Baba Road",
+    "day": 1,
+    "arrival": "05:34:00",
+    "departure": "05:35:00"
+  },
+  {
+    "train_number": "55101",
+    "station_code": "STZ",
+    "station_name": "Satraon",
+    "day": 1,
+    "arrival": "05:46:00",
+    "departure": "05:47:00"
+  },
+  {
+    "train_number": "55101",
+    "station_code": "BHJ",
+    "station_name": "Barhaj Bazar",
+    "day": 1,
+    "arrival": "06:20:00",
+    "departure": "None"
+  }
+]

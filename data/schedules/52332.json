@@ -1,0 +1,106 @@
+[
+  {
+    "train_number": "52332",
+    "station_code": "SHC",
+    "station_name": "SAHARSA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "23:45:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "SHKY",
+    "station_name": "Saharsa Kutchery Halt",
+    "day": 1,
+    "arrival": "23:53:00",
+    "departure": "23:54:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "NDLH",
+    "station_name": "Nandlalee Halt",
+    "day": 2,
+    "arrival": "00:07:00",
+    "departure": "00:08:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "PGC",
+    "station_name": "Panchgachia",
+    "day": 2,
+    "arrival": "00:21:00",
+    "departure": "00:22:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "GEB",
+    "station_name": "Garh Baruari",
+    "day": 2,
+    "arrival": "00:46:00",
+    "departure": "00:47:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "BCM",
+    "station_name": "Buranpudi",
+    "day": 2,
+    "arrival": "01:02:00",
+    "departure": "01:03:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "SOU",
+    "station_name": "Supaul",
+    "day": 2,
+    "arrival": "01:23:00",
+    "departure": "01:24:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "KDRA",
+    "station_name": "Kadampura",
+    "day": 2,
+    "arrival": "01:45:00",
+    "departure": "01:46:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "TB",
+    "station_name": "Tharbitia",
+    "day": 2,
+    "arrival": "02:02:00",
+    "departure": "02:03:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "VDNP",
+    "station_name": "Baijnath Andoli",
+    "day": 2,
+    "arrival": "02:20:00",
+    "departure": "02:21:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "SRGR",
+    "station_name": "Saraygarh",
+    "day": 2,
+    "arrival": "02:35:00",
+    "departure": "02:36:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "NRPM",
+    "station_name": "Narayanpur Murli Halt",
+    "day": 2,
+    "arrival": "02:54:00",
+    "departure": "02:55:00"
+  },
+  {
+    "train_number": "52332",
+    "station_code": "RGV",
+    "station_name": "Rathopur",
+    "day": 2,
+    "arrival": "03:25:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "status": "completed",
+  "submission": 0,
+  "started_at": "2026-10-18T20:43:45Z",
+  "completed_at": "2026-10-18T20:43:45Z",
+  "results": {
+    "homepage": {
+      "flag": {
+        "passed": false,
+        "message": "Set flag_homepage = True.",
+        "expected": true,
+        "found": false
+      },
+      "page": {
+        "passed": false,
+        "message": "The page does not contain 'Search Trains'.",
+        "expected": "Search Trains",
+        "found": "Text not found"
+      }
+    },
+    "station-explorer": {
+      "defined": {
+        "passed": false,
+        "message": "Define get_all_stations in stations.py."
+      },
+      "returns-list": {
+        "passed": false,
+        "message": "Define get_all_stations in stations.py."
+      },
+      "returns-all": {
+        "passed": false,
+        "message": "Define get_all_stations in stations.py."
+      },
+      "station-fields": {
+        "passed": false,
+        "message": "Define get_all_stations in stations.py."
+      },
+      "explorer-count": {
+        "passed": false,
+        "message": "The page does not contain '8,697 stations'.",
+        "expected": "8,697 stations",
+        "found": "Text not found"
+      }
+    },
+    "station-page": {
+      "defined": {
+        "passed": false,
+        "message": "Define get_station in stations.py."
+      },
+      "station-fields": {
+        "passed": false,
+        "message": "Define get_station in stations.py."
+      },
+      "unknown-code": {
+        "passed": false,
+        "message": "Define get_station in stations.py."
+      },
+      "station-page": {
+        "passed": false,
+        "message": "The page does not contain 'BANGALORE CITY JN'.",
+        "expected": "BANGALORE CITY JN",
+        "found": "Text not found"
+      }
+    },
+    "station-search": {
+      "defined": {
+        "passed": false,
+        "message": "Define search_stations in stations.py."
+      }
+    },
+    "train-search": {
+      "defined": {
+        "passed": false,
+        "message": "Define search_trains in trains.py."
+      }
+    },
+    "ticket-class": {
+      "flag": {
+        "passed": false,
+        "message": "Set flag_ticketclass_in_search = True.",
+        "expected": true,
+        "found": false
+      },
+      "page": {
+        "passed": false,
+        "message": "The page does not contain 'Class'.",
+        "expected": "Class",
+        "found": "Text not found"
+      }
+    },
+    "search-filters": {
+      "flag": {
+        "passed": false,
+        "message": "Set flag_search_filters = True.",
+        "expected": true,
+        "found": false
+      },
+      "page": {
+        "passed": false,
+        "message": "The page does not contain 'Time filters'.",
+        "expected": "Time filters",
+        "found": "Text not found"
+      }
+    },
+    "schedules": {
+      "defined": {
+        "passed": false,
+        "message": "Define get_schedule in schedule.py."
+      },
+      "flag": {
+        "passed": false,
+        "message": "Set flag_show_schedule_link = True.",
+        "expected": true,
+        "found": false
+      }
+    },
+    "bookings": {
+      "defined": {
+        "passed": false,
+        "message": "Define book_ticket in booking.py."
+      },
+      "flag": {
+        "passed": false,
+        "message": "Set flag_bookings = True.",
+        "expected": true,
+        "found": false
+      }
+    },
+    "login": {
+      "defined": {
+        "passed": false,
+        "message": "Define get_trips in booking.py."
+      },
+      "flag": {
+        "passed": false,
+        "message": "Set flag_login = True.",
+        "expected": true,
+        "found": false
+      }
+    }
+  }
+}

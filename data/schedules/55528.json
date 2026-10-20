@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "55528",
+    "station_code": "SPJ",
+    "station_name": "SAMASTIPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:25:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "UJP",
+    "station_name": "UJIARPUR",
+    "day": 1,
+    "arrival": "20:36:00",
+    "departure": "20:37:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "NAZJ",
+    "station_name": "NAZIRGANJ",
+    "day": 1,
+    "arrival": "20:45:00",
+    "departure": "20:46:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "DSS",
+    "station_name": "DALSINGH SARAI",
+    "day": 1,
+    "arrival": "20:57:00",
+    "departure": "20:58:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "STJT",
+    "station_name": "SATHAJAGAT",
+    "day": 1,
+    "arrival": "21:05:00",
+    "departure": "21:06:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "BCA",
+    "station_name": "BACHWARA JN",
+    "day": 1,
+    "arrival": "21:17:00",
+    "departure": "21:18:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "TGA",
+    "station_name": "TEGHRA",
+    "day": 1,
+    "arrival": "21:32:00",
+    "departure": "21:33:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "BUJ",
+    "station_name": "BARAUNI FLAG",
+    "day": 1,
+    "arrival": "21:41:00",
+    "departure": "21:42:00"
+  },
+  {
+    "train_number": "55528",
+    "station_code": "BJU",
+    "station_name": "BARAUNI JN",
+    "day": 1,
+    "arrival": "22:00:00",
+    "departure": "None"
+  }
+]

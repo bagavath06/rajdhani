@@ -1,0 +1,98 @@
+[
+  {
+    "train_number": "54321",
+    "station_code": "BLM",
+    "station_name": "BALAMU JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "GAJU",
+    "station_name": "Gaju Halt",
+    "day": 1,
+    "arrival": "07:27:00",
+    "departure": "07:28:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "ASI",
+    "station_name": "Arseni",
+    "day": 1,
+    "arrival": "07:37:00",
+    "departure": "07:38:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "ATW",
+    "station_name": "Atwa Muthia Halt",
+    "day": 1,
+    "arrival": "07:47:00",
+    "departure": "07:48:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "BEJ",
+    "station_name": "Beniganj",
+    "day": 1,
+    "arrival": "08:00:00",
+    "departure": "08:01:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "NM",
+    "station_name": "Naimisharanya",
+    "day": 1,
+    "arrival": "08:19:00",
+    "departure": "08:20:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "GHRI",
+    "station_name": "Ghori Halt",
+    "day": 1,
+    "arrival": "08:29:00",
+    "departure": "08:30:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "MSTH",
+    "station_name": "Misrikh Tirath",
+    "day": 1,
+    "arrival": "08:49:00",
+    "departure": "08:50:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "BRMX",
+    "station_name": "Barmi",
+    "day": 1,
+    "arrival": "09:04:00",
+    "departure": "09:05:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "RAK",
+    "station_name": "Ramkot",
+    "day": 1,
+    "arrival": "09:19:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "SPC",
+    "station_name": "SITAPUR CITY",
+    "day": 1,
+    "arrival": "09:45:00",
+    "departure": "12:03:00"
+  },
+  {
+    "train_number": "54321",
+    "station_code": "SCC",
+    "station_name": "SITAPUR CANT",
+    "day": 1,
+    "arrival": "12:30:00",
+    "departure": "None"
+  }
+]

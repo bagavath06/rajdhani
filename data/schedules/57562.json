@@ -1,0 +1,690 @@
+[
+  {
+    "train_number": "57562",
+    "station_code": "MMR",
+    "station_name": "MANMAD JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "ANK",
+    "station_name": "ANKAI",
+    "day": 1,
+    "arrival": "05:34:00",
+    "departure": "05:35:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "NSL",
+    "station_name": "NAGARSOL",
+    "day": 1,
+    "arrival": "05:44:00",
+    "departure": "05:45:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "TR",
+    "station_name": "TARU",
+    "day": 1,
+    "arrival": "05:56:00",
+    "departure": "05:57:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "RGO",
+    "station_name": "ROTEGAON",
+    "day": 1,
+    "arrival": "06:08:00",
+    "departure": "06:09:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PSD",
+    "station_name": "PARSODA",
+    "day": 1,
+    "arrival": "06:19:00",
+    "departure": "06:20:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "LSR",
+    "station_name": "LASUR",
+    "day": 1,
+    "arrival": "06:44:00",
+    "departure": "06:45:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "POZ",
+    "station_name": "POTUL",
+    "day": 1,
+    "arrival": "06:54:00",
+    "departure": "06:55:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DLB",
+    "station_name": "DAULATABAD",
+    "day": 1,
+    "arrival": "07:04:00",
+    "departure": "07:05:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "AWB",
+    "station_name": "AURANGABAD",
+    "day": 1,
+    "arrival": "07:40:00",
+    "departure": "07:45:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MKDD",
+    "station_name": "MUKUNDWADI HALT",
+    "day": 1,
+    "arrival": "07:54:00",
+    "departure": "07:55:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "CTH",
+    "station_name": "CHIKALTHANA",
+    "day": 1,
+    "arrival": "08:04:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "KMV",
+    "station_name": "KARMAD",
+    "day": 1,
+    "arrival": "08:14:00",
+    "departure": "08:15:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BDU",
+    "station_name": "BADNAPUR",
+    "day": 1,
+    "arrival": "08:29:00",
+    "departure": "08:30:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "J",
+    "station_name": "JALNA",
+    "day": 1,
+    "arrival": "08:58:00",
+    "departure": "09:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SVD",
+    "station_name": "SARWARI",
+    "day": 1,
+    "arrival": "09:09:00",
+    "departure": "09:10:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "KODI",
+    "station_name": "KODI",
+    "day": 1,
+    "arrival": "09:19:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "RNE",
+    "station_name": "RANJANI",
+    "day": 1,
+    "arrival": "09:29:00",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PDG",
+    "station_name": "PARADGAON",
+    "day": 1,
+    "arrival": "09:34:00",
+    "departure": "09:35:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PTU",
+    "station_name": "PARTUR",
+    "day": 1,
+    "arrival": "09:49:00",
+    "departure": "09:50:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "UPR",
+    "station_name": "USMANPUR",
+    "day": 1,
+    "arrival": "09:59:00",
+    "departure": "10:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SCO",
+    "station_name": "SATUNA",
+    "day": 1,
+    "arrival": "10:19:00",
+    "departure": "10:20:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SELU",
+    "station_name": "SELU",
+    "day": 1,
+    "arrival": "10:29:00",
+    "departure": "10:30:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DGPP",
+    "station_name": "DHENGLI PP GOAN",
+    "day": 1,
+    "arrival": "10:39:00",
+    "departure": "10:40:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MVO",
+    "station_name": "MANWATH ROAD",
+    "day": 1,
+    "arrival": "10:49:00",
+    "departure": "10:50:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DAV",
+    "station_name": "DEVALGAON AVCHAR",
+    "day": 1,
+    "arrival": "10:59:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PG",
+    "station_name": "PERGAON",
+    "day": 1,
+    "arrival": "11:14:00",
+    "departure": "11:15:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PBN",
+    "station_name": "PARBHANI JN",
+    "day": 1,
+    "arrival": "11:38:00",
+    "departure": "11:40:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PIZ",
+    "station_name": "PINGLI",
+    "day": 1,
+    "arrival": "11:49:00",
+    "departure": "11:50:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MQL",
+    "station_name": "MIRKHAL",
+    "day": 1,
+    "arrival": "11:59:00",
+    "departure": "12:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PAU",
+    "station_name": "PURNA JN",
+    "day": 1,
+    "arrival": "12:25:00",
+    "departure": "12:30:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "CRU",
+    "station_name": "CHUDAWA",
+    "day": 1,
+    "arrival": "12:44:00",
+    "departure": "12:45:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "LBG",
+    "station_name": "LIMBGAON",
+    "day": 1,
+    "arrival": "12:54:00",
+    "departure": "12:55:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "WNG",
+    "station_name": "WANEGAON",
+    "day": 1,
+    "arrival": "13:01:00",
+    "departure": "13:02:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "NED",
+    "station_name": "HUZUR SAHIB NANDED",
+    "day": 1,
+    "arrival": "13:25:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PARD",
+    "station_name": "PATHRAD",
+    "day": 1,
+    "arrival": "13:44:00",
+    "departure": "13:45:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MGC",
+    "station_name": "MUGAT",
+    "day": 1,
+    "arrival": "13:54:00",
+    "departure": "13:55:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MUE",
+    "station_name": "MUDKHED",
+    "day": 1,
+    "arrival": "14:23:00",
+    "departure": "14:25:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SVN",
+    "station_name": "SIVUNGAON",
+    "day": 1,
+    "arrival": "14:33:00",
+    "departure": "14:34:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SLGH",
+    "station_name": "SHELGOAN H",
+    "day": 1,
+    "arrival": "14:39:00",
+    "departure": "14:40:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "UMRI",
+    "station_name": "UMRI",
+    "day": 1,
+    "arrival": "14:51:00",
+    "departure": "14:52:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BLSA",
+    "station_name": "BOLSA",
+    "day": 1,
+    "arrival": "15:01:00",
+    "departure": "15:02:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "KEK",
+    "station_name": "KARKHELI",
+    "day": 1,
+    "arrival": "15:17:00",
+    "departure": "15:18:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SQE",
+    "station_name": "SAMRLA",
+    "day": 1,
+    "arrival": "15:25:00",
+    "departure": "15:26:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DAB",
+    "station_name": "DHARMABAD",
+    "day": 1,
+    "arrival": "15:33:00",
+    "departure": "15:34:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BSX",
+    "station_name": "BASAR",
+    "day": 1,
+    "arrival": "16:18:00",
+    "departure": "16:20:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "FKB",
+    "station_name": "FAKHRABAD",
+    "day": 1,
+    "arrival": "16:26:00",
+    "departure": "16:27:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "NVT",
+    "station_name": "NAVIPET",
+    "day": 1,
+    "arrival": "16:33:00",
+    "departure": "16:34:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "JKM",
+    "station_name": "JANKAMPET JN",
+    "day": 1,
+    "arrival": "16:42:00",
+    "departure": "16:43:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "NZB",
+    "station_name": "NIZAMABAD",
+    "day": 1,
+    "arrival": "17:10:00",
+    "departure": "17:15:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DHP",
+    "station_name": "DICHPALLI",
+    "day": 1,
+    "arrival": "17:28:00",
+    "departure": "17:29:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "IDL",
+    "station_name": "INDALVAI",
+    "day": 1,
+    "arrival": "17:38:00",
+    "departure": "17:39:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SCP",
+    "station_name": "SIRNAPALLI",
+    "day": 1,
+    "arrival": "17:46:00",
+    "departure": "17:47:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "UPW",
+    "station_name": "UPPALAVAI",
+    "day": 1,
+    "arrival": "17:58:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "KMC",
+    "station_name": "KAMAREDDI",
+    "day": 1,
+    "arrival": "18:20:00",
+    "departure": "18:22:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "TMD",
+    "station_name": "TALMADLA",
+    "day": 1,
+    "arrival": "18:31:00",
+    "departure": "18:32:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "THPR",
+    "station_name": "TIPPAPUR",
+    "day": 1,
+    "arrival": "18:38:00",
+    "departure": "18:39:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BKU",
+    "station_name": "BHIKNUR",
+    "day": 1,
+    "arrival": "18:43:00",
+    "departure": "18:44:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "AKE",
+    "station_name": "AKANAPET",
+    "day": 1,
+    "arrival": "18:53:00",
+    "departure": "18:54:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MZL",
+    "station_name": "MIRZAPALI",
+    "day": 1,
+    "arrival": "19:03:00",
+    "departure": "19:04:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "WDR",
+    "station_name": "WADIARAM",
+    "day": 1,
+    "arrival": "19:18:00",
+    "departure": "19:19:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SHAN",
+    "station_name": "SRINIVASA NAGAR",
+    "day": 1,
+    "arrival": "19:25:00",
+    "departure": "19:26:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "ME",
+    "station_name": "MASAIPET",
+    "day": 1,
+    "arrival": "19:34:00",
+    "departure": "19:35:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BMPL",
+    "station_name": "BRAHMANPALLI",
+    "day": 1,
+    "arrival": "19:39:00",
+    "departure": "19:40:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "PAPM",
+    "station_name": "PALAT POTARAM",
+    "day": 1,
+    "arrival": "19:43:00",
+    "departure": "19:44:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MOB",
+    "station_name": "MANOHARABAD",
+    "day": 1,
+    "arrival": "20:04:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DBV",
+    "station_name": "DABILPUR",
+    "day": 1,
+    "arrival": "20:11:00",
+    "departure": "20:12:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MED",
+    "station_name": "MEDCHAL",
+    "day": 1,
+    "arrival": "20:48:00",
+    "departure": "20:49:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "GWV",
+    "station_name": "GOWDAVALLI",
+    "day": 1,
+    "arrival": "20:53:00",
+    "departure": "20:54:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "GDPL",
+    "station_name": "GUNDLA POCHAMPALLI",
+    "day": 1,
+    "arrival": "20:59:00",
+    "departure": "21:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "GOPL",
+    "station_name": "GUNDLA POCHAMPALLI",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "21:00:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BMO",
+    "station_name": "BOLARUM",
+    "day": 1,
+    "arrival": "21:14:00",
+    "departure": "21:15:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "BOZ",
+    "station_name": "BOLARUM BAZAR",
+    "day": 1,
+    "arrival": "21:18:00",
+    "departure": "21:19:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "ALW",
+    "station_name": "ALWAL",
+    "day": 1,
+    "arrival": "21:21:00",
+    "departure": "21:22:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "CVB",
+    "station_name": "CAVALRY BARRCKS",
+    "day": 1,
+    "arrival": "21:26:00",
+    "departure": "21:27:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "AMQ",
+    "station_name": "AMMUGUDA",
+    "day": 1,
+    "arrival": "21:28:00",
+    "departure": "21:29:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "RKO",
+    "station_name": "RAMAKRISHNAPURAM GATE",
+    "day": 1,
+    "arrival": "21:31:00",
+    "departure": "21:32:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "SFX",
+    "station_name": "SAFILGUDA",
+    "day": 1,
+    "arrival": "21:35:00",
+    "departure": "21:36:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "DYE",
+    "station_name": "DAYANAND NAGAR",
+    "day": 1,
+    "arrival": "21:37:00",
+    "departure": "21:38:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "MJF",
+    "station_name": "MALKAJGIRI",
+    "day": 1,
+    "arrival": "21:43:00",
+    "departure": "21:44:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "LGDH",
+    "station_name": "LALAGUDA GATE",
+    "day": 1,
+    "arrival": "21:47:00",
+    "departure": "21:48:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "STPD",
+    "station_name": "SITAFAL MANDI",
+    "day": 1,
+    "arrival": "21:51:00",
+    "departure": "21:52:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "ATC",
+    "station_name": "ARTS COLLEGE",
+    "day": 1,
+    "arrival": "21:54:00",
+    "departure": "21:55:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "JOO",
+    "station_name": "KACHEGUDA JAMIA OSMANIA",
+    "day": 1,
+    "arrival": "21:56:00",
+    "departure": "21:57:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "VAR",
+    "station_name": "VIDYANAGAR",
+    "day": 1,
+    "arrival": "21:58:00",
+    "departure": "21:59:00"
+  },
+  {
+    "train_number": "57562",
+    "station_code": "KCG",
+    "station_name": "KACHEGUDA",
+    "day": 1,
+    "arrival": "22:30:00",
+    "departure": "None"
+  }
+]

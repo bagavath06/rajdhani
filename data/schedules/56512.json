@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "56512",
+    "station_code": "MKM",
+    "station_name": "Marikuppam",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:50:00"
+  },
+  {
+    "train_number": "56512",
+    "station_code": "CHU",
+    "station_name": "Champion",
+    "day": 1,
+    "arrival": "20:54:00",
+    "departure": "20:55:00"
+  },
+  {
+    "train_number": "56512",
+    "station_code": "OGM",
+    "station_name": "Oorgaum",
+    "day": 1,
+    "arrival": "20:59:00",
+    "departure": "21:00:00"
+  },
+  {
+    "train_number": "56512",
+    "station_code": "COL",
+    "station_name": "Coromandel",
+    "day": 1,
+    "arrival": "21:03:00",
+    "departure": "21:04:00"
+  },
+  {
+    "train_number": "56512",
+    "station_code": "BEML",
+    "station_name": "BEML Nagar",
+    "day": 1,
+    "arrival": "21:07:00",
+    "departure": "21:08:00"
+  },
+  {
+    "train_number": "56512",
+    "station_code": "BWT",
+    "station_name": "BANGARAPET",
+    "day": 1,
+    "arrival": "21:25:00",
+    "departure": "None"
+  }
+]

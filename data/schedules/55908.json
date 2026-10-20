@@ -1,0 +1,114 @@
+[
+  {
+    "train_number": "55908",
+    "station_code": "LEDO",
+    "station_name": "Ledo",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:45:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "BGLI",
+    "station_name": "Bargolai",
+    "day": 1,
+    "arrival": "15:51:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "MRG",
+    "station_name": "Margherita",
+    "day": 1,
+    "arrival": "16:00:00",
+    "departure": "16:01:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "DBY",
+    "station_name": "Digboi",
+    "day": 1,
+    "arrival": "16:20:00",
+    "departure": "16:21:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "TII",
+    "station_name": "Tingrai",
+    "day": 1,
+    "arrival": "16:37:00",
+    "departure": "16:38:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "MJN",
+    "station_name": "Makum Junction",
+    "day": 1,
+    "arrival": "16:55:00",
+    "departure": "17:00:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "TSK",
+    "station_name": "Tinsukia Junction",
+    "day": 1,
+    "arrival": "17:19:00",
+    "departure": "17:20:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "NTSK",
+    "station_name": "NEW TINSUKIA JN",
+    "day": 1,
+    "arrival": "17:35:00",
+    "departure": "17:50:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "PNT",
+    "station_name": "PANITOLA",
+    "day": 1,
+    "arrival": "18:00:00",
+    "departure": "18:01:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "CHB",
+    "station_name": "CHABUA",
+    "day": 1,
+    "arrival": "18:15:00",
+    "departure": "18:16:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "DKM",
+    "station_name": "DIKOM",
+    "day": 2,
+    "arrival": "18:43:00",
+    "departure": "18:44:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "LHL",
+    "station_name": "LAHOAL",
+    "day": 3,
+    "arrival": "18:56:00",
+    "departure": "18:57:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "CKW",
+    "station_name": "CHALKHOA",
+    "day": 4,
+    "arrival": "19:07:00",
+    "departure": "19:08:00"
+  },
+  {
+    "train_number": "55908",
+    "station_code": "DBRT",
+    "station_name": "DIBRUGARH TOWN",
+    "day": 5,
+    "arrival": "19:45:00",
+    "departure": "None"
+  }
+]

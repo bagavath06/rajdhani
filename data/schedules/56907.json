@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "56907",
+    "station_code": "UBL",
+    "station_name": "HUBLI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:25:00"
+  },
+  {
+    "train_number": "56907",
+    "station_code": "UNK",
+    "station_name": "UNKAL",
+    "day": 1,
+    "arrival": "18:32:00",
+    "departure": "18:33:00"
+  },
+  {
+    "train_number": "56907",
+    "station_code": "AGL",
+    "station_name": "AMARGOL",
+    "day": 1,
+    "arrival": "18:39:00",
+    "departure": "18:40:00"
+  },
+  {
+    "train_number": "56907",
+    "station_code": "NVU",
+    "station_name": "NAVALUR",
+    "day": 1,
+    "arrival": "18:46:00",
+    "departure": "18:47:00"
+  },
+  {
+    "train_number": "56907",
+    "station_code": "DWR",
+    "station_name": "DHARWAR",
+    "day": 1,
+    "arrival": "19:10:00",
+    "departure": "None"
+  }
+]

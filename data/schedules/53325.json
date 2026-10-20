@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "53325",
+    "station_code": "SNDT",
+    "station_name": "Sindri Town",
+    "day": 1,
+    "arrival": "None",
+    "departure": "11:30:00"
+  },
+  {
+    "train_number": "53325",
+    "station_code": "SNMY",
+    "station_name": "Sindri Marshalling Yard",
+    "day": 1,
+    "arrival": "11:35:00",
+    "departure": "11:35:00"
+  },
+  {
+    "train_number": "53325",
+    "station_code": "SDBH",
+    "station_name": "Sindri Block Hut",
+    "day": 1,
+    "arrival": "11:43:00",
+    "departure": "11:44:00"
+  },
+  {
+    "train_number": "53325",
+    "station_code": "RKJE",
+    "station_name": "Rakhitpur",
+    "day": 1,
+    "arrival": "11:57:00",
+    "departure": "11:58:00"
+  },
+  {
+    "train_number": "53325",
+    "station_code": "PKA",
+    "station_name": "PRADHANKHUNTA",
+    "day": 1,
+    "arrival": "12:08:00",
+    "departure": "12:09:00"
+  },
+  {
+    "train_number": "53325",
+    "station_code": "DHN",
+    "station_name": "DHANBAD JN",
+    "day": 1,
+    "arrival": "12:35:00",
+    "departure": "None"
+  }
+]

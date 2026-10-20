@@ -1,0 +1,930 @@
+[
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CSTM",
+    "station_name": "MUMBAI CST",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:00:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MSD",
+    "station_name": "BOMBAY MASJID",
+    "day": 1,
+    "arrival": "15:01:00",
+    "departure": "15:01:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SNRD",
+    "station_name": "MUMBAI SANDHURST ROAD",
+    "day": 1,
+    "arrival": "15:02:00",
+    "departure": "15:02:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BY",
+    "station_name": "BYCULLA",
+    "day": 1,
+    "arrival": "15:03:00",
+    "departure": "15:03:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CHG",
+    "station_name": "MUMBAI CHINCHPOKLI",
+    "day": 1,
+    "arrival": "15:05:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CRD",
+    "station_name": "MUMBAI CURREY ROAD",
+    "day": 1,
+    "arrival": "15:05:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PR",
+    "station_name": "MUMBAI PAREL",
+    "day": 1,
+    "arrival": "15:07:00",
+    "departure": "15:07:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DR",
+    "station_name": "MUMBAI DADAR CENTRAL",
+    "day": 1,
+    "arrival": "15:08:00",
+    "departure": "15:10:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MTN",
+    "station_name": "MUMBAI MATUNGA",
+    "day": 1,
+    "arrival": "15:11:00",
+    "departure": "15:11:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SIN",
+    "station_name": "MUMBAI SION",
+    "day": 1,
+    "arrival": "15:14:00",
+    "departure": "15:14:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CLA",
+    "station_name": "KURLA JN",
+    "day": 1,
+    "arrival": "15:16:00",
+    "departure": "15:16:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "LTT",
+    "station_name": "LOKMANYA TILAK TERM",
+    "day": 1,
+    "arrival": "15:17:00",
+    "departure": "15:17:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "VVH",
+    "station_name": "VIDYAVIHAR",
+    "day": 1,
+    "arrival": "15:18:00",
+    "departure": "15:18:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "GC",
+    "station_name": "GHATKOPAR",
+    "day": 1,
+    "arrival": "15:20:00",
+    "departure": "15:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "VK",
+    "station_name": "VIKHROLI",
+    "day": 1,
+    "arrival": "15:23:00",
+    "departure": "15:23:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KJMG",
+    "station_name": "KANJUR MARG",
+    "day": 1,
+    "arrival": "15:25:00",
+    "departure": "15:25:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BND",
+    "station_name": "BHANDUP",
+    "day": 1,
+    "arrival": "15:27:00",
+    "departure": "15:27:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NHU",
+    "station_name": "NAHUR",
+    "day": 1,
+    "arrival": "15:28:00",
+    "departure": "15:28:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MLND",
+    "station_name": "MULUND",
+    "day": 1,
+    "arrival": "15:30:00",
+    "departure": "15:30:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TNA",
+    "station_name": "THANE",
+    "day": 1,
+    "arrival": "15:33:00",
+    "departure": "15:35:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KLVA",
+    "station_name": "KALVA",
+    "day": 1,
+    "arrival": "15:38:00",
+    "departure": "15:38:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MBQ",
+    "station_name": "MUMBRA",
+    "day": 1,
+    "arrival": "15:42:00",
+    "departure": "15:42:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DIVA",
+    "station_name": "DIVA",
+    "day": 1,
+    "arrival": "15:45:00",
+    "departure": "15:45:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KOPR",
+    "station_name": "KOPAR ROAD",
+    "day": 1,
+    "arrival": "15:49:00",
+    "departure": "15:49:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DI",
+    "station_name": "DOMBIVILI",
+    "day": 1,
+    "arrival": "15:50:00",
+    "departure": "15:50:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "THK",
+    "station_name": "THAKRULI",
+    "day": 1,
+    "arrival": "15:52:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KYN",
+    "station_name": "KALYAN JN",
+    "day": 1,
+    "arrival": "15:55:00",
+    "departure": "16:00:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SHAD",
+    "station_name": "SHAHAD",
+    "day": 1,
+    "arrival": "16:03:00",
+    "departure": "16:03:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "ABY",
+    "station_name": "AMBIVLI",
+    "day": 1,
+    "arrival": "16:06:00",
+    "departure": "16:06:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TLA",
+    "station_name": "TITVALA",
+    "day": 1,
+    "arrival": "16:10:00",
+    "departure": "16:10:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KDV",
+    "station_name": "KHADAVLI",
+    "day": 1,
+    "arrival": "16:18:00",
+    "departure": "16:18:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "VSD",
+    "station_name": "VASIND",
+    "day": 1,
+    "arrival": "16:25:00",
+    "departure": "16:25:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "ASO",
+    "station_name": "ASANGAON",
+    "day": 1,
+    "arrival": "16:31:00",
+    "departure": "16:31:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "ATG",
+    "station_name": "ATGAON",
+    "day": 1,
+    "arrival": "16:34:00",
+    "departure": "16:34:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KE",
+    "station_name": "KHARDI",
+    "day": 1,
+    "arrival": "16:51:00",
+    "departure": "16:51:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KSRA",
+    "station_name": "KASARA",
+    "day": 1,
+    "arrival": "17:03:00",
+    "departure": "17:05:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "IGP",
+    "station_name": "IGATPURI",
+    "day": 1,
+    "arrival": "17:43:00",
+    "departure": "17:45:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "GO",
+    "station_name": "GHOTI",
+    "day": 1,
+    "arrival": "17:52:00",
+    "departure": "17:52:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "AV",
+    "station_name": "ASVALI",
+    "day": 1,
+    "arrival": "18:06:00",
+    "departure": "18:06:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "LT",
+    "station_name": "LAHAVIT",
+    "day": 1,
+    "arrival": "18:17:00",
+    "departure": "18:17:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DVL",
+    "station_name": "DEVLALI",
+    "day": 1,
+    "arrival": "18:23:00",
+    "departure": "18:25:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NK",
+    "station_name": "NASIK ROAD",
+    "day": 1,
+    "arrival": "18:33:00",
+    "departure": "18:35:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "ODHA",
+    "station_name": "ODHA",
+    "day": 1,
+    "arrival": "18:44:00",
+    "departure": "18:44:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KW",
+    "station_name": "KHERVADI",
+    "day": 1,
+    "arrival": "18:49:00",
+    "departure": "18:49:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KBSN",
+    "station_name": "KASBE-SUKENE",
+    "day": 1,
+    "arrival": "18:54:00",
+    "departure": "18:54:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NR",
+    "station_name": "NIPHAD",
+    "day": 1,
+    "arrival": "18:58:00",
+    "departure": "19:00:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "UGN",
+    "station_name": "UGAON",
+    "day": 1,
+    "arrival": "19:07:00",
+    "departure": "19:07:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "LS",
+    "station_name": "LASALGAON",
+    "day": 1,
+    "arrival": "19:18:00",
+    "departure": "19:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SUM",
+    "station_name": "SUMMIT",
+    "day": 1,
+    "arrival": "19:33:00",
+    "departure": "19:33:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MMR",
+    "station_name": "MANMAD JN",
+    "day": 1,
+    "arrival": "19:47:00",
+    "departure": "19:50:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PNV",
+    "station_name": "PANEVADI",
+    "day": 1,
+    "arrival": "19:55:00",
+    "departure": "19:55:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "HSL",
+    "station_name": "HISVAHAL",
+    "day": 1,
+    "arrival": "20:02:00",
+    "departure": "20:02:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PJN",
+    "station_name": "PANJHAN",
+    "day": 1,
+    "arrival": "20:06:00",
+    "departure": "20:06:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NGN",
+    "station_name": "NANDGAON",
+    "day": 1,
+    "arrival": "20:13:00",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PKE",
+    "station_name": "PIMPAR KHED",
+    "day": 1,
+    "arrival": "20:24:00",
+    "departure": "20:24:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NI",
+    "station_name": "NAYDONGRI",
+    "day": 1,
+    "arrival": "20:31:00",
+    "departure": "20:31:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "RHNE",
+    "station_name": "ROHINI",
+    "day": 1,
+    "arrival": "20:39:00",
+    "departure": "20:39:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "HPR",
+    "station_name": "HIRAPUR",
+    "day": 1,
+    "arrival": "20:42:00",
+    "departure": "20:42:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CSN",
+    "station_name": "CHALISGAON JN",
+    "day": 1,
+    "arrival": "20:48:00",
+    "departure": "20:50:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "VGL",
+    "station_name": "VAGHLI",
+    "day": 1,
+    "arrival": "20:56:00",
+    "departure": "20:56:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KJ",
+    "station_name": "KAJGAON",
+    "day": 1,
+    "arrival": "21:03:00",
+    "departure": "21:03:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NGD",
+    "station_name": "NAGARDEVLA",
+    "day": 1,
+    "arrival": "21:06:00",
+    "departure": "21:06:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "GAA",
+    "station_name": "GALAN",
+    "day": 1,
+    "arrival": "21:13:00",
+    "departure": "21:13:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PC",
+    "station_name": "PACHORA JN",
+    "day": 1,
+    "arrival": "21:20:00",
+    "departure": "21:22:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PHQ",
+    "station_name": "PARDHANDE",
+    "day": 1,
+    "arrival": "21:31:00",
+    "departure": "21:31:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MYJ",
+    "station_name": "MAHEJI",
+    "day": 1,
+    "arrival": "21:34:00",
+    "departure": "21:34:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MWD",
+    "station_name": "MHASAVAD",
+    "day": 1,
+    "arrival": "21:42:00",
+    "departure": "21:42:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SS",
+    "station_name": "SHIRSOLI",
+    "day": 1,
+    "arrival": "21:49:00",
+    "departure": "21:49:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "JL",
+    "station_name": "JALGAON JN",
+    "day": 1,
+    "arrival": "21:58:00",
+    "departure": "22:00:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TRW",
+    "station_name": "TARSOD",
+    "day": 1,
+    "arrival": "22:11:00",
+    "departure": "22:11:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BDI",
+    "station_name": "BHADLI",
+    "day": 1,
+    "arrival": "22:17:00",
+    "departure": "22:17:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BSL",
+    "station_name": "BHUSAVAL JN",
+    "day": 1,
+    "arrival": "22:35:00",
+    "departure": "22:40:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "VNA",
+    "station_name": "VARANGAON",
+    "day": 1,
+    "arrival": "22:58:00",
+    "departure": "23:00:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "ACG",
+    "station_name": "ACHEGAON",
+    "day": 1,
+    "arrival": "23:08:00",
+    "departure": "23:08:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BDWD",
+    "station_name": "BODWAD",
+    "day": 1,
+    "arrival": "23:19:00",
+    "departure": "23:21:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KMKD",
+    "station_name": "KHAMKHED",
+    "day": 1,
+    "arrival": "23:29:00",
+    "departure": "23:29:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MKU",
+    "station_name": "MALKAPUR",
+    "day": 1,
+    "arrival": "23:35:00",
+    "departure": "23:37:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BIS",
+    "station_name": "BISWA BRIDGE",
+    "day": 1,
+    "arrival": "23:47:00",
+    "departure": "23:47:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KJL",
+    "station_name": "KHUMGAON BURTI",
+    "day": 1,
+    "arrival": "23:52:00",
+    "departure": "23:52:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NN",
+    "station_name": "NANDURA",
+    "day": 1,
+    "arrival": "23:57:00",
+    "departure": "23:59:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "JM",
+    "station_name": "JALAMB JN",
+    "day": 2,
+    "arrival": "00:08:00",
+    "departure": "00:10:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SEG",
+    "station_name": "SHEGAON",
+    "day": 2,
+    "arrival": "00:18:00",
+    "departure": "00:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NGZ",
+    "station_name": "S K NAGJIHARI",
+    "day": 2,
+    "arrival": "00:29:00",
+    "departure": "00:29:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PS",
+    "station_name": "PARAS",
+    "day": 2,
+    "arrival": "00:39:00",
+    "departure": "00:39:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "GAO",
+    "station_name": "GAIGAON",
+    "day": 2,
+    "arrival": "00:47:00",
+    "departure": "00:47:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "AK",
+    "station_name": "AKOLA JN",
+    "day": 2,
+    "arrival": "01:00:00",
+    "departure": "01:05:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "YAD",
+    "station_name": "YEULKHED",
+    "day": 2,
+    "arrival": "01:11:00",
+    "departure": "01:11:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BGN",
+    "station_name": "BORGAON",
+    "day": 2,
+    "arrival": "01:20:00",
+    "departure": "01:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KTP",
+    "station_name": "KATEPURNA",
+    "day": 2,
+    "arrival": "01:27:00",
+    "departure": "01:27:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MZR",
+    "station_name": "MURTAJAPUR",
+    "day": 2,
+    "arrival": "01:35:00",
+    "departure": "01:37:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MANA",
+    "station_name": "MANA",
+    "day": 2,
+    "arrival": "01:57:00",
+    "departure": "01:57:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MNDA",
+    "station_name": "MANDURA",
+    "day": 2,
+    "arrival": "02:07:00",
+    "departure": "02:07:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KUM",
+    "station_name": "KURAM",
+    "day": 2,
+    "arrival": "02:19:00",
+    "departure": "02:19:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TKI",
+    "station_name": "TAKLI",
+    "day": 2,
+    "arrival": "02:31:00",
+    "departure": "02:31:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BD",
+    "station_name": "BADNERA JN",
+    "day": 2,
+    "arrival": "02:45:00",
+    "departure": "02:50:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TMT",
+    "station_name": "TIMTALA",
+    "day": 2,
+    "arrival": "02:54:00",
+    "departure": "02:54:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "MLR",
+    "station_name": "MALKHED",
+    "day": 2,
+    "arrival": "02:57:00",
+    "departure": "02:57:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "CND",
+    "station_name": "CHANDUR",
+    "day": 2,
+    "arrival": "03:05:00",
+    "departure": "03:07:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DIP",
+    "station_name": "DIPORE",
+    "day": 2,
+    "arrival": "03:12:00",
+    "departure": "03:12:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DMN",
+    "station_name": "DHAMANGAON",
+    "day": 2,
+    "arrival": "03:20:00",
+    "departure": "03:22:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TLN",
+    "station_name": "TALNI",
+    "day": 2,
+    "arrival": "03:30:00",
+    "departure": "03:30:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "PLO",
+    "station_name": "PULGAON JN",
+    "day": 2,
+    "arrival": "03:37:00",
+    "departure": "03:39:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KAOT",
+    "station_name": "KAOTHA",
+    "day": 2,
+    "arrival": "03:47:00",
+    "departure": "03:47:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "DAE",
+    "station_name": "DAHEGAON",
+    "day": 2,
+    "arrival": "03:58:00",
+    "departure": "03:58:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "WR",
+    "station_name": "WARDHA JN",
+    "day": 2,
+    "arrival": "04:15:00",
+    "departure": "04:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SEGM",
+    "station_name": "SEVAGRAM",
+    "day": 2,
+    "arrival": "04:25:00",
+    "departure": "04:27:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "WRD",
+    "station_name": "Warudkhed",
+    "day": 2,
+    "arrival": "04:29:00",
+    "departure": "04:29:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SLOR",
+    "station_name": "SELOO ROAD",
+    "day": 2,
+    "arrival": "04:35:00",
+    "departure": "04:35:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "TGP",
+    "station_name": "TULJAPUR",
+    "day": 2,
+    "arrival": "04:42:00",
+    "departure": "04:42:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "SNI",
+    "station_name": "SINDI",
+    "day": 2,
+    "arrival": "04:48:00",
+    "departure": "04:50:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BOK",
+    "station_name": "BORKHEDI",
+    "day": 2,
+    "arrival": "05:02:00",
+    "departure": "05:02:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "BTBR",
+    "station_name": "BUTI BORI",
+    "day": 2,
+    "arrival": "05:10:00",
+    "departure": "05:10:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "GMG",
+    "station_name": "GUMGAON",
+    "day": 2,
+    "arrival": "05:20:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "KRI",
+    "station_name": "KHAPTI",
+    "day": 2,
+    "arrival": "05:27:00",
+    "departure": "05:27:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "AJNI",
+    "station_name": "AJNI",
+    "day": 2,
+    "arrival": "05:35:00",
+    "departure": "05:37:00"
+  },
+  {
+    "train_number": "12139-Slip",
+    "station_code": "NGP",
+    "station_name": "NAGPUR",
+    "day": 2,
+    "arrival": "06:10:00",
+    "departure": "None"
+  }
+]

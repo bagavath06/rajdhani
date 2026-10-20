@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "07606",
+    "station_code": "NZB",
+    "station_name": "NIZAMABAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "14:20:00"
+  },
+  {
+    "train_number": "07606",
+    "station_code": "DHP",
+    "station_name": "DICHPALLI",
+    "day": 1,
+    "arrival": "14:34:00",
+    "departure": "14:34:00"
+  },
+  {
+    "train_number": "07606",
+    "station_code": "IDL",
+    "station_name": "INDALVAI",
+    "day": 1,
+    "arrival": "14:44:00",
+    "departure": "14:44:00"
+  },
+  {
+    "train_number": "07606",
+    "station_code": "SCP",
+    "station_name": "SIRNAPALLI",
+    "day": 1,
+    "arrival": "14:52:00",
+    "departure": "14:52:00"
+  },
+  {
+    "train_number": "07606",
+    "station_code": "UPW",
+    "station_name": "UPPALAVAI",
+    "day": 1,
+    "arrival": "15:03:00",
+    "departure": "15:03:00"
+  },
+  {
+    "train_number": "07606",
+    "station_code": "KMC",
+    "station_name": "KAMAREDDI",
+    "day": 1,
+    "arrival": "15:15:00",
+    "departure": "None"
+  }
+]

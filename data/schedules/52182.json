@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "52182",
+    "station_code": "TPO",
+    "station_name": "Tantpur",
+    "day": 1,
+    "arrival": "None",
+    "departure": "13:20:00"
+  },
+  {
+    "train_number": "52182",
+    "station_code": "BFG",
+    "station_name": "Bagthar",
+    "day": 1,
+    "arrival": "13:33:00",
+    "departure": "13:34:00"
+  },
+  {
+    "train_number": "52182",
+    "station_code": "BED",
+    "station_name": "Baseri",
+    "day": 1,
+    "arrival": "13:47:00",
+    "departure": "13:48:00"
+  },
+  {
+    "train_number": "52182",
+    "station_code": "MHF",
+    "station_name": "Mohari Junction",
+    "day": 1,
+    "arrival": "14:03:00",
+    "departure": "14:04:00"
+  },
+  {
+    "train_number": "52182",
+    "station_code": "BARI",
+    "station_name": "Bari",
+    "day": 1,
+    "arrival": "14:30:00",
+    "departure": "None"
+  }
+]

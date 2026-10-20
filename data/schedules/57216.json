@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "57216",
+    "station_code": "GNT",
+    "station_name": "GUNTUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:00:00"
+  },
+  {
+    "train_number": "57216",
+    "station_code": "VJA",
+    "station_name": "VEJANDLA",
+    "day": 1,
+    "arrival": "21:09:00",
+    "departure": "21:11:00"
+  },
+  {
+    "train_number": "57216",
+    "station_code": "SJL",
+    "station_name": "SANGAM JAGARLAMUDI",
+    "day": 1,
+    "arrival": "21:17:00",
+    "departure": "21:18:00"
+  },
+  {
+    "train_number": "57216",
+    "station_code": "AKU",
+    "station_name": "ANGALAKUDURU",
+    "day": 1,
+    "arrival": "21:23:00",
+    "departure": "21:24:00"
+  },
+  {
+    "train_number": "57216",
+    "station_code": "TEL",
+    "station_name": "TENALI JN",
+    "day": 1,
+    "arrival": "21:45:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "train_number": "12458",
+    "station_code": "BKN",
+    "station_name": "BIKANER JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "22:40:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "NPS",
+    "station_name": "Napasar",
+    "day": 1,
+    "arrival": "23:05:00",
+    "departure": "23:07:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "SDF",
+    "station_name": "Sudsar",
+    "day": 1,
+    "arrival": "23:20:00",
+    "departure": "23:20:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BS",
+    "station_name": "Banisar",
+    "day": 1,
+    "arrival": "23:28:00",
+    "departure": "23:28:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "SDGH",
+    "station_name": "Sri Dungargarh",
+    "day": 1,
+    "arrival": "23:35:00",
+    "departure": "23:37:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BIGA",
+    "station_name": "Bigga",
+    "day": 1,
+    "arrival": "23:48:00",
+    "departure": "23:48:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BGRM",
+    "station_name": "Biggabas Ramsara",
+    "day": 1,
+    "arrival": "23:53:00",
+    "departure": "23:53:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "RJR",
+    "station_name": "Rajaldesar",
+    "day": 2,
+    "arrival": "00:15:00",
+    "departure": "00:17:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "RTGH",
+    "station_name": "Ratangarh Junction",
+    "day": 2,
+    "arrival": "00:35:00",
+    "departure": "00:40:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "MIO",
+    "station_name": "Molisar",
+    "day": 2,
+    "arrival": "00:52:00",
+    "departure": "00:52:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "JOH",
+    "station_name": "Juharpura",
+    "day": 2,
+    "arrival": "01:04:00",
+    "departure": "01:04:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DEP",
+    "station_name": "Depalsar",
+    "day": 2,
+    "arrival": "01:09:00",
+    "departure": "01:09:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "CUR",
+    "station_name": "Churu",
+    "day": 2,
+    "arrival": "01:15:00",
+    "departure": "01:25:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "ASLU",
+    "station_name": "Aslu",
+    "day": 2,
+    "arrival": "01:36:00",
+    "departure": "01:36:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DKX",
+    "station_name": "Dudhwakhara",
+    "day": 2,
+    "arrival": "01:47:00",
+    "departure": "01:47:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "HYL",
+    "station_name": "Hadyal",
+    "day": 2,
+    "arrival": "01:56:00",
+    "departure": "01:56:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DKWA",
+    "station_name": "Dokwa",
+    "day": 2,
+    "arrival": "02:06:00",
+    "departure": "02:06:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "SDLP",
+    "station_name": "Sadulpur Junction",
+    "day": 2,
+    "arrival": "02:15:00",
+    "departure": "02:20:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "HR",
+    "station_name": "Harpalu",
+    "day": 2,
+    "arrival": "02:36:00",
+    "departure": "02:36:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "RMB",
+    "station_name": "Rampura Beri",
+    "day": 2,
+    "arrival": "02:44:00",
+    "departure": "02:44:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "PVZ",
+    "station_name": "Parvezpur",
+    "day": 2,
+    "arrival": "02:49:00",
+    "departure": "02:49:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "LHU",
+    "station_name": "Loharu",
+    "day": 2,
+    "arrival": "02:58:00",
+    "departure": "03:03:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "SAWN",
+    "station_name": "Sohansra",
+    "day": 2,
+    "arrival": "03:11:00",
+    "departure": "03:11:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "STNL",
+    "station_name": "Satnali",
+    "day": 2,
+    "arrival": "03:23:00",
+    "departure": "03:23:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "ZP",
+    "station_name": "Zarpur Pali",
+    "day": 2,
+    "arrival": "03:42:00",
+    "departure": "03:42:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "MHRG",
+    "station_name": "Mahendragarh",
+    "day": 2,
+    "arrival": "03:52:00",
+    "departure": "03:52:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BJWS",
+    "station_name": "Bojawas",
+    "day": 2,
+    "arrival": "04:05:00",
+    "departure": "04:05:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "KNNK",
+    "station_name": "Kanina Khas",
+    "day": 2,
+    "arrival": "04:11:00",
+    "departure": "04:11:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DZB",
+    "station_name": "Dahina Zainabad",
+    "day": 2,
+    "arrival": "04:21:00",
+    "departure": "04:21:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "NNU",
+    "station_name": "Nangal Mundi",
+    "day": 2,
+    "arrival": "04:37:00",
+    "departure": "04:37:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "RE",
+    "station_name": "REWARI",
+    "day": 2,
+    "arrival": "04:51:00",
+    "departure": "04:53:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "KWMD",
+    "station_name": "KUMBHAWAS MUNDA",
+    "day": 2,
+    "arrival": "04:58:00",
+    "departure": "04:58:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "KIP",
+    "station_name": "KHALILPUR",
+    "day": 2,
+    "arrival": "05:02:00",
+    "departure": "05:02:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "IHP",
+    "station_name": "INCHHAPURI",
+    "day": 2,
+    "arrival": "05:07:00",
+    "departure": "05:07:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "PTRD",
+    "station_name": "PATAUDI ROAD",
+    "day": 2,
+    "arrival": "05:11:00",
+    "departure": "05:11:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "JSKA",
+    "station_name": "JATAULA SAMPHKA",
+    "day": 2,
+    "arrival": "05:15:00",
+    "departure": "05:15:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "TJNR",
+    "station_name": "Taj Nagar",
+    "day": 2,
+    "arrival": "05:18:00",
+    "departure": "05:18:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "PT",
+    "station_name": "PATLI",
+    "day": 2,
+    "arrival": "05:20:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "GHH",
+    "station_name": "GARHI HARSARU",
+    "day": 2,
+    "arrival": "05:27:00",
+    "departure": "05:27:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BDXT",
+    "station_name": "BASAI DHANKOT",
+    "day": 2,
+    "arrival": "05:31:00",
+    "departure": "05:31:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "GGN",
+    "station_name": "GURGAON",
+    "day": 2,
+    "arrival": "05:34:00",
+    "departure": "05:36:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "BWSN",
+    "station_name": "BIJWASAN",
+    "day": 2,
+    "arrival": "05:43:00",
+    "departure": "05:43:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "SMDP",
+    "station_name": "SHAHABAD MOHAMADPUR",
+    "day": 2,
+    "arrival": "05:47:00",
+    "departure": "05:47:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "PM",
+    "station_name": "PALAM",
+    "day": 2,
+    "arrival": "05:51:00",
+    "departure": "05:51:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DEC",
+    "station_name": "DELHI CANTT",
+    "day": 2,
+    "arrival": "05:55:00",
+    "departure": "05:57:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "KRTN",
+    "station_name": "KIRTI NAGAR",
+    "day": 2,
+    "arrival": "06:10:00",
+    "departure": "06:10:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "PTNR",
+    "station_name": "PATEL NAGAR",
+    "day": 2,
+    "arrival": "06:12:00",
+    "departure": "06:12:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DBSI",
+    "station_name": "DAYA BASTI",
+    "day": 2,
+    "arrival": "06:16:00",
+    "departure": "06:16:00"
+  },
+  {
+    "train_number": "12458",
+    "station_code": "DEE",
+    "station_name": "DELHI SARAI ROHILLA",
+    "day": 2,
+    "arrival": "06:20:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "55005",
+    "station_code": "RXL",
+    "station_name": "RAXAUL JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "23:10:00"
+  },
+  {
+    "train_number": "55005",
+    "station_code": "MSDH",
+    "station_name": "MASNADIH",
+    "day": 1,
+    "arrival": "23:19:00",
+    "departure": "23:20:00"
+  },
+  {
+    "train_number": "55005",
+    "station_code": "RGH",
+    "station_name": "RAMGARHWA",
+    "day": 1,
+    "arrival": "23:27:00",
+    "departure": "23:28:00"
+  },
+  {
+    "train_number": "55005",
+    "station_code": "SGL",
+    "station_name": "SAGAULI JN",
+    "day": 1,
+    "arrival": "23:55:00",
+    "departure": "None"
+  }
+]

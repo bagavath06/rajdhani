@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "59214",
+    "station_code": "PBR",
+    "station_name": "PORBANDAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:10:00"
+  },
+  {
+    "train_number": "59214",
+    "station_code": "RWO",
+    "station_name": "RANAVAV",
+    "day": 1,
+    "arrival": "05:24:00",
+    "departure": "05:25:00"
+  },
+  {
+    "train_number": "59214",
+    "station_code": "RNBD",
+    "station_name": "RANA BORDI",
+    "day": 1,
+    "arrival": "05:46:00",
+    "departure": "05:47:00"
+  },
+  {
+    "train_number": "59214",
+    "station_code": "SKR",
+    "station_name": "SAKHPUR",
+    "day": 1,
+    "arrival": "05:51:00",
+    "departure": "05:52:00"
+  },
+  {
+    "train_number": "59214",
+    "station_code": "WSJ",
+    "station_name": "WANSJALIYA",
+    "day": 1,
+    "arrival": "06:06:00",
+    "departure": "06:07:00"
+  },
+  {
+    "train_number": "59214",
+    "station_code": "BNVD",
+    "station_name": "BHANVAD",
+    "day": 1,
+    "arrival": "06:40:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "59270",
+    "station_code": "BVC",
+    "station_name": "BHAVNAGAR TERMINUS",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:15:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "BVP",
+    "station_name": "BHAVANAGAR PARA",
+    "day": 1,
+    "arrival": "18:20:00",
+    "departure": "18:21:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "NROD",
+    "station_name": "NARI ROAD",
+    "day": 1,
+    "arrival": "18:27:00",
+    "departure": "18:27:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "VTJ",
+    "station_name": "VARTEJ",
+    "day": 1,
+    "arrival": "18:31:00",
+    "departure": "18:32:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "KDMR",
+    "station_name": "KODIYAR MANDIR",
+    "day": 1,
+    "arrival": "18:39:00",
+    "departure": "18:40:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "SOJN",
+    "station_name": "SIHOR GUJARAT",
+    "day": 1,
+    "arrival": "18:47:00",
+    "departure": "18:48:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "KNAD",
+    "station_name": "Kanad",
+    "day": 1,
+    "arrival": "19:04:00",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "MDHA",
+    "station_name": "Madhada",
+    "day": 1,
+    "arrival": "19:13:00",
+    "departure": "19:14:00"
+  },
+  {
+    "train_number": "59270",
+    "station_code": "PIT",
+    "station_name": "Palitana",
+    "day": 1,
+    "arrival": "19:30:00",
+    "departure": "None"
+  }
+]

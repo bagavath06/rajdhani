@@ -1,0 +1,66 @@
+[
+  {
+    "train_number": "64450",
+    "station_code": "NDLS",
+    "station_name": "NEW DELHI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:50:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "CSB",
+    "station_name": "SHIVAJI BRIDGE",
+    "day": 1,
+    "arrival": "17:56:00",
+    "departure": "17:57:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "TKJ",
+    "station_name": "TILAK BRIDGE",
+    "day": 1,
+    "arrival": "18:00:00",
+    "departure": "18:01:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "ANVR",
+    "station_name": "ANAND VIHAR",
+    "day": 1,
+    "arrival": "18:10:00",
+    "departure": "18:11:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "ANVT",
+    "station_name": "ANAND VIHAR TRM",
+    "day": 1,
+    "arrival": "18:11:00",
+    "departure": "18:11:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "CNJ",
+    "station_name": "CHANDER NAGAR",
+    "day": 1,
+    "arrival": "18:14:00",
+    "departure": "18:14:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "SBB",
+    "station_name": "SAHIBABAD",
+    "day": 1,
+    "arrival": "18:19:00",
+    "departure": "18:20:00"
+  },
+  {
+    "train_number": "64450",
+    "station_code": "GZB",
+    "station_name": "GHAZIABAD",
+    "day": 1,
+    "arrival": "18:35:00",
+    "departure": "None"
+  }
+]

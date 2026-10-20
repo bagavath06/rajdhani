@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "54228",
+    "station_code": "RBL",
+    "station_name": "RAE BARELI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:45:00"
+  },
+  {
+    "train_number": "54228",
+    "station_code": "DYP",
+    "station_name": "Daryapur",
+    "day": 1,
+    "arrival": "15:54:00",
+    "departure": "15:55:00"
+  },
+  {
+    "train_number": "54228",
+    "station_code": "LMN",
+    "station_name": "Lachhmanpur",
+    "day": 1,
+    "arrival": "16:08:00",
+    "departure": "16:09:00"
+  },
+  {
+    "train_number": "54228",
+    "station_code": "RCP",
+    "station_name": "Ramachandrapur",
+    "day": 1,
+    "arrival": "16:17:00",
+    "departure": "16:18:00"
+  },
+  {
+    "train_number": "54228",
+    "station_code": "UCR",
+    "station_name": "Unchahar Junction",
+    "day": 1,
+    "arrival": "16:35:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "train_number": "57273",
+    "station_code": "UBL",
+    "station_name": "HUBLI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:00:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KUG",
+    "station_name": "KUSUGALI",
+    "day": 1,
+    "arrival": "06:10:00",
+    "departure": "06:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HBS",
+    "station_name": "HEBSUR",
+    "day": 1,
+    "arrival": "06:27:00",
+    "departure": "06:27:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "SVHE",
+    "station_name": "SISVINHALLI",
+    "day": 1,
+    "arrival": "06:27:00",
+    "departure": "06:28:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "NGR",
+    "station_name": "ANNIGERI",
+    "day": 1,
+    "arrival": "06:34:00",
+    "departure": "06:35:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "LKT",
+    "station_name": "HULKOTI",
+    "day": 1,
+    "arrival": "06:44:00",
+    "departure": "06:45:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GDG",
+    "station_name": "GADAG JN",
+    "day": 1,
+    "arrival": "07:05:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KGX",
+    "station_name": "KANGINHAL",
+    "day": 1,
+    "arrival": "07:21:00",
+    "departure": "07:21:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RLP",
+    "station_name": "HARLAPUR",
+    "day": 1,
+    "arrival": "07:34:00",
+    "departure": "07:34:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "SOQ",
+    "station_name": "SOMPUR ROAD",
+    "day": 1,
+    "arrival": "07:45:00",
+    "departure": "07:45:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BNA",
+    "station_name": "BANNI KOPPA",
+    "day": 1,
+    "arrival": "07:55:00",
+    "departure": "07:55:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BNP",
+    "station_name": "BHANAPUR",
+    "day": 1,
+    "arrival": "08:09:00",
+    "departure": "08:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KBL",
+    "station_name": "KOPPAL",
+    "day": 1,
+    "arrival": "08:24:00",
+    "departure": "08:25:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GIN",
+    "station_name": "GINIGERA",
+    "day": 1,
+    "arrival": "08:39:00",
+    "departure": "08:40:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HTNL",
+    "station_name": "HITNAL",
+    "day": 1,
+    "arrival": "08:46:00",
+    "departure": "08:46:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "MRB",
+    "station_name": "MUNIRABAD",
+    "day": 1,
+    "arrival": "08:54:00",
+    "departure": "08:55:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HPT",
+    "station_name": "HOSPET JN",
+    "day": 1,
+    "arrival": "09:10:00",
+    "departure": "09:15:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KGW",
+    "station_name": "KARIGANURU",
+    "day": 1,
+    "arrival": "09:23:00",
+    "departure": "09:23:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "PKL",
+    "station_name": "PAPINAYAKNAHALI",
+    "day": 1,
+    "arrival": "09:31:00",
+    "departure": "09:31:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GNR",
+    "station_name": "GADIGANURU",
+    "day": 1,
+    "arrival": "09:46:00",
+    "departure": "09:46:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "TNGL",
+    "station_name": "TORANAGALLU",
+    "day": 1,
+    "arrival": "09:54:00",
+    "departure": "09:55:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "DAJ",
+    "station_name": "DUROJI",
+    "day": 1,
+    "arrival": "10:04:00",
+    "departure": "10:05:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KDN",
+    "station_name": "KUDATINI",
+    "day": 1,
+    "arrival": "10:19:00",
+    "departure": "10:19:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BYC",
+    "station_name": "BELLARY CANT",
+    "day": 1,
+    "arrival": "10:48:00",
+    "departure": "10:49:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BAY",
+    "station_name": "BELLARY JN",
+    "day": 1,
+    "arrival": "11:05:00",
+    "departure": "11:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HDD",
+    "station_name": "HADDINAGUNDU",
+    "day": 1,
+    "arrival": "11:18:00",
+    "departure": "11:18:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HGI",
+    "station_name": "HAGARI",
+    "day": 1,
+    "arrival": "11:27:00",
+    "departure": "11:28:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "VP",
+    "station_name": "VIRAPUR",
+    "day": 1,
+    "arrival": "11:37:00",
+    "departure": "11:38:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "TKBN",
+    "station_name": "TSAKIBANDA",
+    "day": 1,
+    "arrival": "11:45:00",
+    "departure": "11:45:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BNL",
+    "station_name": "BEVINAHALU",
+    "day": 1,
+    "arrival": "11:49:00",
+    "departure": "11:50:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "SNKG",
+    "station_name": "SANKARAGUMMANUR HALT",
+    "day": 1,
+    "arrival": "11:53:00",
+    "departure": "11:53:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BLL",
+    "station_name": "BANTANAHAL",
+    "day": 1,
+    "arrival": "11:57:00",
+    "departure": "11:58:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GTL",
+    "station_name": "GUNTAKAL JN",
+    "day": 1,
+    "arrival": "12:25:00",
+    "departure": "12:40:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "TIM",
+    "station_name": "TIMMANACHERLA",
+    "day": 1,
+    "arrival": "12:47:00",
+    "departure": "12:48:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "NKDO",
+    "station_name": "NAKKANADODDI",
+    "day": 1,
+    "arrival": "12:55:00",
+    "departure": "12:56:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "PLU",
+    "station_name": "PATAKOTTACHERU",
+    "day": 1,
+    "arrival": "13:01:00",
+    "departure": "13:02:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GY",
+    "station_name": "GOOTY JN",
+    "day": 1,
+    "arrival": "13:14:00",
+    "departure": "13:15:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "JKO",
+    "station_name": "JAKKALACHERUVU",
+    "day": 1,
+    "arrival": "13:26:00",
+    "departure": "13:27:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RLO",
+    "station_name": "RAYALCHERUVU",
+    "day": 1,
+    "arrival": "13:36:00",
+    "departure": "13:37:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "JUR",
+    "station_name": "JUTTURU",
+    "day": 1,
+    "arrival": "13:54:00",
+    "departure": "13:55:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "TU",
+    "station_name": "TADIPATRI",
+    "day": 1,
+    "arrival": "14:07:00",
+    "departure": "14:08:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "VRN",
+    "station_name": "VANGANUR",
+    "day": 1,
+    "arrival": "14:24:00",
+    "departure": "14:25:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RLL",
+    "station_name": "REGADIPALLI",
+    "day": 1,
+    "arrival": "14:34:00",
+    "departure": "14:35:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KDP",
+    "station_name": "KONDAPURAM",
+    "day": 1,
+    "arrival": "14:59:00",
+    "departure": "15:00:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "MUM",
+    "station_name": "MANGAPATNAM",
+    "day": 1,
+    "arrival": "15:09:00",
+    "departure": "15:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "MOO",
+    "station_name": "MUDDANURU",
+    "day": 1,
+    "arrival": "15:24:00",
+    "departure": "15:25:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KMH",
+    "station_name": "KALAMALIA",
+    "day": 1,
+    "arrival": "15:37:00",
+    "departure": "15:38:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "YA",
+    "station_name": "YERRAGUNTLA",
+    "day": 1,
+    "arrival": "15:47:00",
+    "departure": "15:48:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "YGD",
+    "station_name": "YERRAGUDIPAD",
+    "day": 1,
+    "arrival": "15:57:00",
+    "departure": "15:58:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KKM",
+    "station_name": "KAMALAPURAM",
+    "day": 1,
+    "arrival": "16:09:00",
+    "departure": "16:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "GPY",
+    "station_name": "GANGAYAPLLE",
+    "day": 1,
+    "arrival": "16:16:00",
+    "departure": "16:17:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KPU",
+    "station_name": "KRISHNAPURAM",
+    "day": 1,
+    "arrival": "16:25:00",
+    "departure": "16:26:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HX",
+    "station_name": "CUDDAPAH",
+    "day": 1,
+    "arrival": "17:04:00",
+    "departure": "17:05:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KNLP",
+    "station_name": "KANAMALO PALLE",
+    "day": 1,
+    "arrival": "17:16:00",
+    "departure": "17:17:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "BKPT",
+    "station_name": "BHAKARAPET",
+    "day": 1,
+    "arrival": "17:24:00",
+    "departure": "17:25:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "VNM",
+    "station_name": "ONTIMITTA",
+    "day": 1,
+    "arrival": "17:32:00",
+    "departure": "17:33:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "MMPL",
+    "station_name": "MANTAPAMPALLE",
+    "day": 1,
+    "arrival": "17:42:00",
+    "departure": "17:43:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "NRE",
+    "station_name": "NANDALUR",
+    "day": 1,
+    "arrival": "17:59:00",
+    "departure": "18:00:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "HAQ",
+    "station_name": "HASTAVARMU",
+    "day": 1,
+    "arrival": "18:09:00",
+    "departure": "18:10:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RJP",
+    "station_name": "RAZAMPETA",
+    "day": 1,
+    "arrival": "18:18:00",
+    "departure": "18:19:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "PMT",
+    "station_name": "PULLAMPET",
+    "day": 1,
+    "arrival": "18:28:00",
+    "departure": "18:29:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RPL",
+    "station_name": "REDDIPALLE",
+    "day": 1,
+    "arrival": "18:34:00",
+    "departure": "18:35:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "OBVP",
+    "station_name": "OBULAVARIPALLI",
+    "day": 1,
+    "arrival": "18:42:00",
+    "departure": "18:43:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "ANE",
+    "station_name": "ANANTARAJUPET",
+    "day": 1,
+    "arrival": "18:49:00",
+    "departure": "18:50:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "KOU",
+    "station_name": "KODURU",
+    "day": 1,
+    "arrival": "18:57:00",
+    "departure": "18:58:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "SF",
+    "station_name": "SETTIGUNTA",
+    "day": 1,
+    "arrival": "19:07:00",
+    "departure": "19:08:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "MRM",
+    "station_name": "MAMANDURU",
+    "day": 1,
+    "arrival": "19:28:00",
+    "departure": "19:29:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "RU",
+    "station_name": "RENIGUNTA JN",
+    "day": 1,
+    "arrival": "20:15:00",
+    "departure": "20:20:00"
+  },
+  {
+    "train_number": "57273",
+    "station_code": "TPTY",
+    "station_name": "TIRUPATI MAIN",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "None"
+  }
+]

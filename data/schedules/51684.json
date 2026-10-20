@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "51684",
+    "station_code": "BIR",
+    "station_name": "Bir",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:40:00"
+  },
+  {
+    "train_number": "51684",
+    "station_code": "KHA",
+    "station_name": "Khaigaon",
+    "day": 1,
+    "arrival": "06:54:00",
+    "departure": "06:55:00"
+  },
+  {
+    "train_number": "51684",
+    "station_code": "TLV",
+    "station_name": "TALVADYA",
+    "day": 1,
+    "arrival": "07:09:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "51684",
+    "station_code": "MTA",
+    "station_name": "MATHELA",
+    "day": 1,
+    "arrival": "07:18:00",
+    "departure": "07:19:00"
+  },
+  {
+    "train_number": "51684",
+    "station_code": "KNW",
+    "station_name": "KHANDWA",
+    "day": 1,
+    "arrival": "07:30:00",
+    "departure": "None"
+  }
+]

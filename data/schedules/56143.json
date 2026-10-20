@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "56143",
+    "station_code": "ONR",
+    "station_name": "Coonoor",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:35:00"
+  },
+  {
+    "train_number": "56143",
+    "station_code": "WEL",
+    "station_name": "Wellington",
+    "day": 1,
+    "arrival": "12:42:00",
+    "departure": "12:43:00"
+  },
+  {
+    "train_number": "56143",
+    "station_code": "AVK",
+    "station_name": "Aravankadu",
+    "day": 1,
+    "arrival": "12:51:00",
+    "departure": "12:53:00"
+  },
+  {
+    "train_number": "56143",
+    "station_code": "KXT",
+    "station_name": "Ketti",
+    "day": 1,
+    "arrival": "13:10:00",
+    "departure": "13:12:00"
+  },
+  {
+    "train_number": "56143",
+    "station_code": "LOV",
+    "station_name": "Lovedale",
+    "day": 1,
+    "arrival": "13:28:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "56143",
+    "station_code": "UAM",
+    "station_name": "Udagamandalam",
+    "day": 1,
+    "arrival": "13:50:00",
+    "departure": "None"
+  }
+]

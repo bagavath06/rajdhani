@@ -1,0 +1,386 @@
+[
+  {
+    "train_number": "50104",
+    "station_code": "RN",
+    "station_name": "RATNAGIRI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:30:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "BOKE",
+    "station_name": "BHOKE",
+    "day": 1,
+    "arrival": "05:41:00",
+    "departure": "05:42:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "UKC",
+    "station_name": "UKSHI",
+    "day": 1,
+    "arrival": "05:55:00",
+    "departure": "05:56:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "SGR",
+    "station_name": "SANGMESHWAR",
+    "day": 1,
+    "arrival": "06:11:00",
+    "departure": "06:12:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "AVRD",
+    "station_name": "ARAVALI ROAD",
+    "day": 1,
+    "arrival": "06:27:00",
+    "departure": "06:28:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "SVX",
+    "station_name": "SAVARDA",
+    "day": 1,
+    "arrival": "06:37:00",
+    "departure": "06:38:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KMAH",
+    "station_name": "KAMATHE",
+    "day": 1,
+    "arrival": "06:47:00",
+    "departure": "06:48:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "CHI",
+    "station_name": "CHIPLUN",
+    "day": 1,
+    "arrival": "07:05:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "ANO",
+    "station_name": "ANJANI",
+    "day": 1,
+    "arrival": "07:21:00",
+    "departure": "07:22:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KHED",
+    "station_name": "KHED",
+    "day": 1,
+    "arrival": "07:35:00",
+    "departure": "07:36:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "DWV",
+    "station_name": "DIWANKHAVATI",
+    "day": 1,
+    "arrival": "07:50:00",
+    "departure": "07:51:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "VINH",
+    "station_name": "VINHERE",
+    "day": 1,
+    "arrival": "08:04:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KFD",
+    "station_name": "KARANJADI",
+    "day": 1,
+    "arrival": "08:17:00",
+    "departure": "08:18:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "SAPE",
+    "station_name": "SAPE WAMNE",
+    "day": 1,
+    "arrival": "08:27:00",
+    "departure": "08:28:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "VEER",
+    "station_name": "VEER",
+    "day": 1,
+    "arrival": "08:50:00",
+    "departure": "08:51:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "GNO",
+    "station_name": "GOREGAON ROAD",
+    "day": 1,
+    "arrival": "09:00:00",
+    "departure": "09:01:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "MNI",
+    "station_name": "MANGAON",
+    "day": 1,
+    "arrival": "09:23:00",
+    "departure": "09:25:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "INP",
+    "station_name": "INDAPUR",
+    "day": 1,
+    "arrival": "09:34:00",
+    "departure": "09:35:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KOL",
+    "station_name": "KOLAD",
+    "day": 1,
+    "arrival": "09:49:00",
+    "departure": "09:50:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "ROHA",
+    "station_name": "ROHA",
+    "day": 1,
+    "arrival": "10:33:00",
+    "departure": "10:35:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "NIDI",
+    "station_name": "NIDI",
+    "day": 1,
+    "arrival": "10:40:00",
+    "departure": "10:40:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "NGTN",
+    "station_name": "NAGOTHANE",
+    "day": 1,
+    "arrival": "10:54:00",
+    "departure": "10:55:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KASU",
+    "station_name": "KASU",
+    "day": 1,
+    "arrival": "11:09:00",
+    "departure": "11:10:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "PEN",
+    "station_name": "PEN",
+    "day": 1,
+    "arrival": "11:24:00",
+    "departure": "11:25:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "HMRR",
+    "station_name": "HAMARAPUR",
+    "day": 1,
+    "arrival": "11:33:00",
+    "departure": "11:34:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "APTA",
+    "station_name": "APTA",
+    "day": 1,
+    "arrival": "11:51:00",
+    "departure": "11:52:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "RSYI",
+    "station_name": "RASAYANI",
+    "day": 1,
+    "arrival": "11:57:00",
+    "departure": "11:58:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "SMNE",
+    "station_name": "SOMTANE",
+    "day": 1,
+    "arrival": "12:04:00",
+    "departure": "12:05:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "PNVL",
+    "station_name": "PANVEL",
+    "day": 1,
+    "arrival": "12:15:00",
+    "departure": "12:20:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KLMC",
+    "station_name": "KALAMBOLI",
+    "day": 1,
+    "arrival": "12:26:00",
+    "departure": "12:27:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "NVRD",
+    "station_name": "NAVADE ROAD",
+    "day": 1,
+    "arrival": "12:31:00",
+    "departure": "12:32:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "TPND",
+    "station_name": "TALOJA PANCHAND",
+    "day": 1,
+    "arrival": "12:39:00",
+    "departure": "12:40:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "NIIJ",
+    "station_name": "NILAJE",
+    "day": 1,
+    "arrival": "12:49:00",
+    "departure": "12:50:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "DTVL",
+    "station_name": "DATIVLI",
+    "day": 1,
+    "arrival": "13:10:00",
+    "departure": "13:10:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "DIVA",
+    "station_name": "DIVA",
+    "day": 1,
+    "arrival": "13:18:00",
+    "departure": "13:20:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "TNA",
+    "station_name": "THANE",
+    "day": 1,
+    "arrival": "13:28:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "MLND",
+    "station_name": "MULUND",
+    "day": 1,
+    "arrival": "13:35:00",
+    "departure": "13:35:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "NHU",
+    "station_name": "NAHUR",
+    "day": 1,
+    "arrival": "13:40:00",
+    "departure": "13:40:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "BND",
+    "station_name": "BHANDUP",
+    "day": 1,
+    "arrival": "13:43:00",
+    "departure": "13:43:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "KJMG",
+    "station_name": "KANJUR MARG",
+    "day": 1,
+    "arrival": "13:47:00",
+    "departure": "13:47:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "VK",
+    "station_name": "VIKHROLI",
+    "day": 1,
+    "arrival": "13:51:00",
+    "departure": "13:51:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "GC",
+    "station_name": "GHATKOPAR",
+    "day": 1,
+    "arrival": "13:59:00",
+    "departure": "13:59:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "VVH",
+    "station_name": "VIDYAVIHAR",
+    "day": 1,
+    "arrival": "14:02:00",
+    "departure": "14:02:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "LTT",
+    "station_name": "LOKMANYA TILAK TERM",
+    "day": 1,
+    "arrival": "14:04:00",
+    "departure": "14:04:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "CLA",
+    "station_name": "KURLA JN",
+    "day": 1,
+    "arrival": "14:07:00",
+    "departure": "14:07:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "SIN",
+    "station_name": "MUMBAI SION",
+    "day": 1,
+    "arrival": "14:12:00",
+    "departure": "14:12:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "MTN",
+    "station_name": "MUMBAI MATUNGA",
+    "day": 1,
+    "arrival": "14:18:00",
+    "departure": "14:18:00"
+  },
+  {
+    "train_number": "50104",
+    "station_code": "DR",
+    "station_name": "MUMBAI DADAR CENTRAL",
+    "day": 1,
+    "arrival": "14:20:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "43891",
+    "station_code": "AVD",
+    "station_name": "AVADI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "02:55:00"
+  },
+  {
+    "train_number": "43891",
+    "station_code": "HC",
+    "station_name": "HINDU COLLEGE",
+    "day": 1,
+    "arrival": "02:58:00",
+    "departure": "02:59:00"
+  },
+  {
+    "train_number": "43891",
+    "station_code": "PAB",
+    "station_name": "PATTABIRAM",
+    "day": 1,
+    "arrival": "03:01:00",
+    "departure": "03:02:00"
+  },
+  {
+    "train_number": "43891",
+    "station_code": "PRES",
+    "station_name": "Pattabiram East",
+    "day": 1,
+    "arrival": "03:15:00",
+    "departure": "None"
+  }
+]

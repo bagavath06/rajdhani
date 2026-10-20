@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "57503",
+    "station_code": "NZB",
+    "station_name": "NIZAMABAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:30:00"
+  },
+  {
+    "train_number": "57503",
+    "station_code": "JKM",
+    "station_name": "JANKAMPET JN",
+    "day": 1,
+    "arrival": "18:38:00",
+    "departure": "18:39:00"
+  },
+  {
+    "train_number": "57503",
+    "station_code": "YDP",
+    "station_name": "Yedapalli",
+    "day": 1,
+    "arrival": "18:56:00",
+    "departure": "18:57:00"
+  },
+  {
+    "train_number": "57503",
+    "station_code": "SKNR",
+    "station_name": "Shakar Nagar",
+    "day": 1,
+    "arrival": "19:09:00",
+    "departure": "19:10:00"
+  },
+  {
+    "train_number": "57503",
+    "station_code": "GPBN",
+    "station_name": "Gandhi Park Halt",
+    "day": 1,
+    "arrival": "19:13:00",
+    "departure": "19:14:00"
+  },
+  {
+    "train_number": "57503",
+    "station_code": "BDHN",
+    "station_name": "Bodhan",
+    "day": 1,
+    "arrival": "19:25:00",
+    "departure": "None"
+  }
+]

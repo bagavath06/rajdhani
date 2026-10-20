@@ -1,0 +1,98 @@
+[
+  {
+    "train_number": "56389",
+    "station_code": "ERS",
+    "station_name": "ERNAKULAM JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "TRTR",
+    "station_name": "TRIUPUNITTURA",
+    "day": 1,
+    "arrival": "20:19:00",
+    "departure": "20:20:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KFE",
+    "station_name": "KURIKAD",
+    "day": 1,
+    "arrival": "20:25:00",
+    "departure": "20:25:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "MNTT",
+    "station_name": "MULANTURUTTI",
+    "day": 1,
+    "arrival": "20:29:00",
+    "departure": "20:30:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KPTM",
+    "station_name": "KANJIRAMITTAM",
+    "day": 1,
+    "arrival": "20:35:00",
+    "departure": "20:37:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "PVRD",
+    "station_name": "PIRAVAM ROAD",
+    "day": 1,
+    "arrival": "20:43:00",
+    "departure": "20:45:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "VARD",
+    "station_name": "VAIKAM ROAD",
+    "day": 1,
+    "arrival": "20:54:00",
+    "departure": "20:55:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KDTY",
+    "station_name": "KADUTURUTTI HALT",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "21:00:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KRPP",
+    "station_name": "KURUPPANTHARA",
+    "day": 1,
+    "arrival": "21:04:00",
+    "departure": "21:05:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "ETM",
+    "station_name": "ETTUMANUR",
+    "day": 1,
+    "arrival": "21:24:00",
+    "departure": "21:25:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KFQ",
+    "station_name": "KUMARANALLUR",
+    "day": 1,
+    "arrival": "21:30:00",
+    "departure": "21:32:00"
+  },
+  {
+    "train_number": "56389",
+    "station_code": "KTYM",
+    "station_name": "KOTTAYAM",
+    "day": 1,
+    "arrival": "22:00:00",
+    "departure": "None"
+  }
+]

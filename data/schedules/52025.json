@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "52025",
+    "station_code": "DB",
+    "station_name": "Dabhoi Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "16:15:00"
+  },
+  {
+    "train_number": "52025",
+    "station_code": "VRJ",
+    "station_name": "Vadaj",
+    "day": 1,
+    "arrival": "16:29:00",
+    "departure": "16:30:00"
+  },
+  {
+    "train_number": "52025",
+    "station_code": "CDD",
+    "station_name": "Chandod",
+    "day": 1,
+    "arrival": "17:00:00",
+    "departure": "None"
+  }
+]

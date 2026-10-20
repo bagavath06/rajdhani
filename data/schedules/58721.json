@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "58721",
+    "station_code": "AVP",
+    "station_name": "Abhanpur Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "58721",
+    "station_code": "MCF",
+    "station_name": "Manik Chauree Halt",
+    "day": 1,
+    "arrival": "20:30:00",
+    "departure": "20:31:00"
+  },
+  {
+    "train_number": "58721",
+    "station_code": "RIM",
+    "station_name": "Rajim",
+    "day": 1,
+    "arrival": "21:05:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "34434",
+    "station_code": "SDAH",
+    "station_name": "KOLKATA SEALDAH",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:15:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "PQS",
+    "station_name": "PARK CIRCUS",
+    "day": 1,
+    "arrival": "17:18:00",
+    "departure": "17:19:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "BLN",
+    "station_name": "BALLYGUNGE JN",
+    "day": 1,
+    "arrival": "17:24:00",
+    "departure": "17:25:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "DHK",
+    "station_name": "Dhakuria",
+    "day": 1,
+    "arrival": "17:26:00",
+    "departure": "17:27:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "JDP",
+    "station_name": "Jadabpur",
+    "day": 1,
+    "arrival": "17:28:00",
+    "departure": "17:29:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "BGJT",
+    "station_name": "Bagha Jatin",
+    "day": 1,
+    "arrival": "17:30:00",
+    "departure": "17:31:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "GIA",
+    "station_name": "Garia",
+    "day": 1,
+    "arrival": "17:33:00",
+    "departure": "17:34:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "NRPR",
+    "station_name": "Narendrapur Halt",
+    "day": 1,
+    "arrival": "17:36:00",
+    "departure": "17:37:00"
+  },
+  {
+    "train_number": "34434",
+    "station_code": "SPR",
+    "station_name": "Sonarpur Junction",
+    "day": 1,
+    "arrival": "17:42:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "59345",
+    "station_code": "RTM",
+    "station_name": "RATLAM JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "10:20:00"
+  },
+  {
+    "train_number": "59345",
+    "station_code": "BOD",
+    "station_name": "BANGROD",
+    "day": 1,
+    "arrival": "10:31:00",
+    "departure": "10:32:00"
+  },
+  {
+    "train_number": "59345",
+    "station_code": "RNH",
+    "station_name": "RUNKHERA",
+    "day": 1,
+    "arrival": "10:39:00",
+    "departure": "10:40:00"
+  },
+  {
+    "train_number": "59345",
+    "station_code": "KUH",
+    "station_name": "KHACHROD",
+    "day": 1,
+    "arrival": "10:51:00",
+    "departure": "10:52:00"
+  },
+  {
+    "train_number": "59345",
+    "station_code": "BRNA",
+    "station_name": "BERAWANYA",
+    "day": 1,
+    "arrival": "11:04:00",
+    "departure": "11:05:00"
+  },
+  {
+    "train_number": "59345",
+    "station_code": "NAD",
+    "station_name": "NAGDA JN",
+    "day": 1,
+    "arrival": "11:20:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "55160",
+    "station_code": "JNU",
+    "station_name": "JAUNPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "09:00:00"
+  },
+  {
+    "train_number": "55160",
+    "station_code": "MFJ",
+    "station_name": "Muftiganj",
+    "day": 1,
+    "arrival": "09:20:00",
+    "departure": "09:21:00"
+  },
+  {
+    "train_number": "55160",
+    "station_code": "DHE",
+    "station_name": "Dodhi",
+    "day": 1,
+    "arrival": "09:58:00",
+    "departure": "10:00:00"
+  },
+  {
+    "train_number": "55160",
+    "station_code": "ARJ",
+    "station_name": "AUNRIHAR JN",
+    "day": 1,
+    "arrival": "10:45:00",
+    "departure": "None"
+  }
+]

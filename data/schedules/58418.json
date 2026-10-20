@@ -1,0 +1,482 @@
+[
+  {
+    "train_number": "58418",
+    "station_code": "GNPR",
+    "station_name": "Gunupur",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PLSG",
+    "station_name": "Palasingi",
+    "day": 1,
+    "arrival": "08:09:00",
+    "departure": "08:10:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BSDR",
+    "station_name": "Bansadhara Halt",
+    "day": 1,
+    "arrival": "08:19:00",
+    "departure": "08:20:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "LRI",
+    "station_name": "Lihuri Halt",
+    "day": 1,
+    "arrival": "08:31:00",
+    "departure": "08:32:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KNGR",
+    "station_name": "Kashinagar Halt",
+    "day": 1,
+    "arrival": "08:43:00",
+    "departure": "08:44:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "HBF",
+    "station_name": "Hadobhangi Halt",
+    "day": 1,
+    "arrival": "08:57:00",
+    "departure": "08:58:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SPRM",
+    "station_name": "Sitapuram Halt",
+    "day": 1,
+    "arrival": "09:06:00",
+    "departure": "09:07:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PLH",
+    "station_name": "Parlakhemundi",
+    "day": 1,
+    "arrival": "09:39:00",
+    "departure": "09:40:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PHM",
+    "station_name": "Patapatnam",
+    "day": 1,
+    "arrival": "09:53:00",
+    "departure": "09:54:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "GVA",
+    "station_name": "Ganguwada",
+    "day": 1,
+    "arrival": "10:07:00",
+    "departure": "10:08:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "TMB",
+    "station_name": "Temburu",
+    "day": 1,
+    "arrival": "10:16:00",
+    "departure": "10:17:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PDSN",
+    "station_name": "Peddasana",
+    "day": 1,
+    "arrival": "10:30:00",
+    "departure": "10:31:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "TEK",
+    "station_name": "Tekkali Halt",
+    "day": 1,
+    "arrival": "10:40:00",
+    "departure": "10:41:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "NWP",
+    "station_name": "NAUPADA JN",
+    "day": 1,
+    "arrival": "11:10:00",
+    "departure": "11:20:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "RMZ",
+    "station_name": "ROUTHPURAM HALT",
+    "day": 1,
+    "arrival": "11:25:00",
+    "departure": "11:26:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PUN",
+    "station_name": "PUNDI",
+    "day": 1,
+    "arrival": "11:32:00",
+    "departure": "11:33:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PSA",
+    "station_name": "PALASA",
+    "day": 1,
+    "arrival": "12:00:00",
+    "departure": "12:30:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SUDV",
+    "station_name": "SUMMADEVI",
+    "day": 1,
+    "arrival": "12:37:00",
+    "departure": "12:38:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "MMS",
+    "station_name": "MANDASA ROAD",
+    "day": 1,
+    "arrival": "12:45:00",
+    "departure": "12:46:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BAV",
+    "station_name": "BARUVA",
+    "day": 1,
+    "arrival": "12:54:00",
+    "departure": "12:55:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SPT",
+    "station_name": "SOMPETA",
+    "day": 1,
+    "arrival": "13:03:00",
+    "departure": "13:04:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "JPI",
+    "station_name": "JHADUPUDI",
+    "day": 1,
+    "arrival": "13:11:00",
+    "departure": "13:12:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "IPM",
+    "station_name": "ICHCHPURAM",
+    "day": 1,
+    "arrival": "13:23:00",
+    "departure": "13:24:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SLRD",
+    "station_name": "SURLA ROAD",
+    "day": 1,
+    "arrival": "13:33:00",
+    "departure": "13:34:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "GTA",
+    "station_name": "GOLANTHRA",
+    "day": 1,
+    "arrival": "13:40:00",
+    "departure": "13:41:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BAM",
+    "station_name": "BRAHMAPUR",
+    "day": 1,
+    "arrival": "14:00:00",
+    "departure": "14:05:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "JNP",
+    "station_name": "JAGAN NATHAPUR",
+    "day": 1,
+    "arrival": "14:13:00",
+    "departure": "14:14:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "NRSP",
+    "station_name": "NARASIMHAPURA",
+    "day": 1,
+    "arrival": "14:20:00",
+    "departure": "14:21:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "CAP",
+    "station_name": "CHATRAPUR",
+    "day": 1,
+    "arrival": "14:28:00",
+    "departure": "14:29:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "CAPC",
+    "station_name": "CHATRAPUR COURT",
+    "day": 1,
+    "arrival": "14:34:00",
+    "departure": "14:35:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "GAM",
+    "station_name": "GANJAM",
+    "day": 1,
+    "arrival": "14:43:00",
+    "departure": "14:44:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "HMA",
+    "station_name": "HUMMA",
+    "day": 1,
+    "arrival": "14:54:00",
+    "departure": "14:55:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "RBA",
+    "station_name": "RAMBHA",
+    "day": 1,
+    "arrival": "15:05:00",
+    "departure": "15:06:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KIT",
+    "station_name": "KHALLIKOT",
+    "day": 1,
+    "arrival": "15:16:00",
+    "departure": "15:17:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KLJI",
+    "station_name": "KALIJAI",
+    "day": 1,
+    "arrival": "15:23:00",
+    "departure": "15:24:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "CLKA",
+    "station_name": "CHILKA",
+    "day": 1,
+    "arrival": "15:30:00",
+    "departure": "15:31:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BALU",
+    "station_name": "BALUGAON",
+    "day": 1,
+    "arrival": "15:39:00",
+    "departure": "15:40:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SLZ",
+    "station_name": "SOLARI",
+    "day": 1,
+    "arrival": "15:51:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "GNGD",
+    "station_name": "GANGADHARPUR",
+    "day": 1,
+    "arrival": "16:00:00",
+    "departure": "16:01:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KUU",
+    "station_name": "KUHURI",
+    "day": 1,
+    "arrival": "16:10:00",
+    "departure": "16:11:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KAPG",
+    "station_name": "KALUPARA GHAT",
+    "day": 1,
+    "arrival": "16:19:00",
+    "departure": "16:20:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "MKTP",
+    "station_name": "MUKETASHWAR",
+    "day": 1,
+    "arrival": "16:23:00",
+    "departure": "16:24:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BSDP",
+    "station_name": "BHUSANDPUR",
+    "day": 1,
+    "arrival": "16:30:00",
+    "departure": "16:31:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "NKP",
+    "station_name": "NIRAKARPUR",
+    "day": 1,
+    "arrival": "16:39:00",
+    "departure": "16:40:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "GLBA",
+    "station_name": "GOLABAI",
+    "day": 1,
+    "arrival": "16:46:00",
+    "departure": "16:47:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "TAP",
+    "station_name": "TAPANG",
+    "day": 1,
+    "arrival": "16:52:00",
+    "departure": "16:53:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "DLMH",
+    "station_name": "DHAULIMUHAN",
+    "day": 1,
+    "arrival": "16:58:00",
+    "departure": "16:59:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KPXR",
+    "station_name": "KAIPADA ROAD",
+    "day": 1,
+    "arrival": "17:04:00",
+    "departure": "17:05:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "ARGL",
+    "station_name": "ARGUL",
+    "day": 1,
+    "arrival": "17:11:00",
+    "departure": "17:12:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KUR",
+    "station_name": "KHURDA ROAD JN",
+    "day": 1,
+    "arrival": "18:40:00",
+    "departure": "19:10:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "HPGM",
+    "station_name": "HARIPUR GRAM",
+    "day": 1,
+    "arrival": "19:18:00",
+    "departure": "19:19:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "MWQ",
+    "station_name": "MOTARI HALT",
+    "day": 1,
+    "arrival": "19:25:00",
+    "departure": "19:26:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "KASR",
+    "station_name": "KANAS ROAD",
+    "day": 1,
+    "arrival": "19:31:00",
+    "departure": "19:32:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "DEG",
+    "station_name": "DELANG",
+    "day": 1,
+    "arrival": "19:37:00",
+    "departure": "19:38:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "JPRD",
+    "station_name": "JENAPUR ROAD",
+    "day": 1,
+    "arrival": "19:44:00",
+    "departure": "19:45:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "BRST",
+    "station_name": "BIR PURUSHOTTAMPUR",
+    "day": 1,
+    "arrival": "19:50:00",
+    "departure": "19:51:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "SIL",
+    "station_name": "SAKHI GOPAL",
+    "day": 1,
+    "arrival": "19:56:00",
+    "departure": "19:57:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "JKDP",
+    "station_name": "JANKIDAIPUR",
+    "day": 1,
+    "arrival": "20:01:00",
+    "departure": "20:02:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "MLT",
+    "station_name": "MALATIPATPUR",
+    "day": 1,
+    "arrival": "20:07:00",
+    "departure": "20:08:00"
+  },
+  {
+    "train_number": "58418",
+    "station_code": "PURI",
+    "station_name": "PURI",
+    "day": 1,
+    "arrival": "21:25:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "52298",
+    "station_code": "SZP",
+    "station_name": "Shahjahanpur",
+    "day": 1,
+    "arrival": "None",
+    "departure": "09:10:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "SZN",
+    "station_name": "Shahbaznagar",
+    "day": 1,
+    "arrival": "09:19:00",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "NOH",
+    "station_name": "Nigohi",
+    "day": 1,
+    "arrival": "09:52:00",
+    "departure": "09:54:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "VZPH",
+    "station_name": "Vazeerpur Halt",
+    "day": 1,
+    "arrival": "10:01:00",
+    "departure": "10:01:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "ZNP",
+    "station_name": "Zindpura",
+    "day": 1,
+    "arrival": "10:06:00",
+    "departure": "10:06:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "MIW",
+    "station_name": "Mighauna",
+    "day": 1,
+    "arrival": "10:12:00",
+    "departure": "10:12:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "BSUR",
+    "station_name": "Bisalpur",
+    "day": 1,
+    "arrival": "10:19:00",
+    "departure": "10:21:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "BFPA",
+    "station_name": "Bhopatpur",
+    "day": 1,
+    "arrival": "10:42:00",
+    "departure": "10:52:00"
+  },
+  {
+    "train_number": "52298",
+    "station_code": "PBE",
+    "station_name": "PILIBHIT JN",
+    "day": 1,
+    "arrival": "11:30:00",
+    "departure": "None"
+  }
+]

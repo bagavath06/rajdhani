@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "54023",
+    "station_code": "ROK",
+    "station_name": "ROHTAK JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "07:00:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "SMF",
+    "station_name": "SAMAR GOPALPUR",
+    "day": 1,
+    "arrival": "07:11:00",
+    "departure": "07:12:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "KHV",
+    "station_name": "KARAINTHI",
+    "day": 1,
+    "arrival": "07:20:00",
+    "departure": "07:21:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "KZH",
+    "station_name": "KILA ZAFARGARH",
+    "day": 1,
+    "arrival": "07:31:00",
+    "departure": "07:32:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "JNA",
+    "station_name": "JULANA",
+    "day": 1,
+    "arrival": "07:39:00",
+    "departure": "07:40:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "JJT",
+    "station_name": "JAI JAI WANTI",
+    "day": 1,
+    "arrival": "07:47:00",
+    "departure": "07:48:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "KIU",
+    "station_name": "KINANA",
+    "day": 1,
+    "arrival": "07:50:00",
+    "departure": "07:51:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "BSPH",
+    "station_name": "BISHANPUR HARYANA",
+    "day": 1,
+    "arrival": "08:04:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "54023",
+    "station_code": "JIND",
+    "station_name": "JIND JN",
+    "day": 1,
+    "arrival": "08:25:00",
+    "departure": "None"
+  }
+]

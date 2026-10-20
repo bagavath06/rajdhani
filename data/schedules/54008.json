@@ -1,0 +1,186 @@
+[
+  {
+    "train_number": "54008",
+    "station_code": "JIND",
+    "station_name": "JIND JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "10:00:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "JCY",
+    "station_name": "JIND CITY",
+    "day": 1,
+    "arrival": "10:06:00",
+    "departure": "10:07:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "PPDE",
+    "station_name": "PANDU PINDARA",
+    "day": 1,
+    "arrival": "10:16:00",
+    "departure": "10:17:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "SWDE",
+    "station_name": "SIWAHA",
+    "day": 1,
+    "arrival": "10:27:00",
+    "departure": "10:28:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "PKDE",
+    "station_name": "PILU KHERA",
+    "day": 1,
+    "arrival": "10:36:00",
+    "departure": "10:37:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "BKDE",
+    "station_name": "BUDHAKHERA",
+    "day": 1,
+    "arrival": "10:46:00",
+    "departure": "10:47:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "SXE",
+    "station_name": "SILA KHERI HALT",
+    "day": 1,
+    "arrival": "10:55:00",
+    "departure": "10:56:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "SFDE",
+    "station_name": "SAFIDON",
+    "day": 1,
+    "arrival": "11:03:00",
+    "departure": "11:04:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "KSDE",
+    "station_name": "KARSINDHU",
+    "day": 1,
+    "arrival": "11:14:00",
+    "departure": "11:15:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "MLDE",
+    "station_name": "MADLAUDA",
+    "day": 1,
+    "arrival": "11:28:00",
+    "departure": "11:29:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "ASAN",
+    "station_name": "ASAN",
+    "day": 1,
+    "arrival": "11:37:00",
+    "departure": "11:38:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "PNP",
+    "station_name": "PANIPAT JN",
+    "day": 1,
+    "arrival": "12:05:00",
+    "departure": "12:10:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "BNJL",
+    "station_name": "BINJHOL HALT",
+    "day": 1,
+    "arrival": "12:19:00",
+    "departure": "12:20:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "NLH",
+    "station_name": "NAULTHA",
+    "day": 1,
+    "arrival": "12:29:00",
+    "departure": "12:30:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "IRA",
+    "station_name": "ISRANA",
+    "day": 1,
+    "arrival": "12:39:00",
+    "departure": "12:40:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "DHRN",
+    "station_name": "DHURANA",
+    "day": 1,
+    "arrival": "12:48:00",
+    "departure": "12:49:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "MDLA",
+    "station_name": "MUNDLANA",
+    "day": 1,
+    "arrival": "12:57:00",
+    "departure": "12:58:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "GHNA",
+    "station_name": "GOHANA",
+    "day": 1,
+    "arrival": "13:11:00",
+    "departure": "13:12:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "BASN",
+    "station_name": "BHAINSWAN",
+    "day": 1,
+    "arrival": "13:21:00",
+    "departure": "13:22:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "RKX",
+    "station_name": "RUKHI",
+    "day": 1,
+    "arrival": "13:29:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "JSS",
+    "station_name": "JASIA",
+    "day": 1,
+    "arrival": "13:37:00",
+    "departure": "13:38:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "MKLI",
+    "station_name": "MAKRAULI",
+    "day": 1,
+    "arrival": "13:48:00",
+    "departure": "13:49:00"
+  },
+  {
+    "train_number": "54008",
+    "station_code": "ROK",
+    "station_name": "ROHTAK JN",
+    "day": 1,
+    "arrival": "14:10:00",
+    "departure": "None"
+  }
+]

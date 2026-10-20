@@ -1,0 +1,66 @@
+[
+  {
+    "train_number": "56272",
+    "station_code": "RRB",
+    "station_name": "BIRUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "SPV",
+    "station_name": "Sivapur",
+    "day": 1,
+    "arrival": "08:12:00",
+    "departure": "08:13:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "KRNH",
+    "station_name": "Karanahalli",
+    "day": 1,
+    "arrival": "08:18:00",
+    "departure": "08:19:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "TKE",
+    "station_name": "Tarikere Junction",
+    "day": 1,
+    "arrival": "08:29:00",
+    "departure": "08:30:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "MSS",
+    "station_name": "Masarahalli",
+    "day": 1,
+    "arrival": "08:51:00",
+    "departure": "08:52:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "BDVT",
+    "station_name": "Bhadravati",
+    "day": 1,
+    "arrival": "09:01:00",
+    "departure": "09:02:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "SME",
+    "station_name": "Shimoga",
+    "day": 1,
+    "arrival": "09:21:00",
+    "departure": "09:22:00"
+  },
+  {
+    "train_number": "56272",
+    "station_code": "SMET",
+    "station_name": "Shimoga Town",
+    "day": 1,
+    "arrival": "09:45:00",
+    "departure": "None"
+  }
+]

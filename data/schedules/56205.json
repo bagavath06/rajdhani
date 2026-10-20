@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "56205",
+    "station_code": "NTW",
+    "station_name": "NANJANGUD TOWN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "10:45:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "SJPM",
+    "station_name": "SUJATA PURAM HALT",
+    "day": 1,
+    "arrival": "10:48:00",
+    "departure": "10:49:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "TXM",
+    "station_name": "TANDAVAPURA",
+    "day": 1,
+    "arrival": "10:54:00",
+    "departure": "10:55:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "KDO",
+    "station_name": "KADAKOLA",
+    "day": 1,
+    "arrival": "10:59:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "AP",
+    "station_name": "ASHOKAPURAM",
+    "day": 1,
+    "arrival": "11:14:00",
+    "departure": "11:15:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "CMJ",
+    "station_name": "CHAMARAJAPURAM",
+    "day": 1,
+    "arrival": "11:19:00",
+    "departure": "11:20:00"
+  },
+  {
+    "train_number": "56205",
+    "station_code": "MYS",
+    "station_name": "MYSORE JN",
+    "day": 1,
+    "arrival": "11:40:00",
+    "departure": "None"
+  }
+]

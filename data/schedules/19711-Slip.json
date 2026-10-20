@@ -1,0 +1,642 @@
+[
+  {
+    "train_number": "19711-Slip",
+    "station_code": "JP",
+    "station_name": "JAIPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:35:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "KKU",
+    "station_name": "KANAKPURA",
+    "day": 1,
+    "arrival": "17:46:00",
+    "departure": "17:47:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "DNK",
+    "station_name": "DHANAKYA",
+    "day": 1,
+    "arrival": "17:53:00",
+    "departure": "17:53:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SHNX",
+    "station_name": "SHEO SINGH PURA",
+    "day": 1,
+    "arrival": "17:55:00",
+    "departure": "17:55:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BOBS",
+    "station_name": "BOBAS",
+    "day": 1,
+    "arrival": "17:59:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "JOB",
+    "station_name": "ASALPUR JOBNER",
+    "day": 1,
+    "arrival": "18:03:00",
+    "departure": "18:05:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "DHND",
+    "station_name": "DHINDA",
+    "day": 1,
+    "arrival": "18:10:00",
+    "departure": "18:10:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "HDA",
+    "station_name": "HIRNODA",
+    "day": 1,
+    "arrival": "18:14:00",
+    "departure": "18:15:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "FL",
+    "station_name": "PHULERA JN",
+    "day": 1,
+    "arrival": "18:22:00",
+    "departure": "18:24:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NRI",
+    "station_name": "NARAINA",
+    "day": 1,
+    "arrival": "18:35:00",
+    "departure": "18:37:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SK",
+    "station_name": "SAKHUN",
+    "day": 1,
+    "arrival": "18:46:00",
+    "departure": "18:46:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SALI",
+    "station_name": "SALI",
+    "day": 1,
+    "arrival": "18:52:00",
+    "departure": "18:52:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "GLTA",
+    "station_name": "GAHLOTA",
+    "day": 1,
+    "arrival": "18:55:00",
+    "departure": "18:55:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "TL",
+    "station_name": "TILONIYA",
+    "day": 1,
+    "arrival": "19:01:00",
+    "departure": "19:02:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "KSG",
+    "station_name": "KISHANGARH",
+    "day": 1,
+    "arrival": "19:11:00",
+    "departure": "19:13:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "GEK",
+    "station_name": "GEGAL AKHRI",
+    "day": 1,
+    "arrival": "19:22:00",
+    "departure": "19:22:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "LR",
+    "station_name": "LADPURA",
+    "day": 1,
+    "arrival": "19:29:00",
+    "departure": "19:29:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MD",
+    "station_name": "MADAR",
+    "day": 1,
+    "arrival": "19:50:00",
+    "departure": "19:51:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "AII",
+    "station_name": "AJMER JN",
+    "day": 1,
+    "arrival": "20:05:00",
+    "departure": "20:40:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "AHO",
+    "station_name": "ADARSHNAGAR",
+    "day": 1,
+    "arrival": "20:44:00",
+    "departure": "20:44:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "HTD",
+    "station_name": "HATUNDI",
+    "day": 1,
+    "arrival": "20:50:00",
+    "departure": "20:50:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "ROS",
+    "station_name": "RAJOSI",
+    "day": 1,
+    "arrival": "20:57:00",
+    "departure": "20:57:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NSD",
+    "station_name": "NASIRABAD",
+    "day": 1,
+    "arrival": "21:02:00",
+    "departure": "21:04:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "JWS",
+    "station_name": "JHARWASAA",
+    "day": 1,
+    "arrival": "21:14:00",
+    "departure": "21:14:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BDW",
+    "station_name": "BANDANWARA",
+    "day": 1,
+    "arrival": "21:24:00",
+    "departure": "21:24:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SGW",
+    "station_name": "SINGWAL",
+    "day": 1,
+    "arrival": "21:31:00",
+    "departure": "21:31:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MAKH",
+    "station_name": "MOKHAMPURA",
+    "day": 1,
+    "arrival": "21:38:00",
+    "departure": "21:38:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BJNR",
+    "station_name": "BIJAINAGAR",
+    "day": 1,
+    "arrival": "21:47:00",
+    "departure": "21:49:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "GBP",
+    "station_name": "GULABPURA",
+    "day": 1,
+    "arrival": "21:52:00",
+    "departure": "21:52:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "RPI",
+    "station_name": "RUPAHELI",
+    "day": 1,
+    "arrival": "22:06:00",
+    "departure": "22:06:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SSR",
+    "station_name": "SARERI",
+    "day": 1,
+    "arrival": "22:17:00",
+    "departure": "22:17:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "RLR",
+    "station_name": "RAILA ROAD",
+    "day": 1,
+    "arrival": "22:24:00",
+    "departure": "22:24:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "LMA",
+    "station_name": "LAMBIYA",
+    "day": 1,
+    "arrival": "22:30:00",
+    "departure": "22:30:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MDL",
+    "station_name": "MANDAL",
+    "day": 1,
+    "arrival": "22:48:00",
+    "departure": "22:48:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BHL",
+    "station_name": "BHILWARA",
+    "day": 1,
+    "arrival": "23:00:00",
+    "departure": "23:05:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MDPA",
+    "station_name": "MANDPIYA",
+    "day": 1,
+    "arrival": "23:22:00",
+    "departure": "23:22:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "HMG",
+    "station_name": "HAMIRGARH",
+    "day": 1,
+    "arrival": "23:37:00",
+    "departure": "23:37:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SNYN",
+    "station_name": "SONIYANA",
+    "day": 1,
+    "arrival": "23:48:00",
+    "departure": "23:48:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "GGR",
+    "station_name": "GANGRAR",
+    "day": 2,
+    "arrival": "00:03:00",
+    "departure": "00:03:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "CNA",
+    "station_name": "CHANDERIYA",
+    "day": 2,
+    "arrival": "00:27:00",
+    "departure": "00:29:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "COR",
+    "station_name": "CHITTAURGARH",
+    "day": 2,
+    "arrival": "00:45:00",
+    "departure": "00:55:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "ORDI",
+    "station_name": "ORDI",
+    "day": 2,
+    "arrival": "01:01:00",
+    "departure": "01:01:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "SMP",
+    "station_name": "SHAMBHUPURA",
+    "day": 2,
+    "arrival": "01:09:00",
+    "departure": "01:09:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "GRF",
+    "station_name": "GAMBHIRI ROAD",
+    "day": 2,
+    "arrival": "01:19:00",
+    "departure": "01:19:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NBH",
+    "station_name": "NIMBAHERA",
+    "day": 2,
+    "arrival": "01:29:00",
+    "departure": "01:31:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "JWO",
+    "station_name": "JAWAD ROAD",
+    "day": 2,
+    "arrival": "01:35:00",
+    "departure": "01:35:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BIWK",
+    "station_name": "BISALWAS KALAN",
+    "day": 2,
+    "arrival": "01:46:00",
+    "departure": "01:46:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NMH",
+    "station_name": "NIMACH",
+    "day": 2,
+    "arrival": "01:55:00",
+    "departure": "02:00:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "HKL",
+    "station_name": "HARKIA KHAL",
+    "day": 2,
+    "arrival": "02:13:00",
+    "departure": "02:13:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MLG",
+    "station_name": "MALHARGARH",
+    "day": 2,
+    "arrival": "02:25:00",
+    "departure": "02:25:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "PIP",
+    "station_name": "PIPLIA",
+    "day": 2,
+    "arrival": "02:32:00",
+    "departure": "02:34:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MDS",
+    "station_name": "MANDASOR",
+    "day": 2,
+    "arrival": "02:53:00",
+    "departure": "02:55:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "DLD",
+    "station_name": "DALAUDA",
+    "day": 2,
+    "arrival": "03:15:00",
+    "departure": "03:15:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "KCNR",
+    "station_name": "KACHNARA ROAD",
+    "day": 2,
+    "arrival": "03:31:00",
+    "departure": "03:31:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "DOD",
+    "station_name": "DHODHAR",
+    "day": 2,
+    "arrival": "03:41:00",
+    "departure": "03:41:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "JAO",
+    "station_name": "JAORA",
+    "day": 2,
+    "arrival": "04:03:00",
+    "departure": "04:05:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BRLA",
+    "station_name": "BRAYLA CHAURASI",
+    "day": 2,
+    "arrival": "04:28:00",
+    "departure": "04:28:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NLI",
+    "station_name": "NAMLI",
+    "day": 2,
+    "arrival": "04:56:00",
+    "departure": "04:56:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "RTM",
+    "station_name": "RATLAM JN",
+    "day": 2,
+    "arrival": "05:25:00",
+    "departure": "06:00:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BOD",
+    "station_name": "BANGROD",
+    "day": 2,
+    "arrival": "06:08:00",
+    "departure": "06:08:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "RNH",
+    "station_name": "RUNKHERA",
+    "day": 2,
+    "arrival": "06:15:00",
+    "departure": "06:15:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "KUH",
+    "station_name": "KHACHROD",
+    "day": 2,
+    "arrival": "06:23:00",
+    "departure": "06:25:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BRNA",
+    "station_name": "BERAWANYA",
+    "day": 2,
+    "arrival": "06:33:00",
+    "departure": "06:33:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NAD",
+    "station_name": "NAGDA JN",
+    "day": 2,
+    "arrival": "06:45:00",
+    "departure": "06:47:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BTSD",
+    "station_name": "BHATISUDA",
+    "day": 2,
+    "arrival": "06:56:00",
+    "departure": "06:56:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "PPG",
+    "station_name": "PIPLODA BAGLA",
+    "day": 2,
+    "arrival": "06:59:00",
+    "departure": "06:59:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "UNL",
+    "station_name": "UNHEL",
+    "day": 2,
+    "arrival": "07:05:00",
+    "departure": "07:05:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "PSO",
+    "station_name": "PALSORA MAKRAWA",
+    "day": 2,
+    "arrival": "07:10:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "ASL",
+    "station_name": "ASLAODA",
+    "day": 2,
+    "arrival": "07:22:00",
+    "departure": "07:22:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NKI",
+    "station_name": "NAIKHERI",
+    "day": 2,
+    "arrival": "07:30:00",
+    "departure": "07:30:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "UJN",
+    "station_name": "UJJAIN JN",
+    "day": 2,
+    "arrival": "07:40:00",
+    "departure": "08:15:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "VRG",
+    "station_name": "VIKRAMNAGAR",
+    "day": 2,
+    "arrival": "08:24:00",
+    "departure": "08:26:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "KDHA",
+    "station_name": "KARCHHA",
+    "day": 2,
+    "arrival": "08:39:00",
+    "departure": "08:41:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "UDM",
+    "station_name": "UNDASA MADHAWPU",
+    "day": 2,
+    "arrival": "08:48:00",
+    "departure": "08:50:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "NRGR",
+    "station_name": "NARANJIPUR",
+    "day": 2,
+    "arrival": "08:58:00",
+    "departure": "09:00:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "DWX",
+    "station_name": "DEWAS",
+    "day": 2,
+    "arrival": "09:16:00",
+    "departure": "09:18:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "BLAX",
+    "station_name": "BARLAI",
+    "day": 2,
+    "arrival": "09:29:00",
+    "departure": "09:31:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "MGG",
+    "station_name": "MANGLIYA GAON",
+    "day": 2,
+    "arrival": "09:38:00",
+    "departure": "09:40:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "LMNR",
+    "station_name": "LAKSHMIBAI NAGAR",
+    "day": 2,
+    "arrival": "09:53:00",
+    "departure": "09:55:00"
+  },
+  {
+    "train_number": "19711-Slip",
+    "station_code": "INDB",
+    "station_name": "INDORE JN BG",
+    "day": 2,
+    "arrival": "10:15:00",
+    "departure": "None"
+  }
+]

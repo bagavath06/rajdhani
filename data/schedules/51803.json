@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "51803",
+    "station_code": "MBA",
+    "station_name": "MAHOBA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "22:10:00"
+  },
+  {
+    "train_number": "51803",
+    "station_code": "BPRA",
+    "station_name": "BARIPURA",
+    "day": 1,
+    "arrival": "22:20:00",
+    "departure": "22:21:00"
+  },
+  {
+    "train_number": "51803",
+    "station_code": "KBR",
+    "station_name": "KABRAI",
+    "day": 1,
+    "arrival": "22:33:00",
+    "departure": "22:34:00"
+  },
+  {
+    "train_number": "51803",
+    "station_code": "MTH",
+    "station_name": "MATAUNDH",
+    "day": 1,
+    "arrival": "22:46:00",
+    "departure": "22:47:00"
+  },
+  {
+    "train_number": "51803",
+    "station_code": "KID",
+    "station_name": "KHAIRAR JN",
+    "day": 1,
+    "arrival": "22:58:00",
+    "departure": "22:59:00"
+  },
+  {
+    "train_number": "51803",
+    "station_code": "BNDA",
+    "station_name": "BANDA JN",
+    "day": 1,
+    "arrival": "23:15:00",
+    "departure": "None"
+  }
+]

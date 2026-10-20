@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "55114",
+    "station_code": "THE",
+    "station_name": "Thawe Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:40:00"
+  },
+  {
+    "train_number": "55114",
+    "station_code": "HTW",
+    "station_name": "Hathua",
+    "day": 1,
+    "arrival": "20:54:00",
+    "departure": "20:55:00"
+  },
+  {
+    "train_number": "55114",
+    "station_code": "ALS",
+    "station_name": "Amlori Sarsar",
+    "day": 1,
+    "arrival": "21:05:00",
+    "departure": "21:06:00"
+  },
+  {
+    "train_number": "55114",
+    "station_code": "SVC",
+    "station_name": "Siwan Kachari",
+    "day": 1,
+    "arrival": "21:14:00",
+    "departure": "21:15:00"
+  },
+  {
+    "train_number": "55114",
+    "station_code": "SV",
+    "station_name": "SIWAN JN",
+    "day": 1,
+    "arrival": "21:30:00",
+    "departure": "None"
+  }
+]

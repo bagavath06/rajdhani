@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "52121",
+    "station_code": "PC",
+    "station_name": "PACHORA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "VRKD",
+    "station_name": "Varkhedi",
+    "day": 1,
+    "arrival": "08:21:00",
+    "departure": "08:22:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "PMGN",
+    "station_name": "Pimpalgaon",
+    "day": 1,
+    "arrival": "08:40:00",
+    "departure": "08:41:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "SDRN",
+    "station_name": "Shendurni",
+    "day": 1,
+    "arrival": "09:01:00",
+    "departure": "09:02:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "PHU",
+    "station_name": "Pahur",
+    "day": 1,
+    "arrival": "09:27:00",
+    "departure": "09:28:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "BGR",
+    "station_name": "Bhagdara",
+    "day": 1,
+    "arrival": "09:44:00",
+    "departure": "09:45:00"
+  },
+  {
+    "train_number": "52121",
+    "station_code": "JMNR",
+    "station_name": "Jamner",
+    "day": 1,
+    "arrival": "10:05:00",
+    "departure": "None"
+  }
+]

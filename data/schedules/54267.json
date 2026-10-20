@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "54267",
+    "station_code": "MGS",
+    "station_name": "MUGHAL SARAI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:45:00"
+  },
+  {
+    "train_number": "54267",
+    "station_code": "VYN",
+    "station_name": "VYASNAGAR",
+    "day": 1,
+    "arrival": "08:59:00",
+    "departure": "09:01:00"
+  },
+  {
+    "train_number": "54267",
+    "station_code": "KEI",
+    "station_name": "KASHI",
+    "day": 1,
+    "arrival": "09:12:00",
+    "departure": "09:14:00"
+  },
+  {
+    "train_number": "54267",
+    "station_code": "BSB",
+    "station_name": "VARANASI JN",
+    "day": 1,
+    "arrival": "09:30:00",
+    "departure": "None"
+  }
+]

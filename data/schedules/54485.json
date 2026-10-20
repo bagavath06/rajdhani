@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "54485",
+    "station_code": "HW",
+    "station_name": "HARIDWAR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:25:00"
+  },
+  {
+    "train_number": "54485",
+    "station_code": "MOTC",
+    "station_name": "MOTICHUR",
+    "day": 1,
+    "arrival": "17:33:00",
+    "departure": "17:34:00"
+  },
+  {
+    "train_number": "54485",
+    "station_code": "RWL",
+    "station_name": "RAIWALA",
+    "day": 1,
+    "arrival": "17:45:00",
+    "departure": "17:46:00"
+  },
+  {
+    "train_number": "54485",
+    "station_code": "VRH",
+    "station_name": "VIRBHADRA",
+    "day": 1,
+    "arrival": "18:00:00",
+    "departure": "18:01:00"
+  },
+  {
+    "train_number": "54485",
+    "station_code": "RKSH",
+    "station_name": "RISHIKESH",
+    "day": 1,
+    "arrival": "18:15:00",
+    "departure": "None"
+  }
+]

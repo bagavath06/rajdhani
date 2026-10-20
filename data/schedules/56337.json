@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "56337",
+    "station_code": "PUU",
+    "station_name": "Punalur",
+    "day": 1,
+    "arrival": "None",
+    "departure": "19:15:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "AVS",
+    "station_name": "Auvaneeswaram",
+    "day": 1,
+    "arrival": "19:24:00",
+    "departure": "19:26:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "KKZ",
+    "station_name": "Kottarakara",
+    "day": 1,
+    "arrival": "19:38:00",
+    "departure": "19:40:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "EKN",
+    "station_name": "Ezhukone",
+    "day": 1,
+    "arrival": "19:52:00",
+    "departure": "19:54:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "KFV",
+    "station_name": "Kundara East",
+    "day": 1,
+    "arrival": "19:58:00",
+    "departure": "20:00:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "KUV",
+    "station_name": "Kundara",
+    "day": 1,
+    "arrival": "20:03:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "CTPE",
+    "station_name": "Chandanattop Halt",
+    "day": 1,
+    "arrival": "20:13:00",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "KLQ",
+    "station_name": "Kilikollur",
+    "day": 1,
+    "arrival": "20:18:00",
+    "departure": "20:20:00"
+  },
+  {
+    "train_number": "56337",
+    "station_code": "QLN",
+    "station_name": "KOLLAM JN",
+    "day": 1,
+    "arrival": "20:40:00",
+    "departure": "None"
+  }
+]

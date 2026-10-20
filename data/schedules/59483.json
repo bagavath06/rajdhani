@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "59483",
+    "station_code": "MSH",
+    "station_name": "MAHESANA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:40:00"
+  },
+  {
+    "train_number": "59483",
+    "station_code": "PHC",
+    "station_name": "PANCHOT",
+    "day": 1,
+    "arrival": "05:47:00",
+    "departure": "05:48:00"
+  },
+  {
+    "train_number": "59483",
+    "station_code": "DHJ",
+    "station_name": "DHINOJ",
+    "day": 1,
+    "arrival": "05:56:00",
+    "departure": "05:57:00"
+  },
+  {
+    "train_number": "59483",
+    "station_code": "MRD",
+    "station_name": "Manund",
+    "day": 1,
+    "arrival": "06:05:00",
+    "departure": "06:05:00"
+  },
+  {
+    "train_number": "59483",
+    "station_code": "RUJ",
+    "station_name": "RANUJ",
+    "day": 1,
+    "arrival": "06:11:00",
+    "departure": "06:12:00"
+  },
+  {
+    "train_number": "59483",
+    "station_code": "PTN",
+    "station_name": "PATAN",
+    "day": 1,
+    "arrival": "06:35:00",
+    "departure": "None"
+  }
+]

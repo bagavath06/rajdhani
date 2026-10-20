@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "59243",
+    "station_code": "RJU",
+    "station_name": "Rajula City",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:05:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "RLA",
+    "station_name": "RAJULA JN",
+    "day": 1,
+    "arrival": "12:20:00",
+    "departure": "12:35:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "DGJ",
+    "station_name": "DUNGAR JN",
+    "day": 1,
+    "arrival": "12:51:00",
+    "departure": "12:52:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "SJF",
+    "station_name": "SAJANVAR ROAD",
+    "day": 1,
+    "arrival": "12:59:00",
+    "departure": "13:00:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "AVL",
+    "station_name": "AMRITVEL",
+    "day": 1,
+    "arrival": "13:06:00",
+    "departure": "13:07:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "MQZ",
+    "station_name": "MOTA JADRA",
+    "day": 1,
+    "arrival": "13:13:00",
+    "departure": "13:14:00"
+  },
+  {
+    "train_number": "59243",
+    "station_code": "MHV",
+    "station_name": "MAHUVA JN",
+    "day": 1,
+    "arrival": "13:30:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "56527",
+    "station_code": "CAPE",
+    "station_name": "KANYAKUMARI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:40:00"
+  },
+  {
+    "train_number": "56527",
+    "station_code": "SUCH",
+    "station_name": "SUCHINDRAM",
+    "day": 1,
+    "arrival": "20:56:00",
+    "departure": "20:56:00"
+  },
+  {
+    "train_number": "56527",
+    "station_code": "NCJ",
+    "station_name": "NAGERCOIL JN",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "None"
+  }
+]

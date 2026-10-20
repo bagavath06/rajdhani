@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "55324",
+    "station_code": "RMR",
+    "station_name": "RAMNAGAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "03:45:00"
+  },
+  {
+    "train_number": "55324",
+    "station_code": "GWS",
+    "station_name": "GAUSHALA",
+    "day": 1,
+    "arrival": "03:59:00",
+    "departure": "04:00:00"
+  },
+  {
+    "train_number": "55324",
+    "station_code": "KPV",
+    "station_name": "KASHIPUR",
+    "day": 1,
+    "arrival": "04:11:00",
+    "departure": "04:16:00"
+  },
+  {
+    "train_number": "55324",
+    "station_code": "RHN",
+    "station_name": "ROSHANPUR",
+    "day": 1,
+    "arrival": "04:34:00",
+    "departure": "04:36:00"
+  },
+  {
+    "train_number": "55324",
+    "station_code": "PLS",
+    "station_name": "PIPALSANA",
+    "day": 1,
+    "arrival": "04:53:00",
+    "departure": "04:55:00"
+  },
+  {
+    "train_number": "55324",
+    "station_code": "MB",
+    "station_name": "MORADABAD",
+    "day": 1,
+    "arrival": "05:40:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "train_number": "51824",
+    "station_code": "FBD",
+    "station_name": "FARRUKHABAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "10:00:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "FGR",
+    "station_name": "FATEHGARH",
+    "day": 1,
+    "arrival": "10:15:00",
+    "departure": "10:16:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "YAG",
+    "station_name": "YAQUTGANJ",
+    "day": 1,
+    "arrival": "10:24:00",
+    "departure": "10:24:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KLJ",
+    "station_name": "KAMALGANJ",
+    "day": 1,
+    "arrival": "10:30:00",
+    "departure": "10:32:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SGRP",
+    "station_name": "SINGHIRAMPUR",
+    "day": 1,
+    "arrival": "10:37:00",
+    "departure": "10:37:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KDJ",
+    "station_name": "KHUDAGANJ",
+    "day": 1,
+    "arrival": "10:43:00",
+    "departure": "10:45:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MLKP",
+    "station_name": "MALIKPUR",
+    "day": 1,
+    "arrival": "10:54:00",
+    "departure": "10:54:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "GHJ",
+    "station_name": "GURSAHAIGANJ",
+    "day": 1,
+    "arrival": "10:59:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KHDP",
+    "station_name": "KHUDLAPUR",
+    "day": 1,
+    "arrival": "11:08:00",
+    "departure": "11:08:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "JDA",
+    "station_name": "JASODA",
+    "day": 1,
+    "arrival": "11:14:00",
+    "departure": "11:15:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "JPP",
+    "station_name": "JALALPUR PANWARA",
+    "day": 1,
+    "arrival": "11:19:00",
+    "departure": "11:19:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KJNC",
+    "station_name": "KANNAUJ CITY",
+    "day": 1,
+    "arrival": "11:29:00",
+    "departure": "11:29:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KJN",
+    "station_name": "KANNAUJ",
+    "day": 1,
+    "arrival": "11:32:00",
+    "departure": "11:34:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MNMU",
+    "station_name": "MANI MAU",
+    "day": 1,
+    "arrival": "11:44:00",
+    "departure": "11:44:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "ARL",
+    "station_name": "AROUL",
+    "day": 1,
+    "arrival": "12:01:00",
+    "departure": "12:01:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BLU",
+    "station_name": "BILHAUR",
+    "day": 1,
+    "arrival": "12:18:00",
+    "departure": "12:20:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "DUO",
+    "station_name": "DHAURSALAR",
+    "day": 1,
+    "arrival": "12:27:00",
+    "departure": "12:27:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "UTP",
+    "station_name": "UTRIPURA",
+    "day": 1,
+    "arrival": "12:34:00",
+    "departure": "12:35:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BJR",
+    "station_name": "BARRAJPUR",
+    "day": 1,
+    "arrival": "12:42:00",
+    "departure": "12:44:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "CBR",
+    "station_name": "CHAUBEPUR",
+    "day": 1,
+    "arrival": "12:53:00",
+    "departure": "12:55:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MDA",
+    "station_name": "MANDHANA JN",
+    "day": 1,
+    "arrival": "13:08:00",
+    "departure": "13:10:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KAP",
+    "station_name": "KALIANPUR",
+    "day": 1,
+    "arrival": "13:21:00",
+    "departure": "13:22:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "RPO",
+    "station_name": "RAWATPUR",
+    "day": 1,
+    "arrival": "13:38:00",
+    "departure": "13:39:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "CPA",
+    "station_name": "KANPUR ANWARGANJ",
+    "day": 1,
+    "arrival": "13:50:00",
+    "departure": "13:55:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "CNB",
+    "station_name": "KANPUR CENTRAL",
+    "day": 1,
+    "arrival": "14:05:00",
+    "departure": "14:20:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "CNBI",
+    "station_name": "CHANDARI",
+    "day": 1,
+    "arrival": "14:31:00",
+    "departure": "14:32:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "CHK",
+    "station_name": "CHAKERI",
+    "day": 1,
+    "arrival": "14:41:00",
+    "departure": "14:42:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "RXM",
+    "station_name": "ROOMA",
+    "day": 1,
+    "arrival": "14:49:00",
+    "departure": "14:50:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SSL",
+    "station_name": "SIRSAUL",
+    "day": 1,
+    "arrival": "14:57:00",
+    "departure": "14:58:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "PMPR",
+    "station_name": "PAMPORE",
+    "day": 1,
+    "arrival": "15:06:00",
+    "departure": "15:07:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KBN",
+    "station_name": "KARBIGWAN",
+    "day": 1,
+    "arrival": "15:13:00",
+    "departure": "15:14:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "AUNG",
+    "station_name": "AUNG",
+    "day": 1,
+    "arrival": "15:21:00",
+    "departure": "15:22:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BKO",
+    "station_name": "BINDKI ROAD",
+    "day": 1,
+    "arrival": "15:31:00",
+    "departure": "15:32:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KSQ",
+    "station_name": "KANSPUR GUGAULI",
+    "day": 1,
+    "arrival": "15:41:00",
+    "departure": "15:42:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MWH",
+    "station_name": "MALWAN",
+    "day": 1,
+    "arrival": "15:51:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KKS",
+    "station_name": "KURASTI KALAN",
+    "day": 1,
+    "arrival": "16:03:00",
+    "departure": "16:04:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "FTP",
+    "station_name": "FATEHPUR",
+    "day": 1,
+    "arrival": "16:39:00",
+    "departure": "16:40:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "RAMA",
+    "station_name": "RAMVA",
+    "day": 1,
+    "arrival": "16:47:00",
+    "departure": "16:47:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "FYZ",
+    "station_name": "FAIZULLAPUR",
+    "day": 1,
+    "arrival": "16:54:00",
+    "departure": "16:54:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "RUB",
+    "station_name": "RASULABAD",
+    "day": 1,
+    "arrival": "17:05:00",
+    "departure": "17:06:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SNIE",
+    "station_name": "SATH NARAINI",
+    "day": 1,
+    "arrival": "17:14:00",
+    "departure": "17:15:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KGA",
+    "station_name": "KHAGA",
+    "day": 1,
+    "arrival": "17:23:00",
+    "departure": "17:24:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KTCE",
+    "station_name": "KATOGHAN",
+    "day": 1,
+    "arrival": "17:32:00",
+    "departure": "17:33:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "KUW",
+    "station_name": "KANWAR",
+    "day": 1,
+    "arrival": "17:40:00",
+    "departure": "17:41:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "ASCE",
+    "station_name": "ATHSARAI",
+    "day": 1,
+    "arrival": "17:48:00",
+    "departure": "17:49:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SRO",
+    "station_name": "SIRATHU",
+    "day": 1,
+    "arrival": "17:57:00",
+    "departure": "17:58:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SJT",
+    "station_name": "SHUJAATPUR",
+    "day": 1,
+    "arrival": "18:09:00",
+    "departure": "18:10:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BDNP",
+    "station_name": "BIDANPUR",
+    "day": 1,
+    "arrival": "18:16:00",
+    "departure": "18:17:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BRE",
+    "station_name": "BHARWARI",
+    "day": 1,
+    "arrival": "18:25:00",
+    "departure": "18:26:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MNJ",
+    "station_name": "MANOHARGANJ",
+    "day": 1,
+    "arrival": "18:36:00",
+    "departure": "18:37:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SYWN",
+    "station_name": "SAIYID SARAWAN",
+    "day": 1,
+    "arrival": "18:46:00",
+    "departure": "18:47:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "MRE",
+    "station_name": "MANAURI",
+    "day": 1,
+    "arrival": "18:53:00",
+    "departure": "18:54:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "BMU",
+    "station_name": "BAMHRAULI",
+    "day": 1,
+    "arrival": "19:04:00",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "SFG",
+    "station_name": "SUBEDARGANJ",
+    "day": 1,
+    "arrival": "19:39:00",
+    "departure": "19:40:00"
+  },
+  {
+    "train_number": "51824",
+    "station_code": "ALD",
+    "station_name": "ALLAHABAD JN",
+    "day": 1,
+    "arrival": "20:05:00",
+    "departure": "None"
+  }
+]

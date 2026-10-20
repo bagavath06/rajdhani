@@ -1,0 +1,394 @@
+[
+  {
+    "train_number": "55902",
+    "station_code": "TSK",
+    "station_name": "Tinsukia Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:45:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NTSK",
+    "station_name": "NEW TINSUKIA JN",
+    "day": 1,
+    "arrival": "06:55:00",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "CGF",
+    "station_name": "CHARALI",
+    "day": 1,
+    "arrival": "07:25:00",
+    "departure": "07:26:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BDT",
+    "station_name": "BORDUBI ROAD",
+    "day": 1,
+    "arrival": "07:35:00",
+    "departure": "07:36:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "DJG",
+    "station_name": "DULIAJAN",
+    "day": 1,
+    "arrival": "07:49:00",
+    "departure": "07:50:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NHK",
+    "station_name": "NAHARKATIYA",
+    "day": 1,
+    "arrival": "08:04:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BTZ",
+    "station_name": "BALIMARA",
+    "day": 1,
+    "arrival": "08:26:00",
+    "departure": "08:27:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NAM",
+    "station_name": "NAMRUP",
+    "day": 1,
+    "arrival": "08:41:00",
+    "departure": "08:42:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BFD",
+    "station_name": "BORHAT",
+    "day": 1,
+    "arrival": "08:55:00",
+    "departure": "08:56:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BRNR",
+    "station_name": "BARUANAGAR",
+    "day": 1,
+    "arrival": "09:19:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "SPK",
+    "station_name": "SAPEKHATI",
+    "day": 1,
+    "arrival": "09:39:00",
+    "departure": "09:40:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "LPTA",
+    "station_name": "LONGPATIA",
+    "day": 1,
+    "arrival": "09:51:00",
+    "departure": "09:52:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BOJ",
+    "station_name": "BHOJO",
+    "day": 1,
+    "arrival": "10:06:00",
+    "departure": "10:07:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "SFR",
+    "station_name": "SAFRAI",
+    "day": 1,
+    "arrival": "10:17:00",
+    "departure": "10:18:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "LXA",
+    "station_name": "LAKSWA",
+    "day": 1,
+    "arrival": "10:30:00",
+    "departure": "10:31:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "MUGN",
+    "station_name": "MAHUTGAON",
+    "day": 1,
+    "arrival": "10:42:00",
+    "departure": "10:43:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "SLGR",
+    "station_name": "SIMALUGURI JN",
+    "day": 1,
+    "arrival": "10:55:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NZR",
+    "station_name": "NAZIRA",
+    "day": 1,
+    "arrival": "11:06:00",
+    "departure": "11:07:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "MZA",
+    "station_name": "MEZENGA S",
+    "day": 1,
+    "arrival": "11:15:00",
+    "departure": "11:16:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NMT",
+    "station_name": "NAMTIALI",
+    "day": 1,
+    "arrival": "11:27:00",
+    "departure": "11:28:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "AGI",
+    "station_name": "AMGURI",
+    "day": 1,
+    "arrival": "11:41:00",
+    "departure": "11:46:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "SLX",
+    "station_name": "SELENG HAT",
+    "day": 1,
+    "arrival": "11:54:00",
+    "departure": "11:55:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "LH",
+    "station_name": "LAHING",
+    "day": 1,
+    "arrival": "12:04:00",
+    "departure": "12:05:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NCH",
+    "station_name": "NAKACHARI",
+    "day": 1,
+    "arrival": "12:14:00",
+    "departure": "12:15:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "MXN",
+    "station_name": "MARIANI JN",
+    "day": 1,
+    "arrival": "12:50:00",
+    "departure": "13:00:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "KQY",
+    "station_name": "KHARIKATIA",
+    "day": 1,
+    "arrival": "13:10:00",
+    "departure": "13:11:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "TTB",
+    "station_name": "TITABAR",
+    "day": 1,
+    "arrival": "13:20:00",
+    "departure": "13:21:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "CFG",
+    "station_name": "CHAKITING",
+    "day": 1,
+    "arrival": "13:33:00",
+    "departure": "13:34:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "KXL",
+    "station_name": "KAMARBANDHA ALI",
+    "day": 1,
+    "arrival": "13:43:00",
+    "departure": "13:44:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "FKG",
+    "station_name": "FURKATING JN",
+    "day": 1,
+    "arrival": "14:40:00",
+    "departure": "14:45:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "OTN",
+    "station_name": "OATING",
+    "day": 1,
+    "arrival": "14:51:00",
+    "departure": "14:52:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "JMI",
+    "station_name": "JAMGURI",
+    "day": 1,
+    "arrival": "15:01:00",
+    "departure": "15:02:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BHGN",
+    "station_name": "BHILGAON",
+    "day": 1,
+    "arrival": "15:13:00",
+    "departure": "15:14:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BXP",
+    "station_name": "BARPATHAR",
+    "day": 1,
+    "arrival": "15:48:00",
+    "departure": "15:49:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "SZR",
+    "station_name": "SARUPATHAR",
+    "day": 1,
+    "arrival": "16:04:00",
+    "departure": "16:05:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NJN",
+    "station_name": "NAOJAN",
+    "day": 1,
+    "arrival": "16:14:00",
+    "departure": "16:15:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "CJA",
+    "station_name": "CHONGAJAN",
+    "day": 1,
+    "arrival": "16:25:00",
+    "departure": "16:26:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BXJ",
+    "station_name": "BOKAJAN",
+    "day": 1,
+    "arrival": "16:40:00",
+    "departure": "16:41:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "KHKT",
+    "station_name": "KHOTKHOTI",
+    "day": 1,
+    "arrival": "16:50:00",
+    "departure": "16:51:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "DMV",
+    "station_name": "DIMAPUR",
+    "day": 1,
+    "arrival": "17:05:00",
+    "departure": "17:15:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "RXRX",
+    "station_name": "RANGAPAHAR CRS",
+    "day": 1,
+    "arrival": "17:22:00",
+    "departure": "17:23:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "RXR",
+    "station_name": "RANGAPAHAR",
+    "day": 1,
+    "arrival": "17:32:00",
+    "departure": "17:33:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "DSR",
+    "station_name": "DHANSIRI",
+    "day": 1,
+    "arrival": "17:43:00",
+    "departure": "17:44:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "DLDE",
+    "station_name": "DALDALI",
+    "day": 1,
+    "arrival": "17:56:00",
+    "departure": "17:57:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "DPU",
+    "station_name": "DIPHU",
+    "day": 1,
+    "arrival": "18:20:00",
+    "departure": "18:25:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "NLN",
+    "station_name": "NAILALUNG",
+    "day": 2,
+    "arrival": "18:43:00",
+    "departure": "18:44:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "LCT",
+    "station_name": "LANGCHOLIET",
+    "day": 3,
+    "arrival": "18:59:00",
+    "departure": "19:00:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "BRLF",
+    "station_name": "BAR LANGFER S",
+    "day": 4,
+    "arrival": "19:34:00",
+    "departure": "19:35:00"
+  },
+  {
+    "train_number": "55902",
+    "station_code": "LMG",
+    "station_name": "LUMDING JN",
+    "day": 5,
+    "arrival": "20:10:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "52970",
+    "station_code": "FTD",
+    "station_name": "Fatehabad Chowk Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:00:00"
+  },
+  {
+    "train_number": "52970",
+    "station_code": "LOD",
+    "station_name": "Lekoda",
+    "day": 1,
+    "arrival": "18:09:00",
+    "departure": "18:10:00"
+  },
+  {
+    "train_number": "52970",
+    "station_code": "CNN",
+    "station_name": "Chintaman Ganes",
+    "day": 1,
+    "arrival": "18:20:00",
+    "departure": "18:21:00"
+  },
+  {
+    "train_number": "52970",
+    "station_code": "UJN",
+    "station_name": "UJJAIN JN",
+    "day": 1,
+    "arrival": "18:40:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "55747",
+    "station_code": "SGUJ",
+    "station_name": "SILIGURI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "16:50:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "SGUT",
+    "station_name": "SILIGURU TOWN",
+    "day": 1,
+    "arrival": "16:57:00",
+    "departure": "16:59:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "NJP",
+    "station_name": "NEW JALPAIGURI",
+    "day": 1,
+    "arrival": "17:15:00",
+    "departure": "17:45:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "ABFC",
+    "station_name": "AMBARI FALAKATA",
+    "day": 1,
+    "arrival": "17:56:00",
+    "departure": "17:58:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "BLK",
+    "station_name": "BELAKOBA",
+    "day": 1,
+    "arrival": "18:10:00",
+    "departure": "18:11:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "RQJ",
+    "station_name": "RANINAGAR JALPAIGIRI",
+    "day": 1,
+    "arrival": "18:23:00",
+    "departure": "18:25:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "MOP",
+    "station_name": "MOHITNAGAR",
+    "day": 1,
+    "arrival": "18:35:00",
+    "departure": "18:36:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "JPG",
+    "station_name": "JALPAIGURI",
+    "day": 1,
+    "arrival": "18:45:00",
+    "departure": "18:47:00"
+  },
+  {
+    "train_number": "55747",
+    "station_code": "HDB",
+    "station_name": "HALDIBARI",
+    "day": 1,
+    "arrival": "19:35:00",
+    "departure": "None"
+  }
+]

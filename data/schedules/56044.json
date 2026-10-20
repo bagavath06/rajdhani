@@ -1,0 +1,34 @@
+[
+  {
+    "train_number": "56044",
+    "station_code": "TCR",
+    "station_name": "THRISUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:55:00"
+  },
+  {
+    "train_number": "56044",
+    "station_code": "PNQ",
+    "station_name": "PUNKUNNAM",
+    "day": 1,
+    "arrival": "18:57:00",
+    "departure": "18:58:00"
+  },
+  {
+    "train_number": "56044",
+    "station_code": "AMLR",
+    "station_name": "AMALA NAGAR",
+    "day": 1,
+    "arrival": "19:06:00",
+    "departure": "19:06:00"
+  },
+  {
+    "train_number": "56044",
+    "station_code": "GUV",
+    "station_name": "GURUVAYUR",
+    "day": 1,
+    "arrival": "19:30:00",
+    "departure": "None"
+  }
+]

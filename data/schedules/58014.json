@@ -1,0 +1,546 @@
+[
+  {
+    "train_number": "58014",
+    "station_code": "BKSC",
+    "station_name": "BOKARO STEEL CITY",
+    "day": 1,
+    "arrival": "None",
+    "departure": "23:45:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "TKB",
+    "station_name": "TUPKADIH",
+    "day": 1,
+    "arrival": "23:54:00",
+    "departure": "23:55:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "RJB",
+    "station_name": "RAJABERA",
+    "day": 2,
+    "arrival": "00:07:00",
+    "departure": "00:07:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "CRP",
+    "station_name": "CHANDRAPURA",
+    "day": 2,
+    "arrival": "00:12:00",
+    "departure": "00:14:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "DDGA",
+    "station_name": "DUGDA",
+    "day": 2,
+    "arrival": "00:20:00",
+    "departure": "00:20:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "JNN",
+    "station_name": "Jamuniatand",
+    "day": 2,
+    "arrival": "00:23:00",
+    "departure": "00:24:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MHQ",
+    "station_name": "Mahuda",
+    "day": 2,
+    "arrival": "00:48:00",
+    "departure": "00:50:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "TLE",
+    "station_name": "Talgaria",
+    "day": 2,
+    "arrival": "01:03:00",
+    "departure": "01:04:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SBW",
+    "station_name": "Shewbabudih",
+    "day": 2,
+    "arrival": "01:11:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BJE",
+    "station_name": "Bhojudih Junction",
+    "day": 2,
+    "arrival": "01:23:00",
+    "departure": "01:25:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SNTD",
+    "station_name": "Santaldih",
+    "day": 2,
+    "arrival": "01:33:00",
+    "departure": "01:34:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "RUI",
+    "station_name": "Rukni",
+    "day": 2,
+    "arrival": "01:44:00",
+    "departure": "01:45:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SNKR",
+    "station_name": "Sanka",
+    "day": 2,
+    "arrival": "01:52:00",
+    "departure": "01:53:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ADRA",
+    "station_name": "ADRA JN",
+    "day": 2,
+    "arrival": "02:15:00",
+    "departure": "04:40:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MYX",
+    "station_name": "METYAL SOHAR",
+    "day": 2,
+    "arrival": "04:50:00",
+    "departure": "04:51:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "IBL",
+    "station_name": "INDRABIL",
+    "day": 2,
+    "arrival": "04:57:00",
+    "departure": "04:58:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SRJM",
+    "station_name": "SIRJAM",
+    "day": 2,
+    "arrival": "05:05:00",
+    "departure": "05:06:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "JPH",
+    "station_name": "JHANTIPAHARI",
+    "day": 2,
+    "arrival": "05:14:00",
+    "departure": "05:15:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "CJN",
+    "station_name": "CHHATNA",
+    "day": 2,
+    "arrival": "05:23:00",
+    "departure": "05:24:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ANCR",
+    "station_name": "ANCHURI",
+    "day": 2,
+    "arrival": "05:26:00",
+    "departure": "05:26:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BQA",
+    "station_name": "BANKURA",
+    "day": 2,
+    "arrival": "05:35:00",
+    "departure": "05:37:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BXL",
+    "station_name": "BHEDUASOL",
+    "day": 2,
+    "arrival": "05:42:00",
+    "departure": "05:42:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ODM",
+    "station_name": "ONDAGRAM",
+    "day": 2,
+    "arrival": "05:49:00",
+    "departure": "05:50:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "RSG",
+    "station_name": "RAMSAGAR",
+    "day": 2,
+    "arrival": "05:58:00",
+    "departure": "05:59:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "VSU",
+    "station_name": "BISHNUPUR",
+    "day": 2,
+    "arrival": "06:04:00",
+    "departure": "06:06:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "PBA",
+    "station_name": "PIARDOBA",
+    "day": 2,
+    "arrival": "06:16:00",
+    "departure": "06:17:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BGO",
+    "station_name": "BOGRI ROAD",
+    "day": 2,
+    "arrival": "06:24:00",
+    "departure": "06:24:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "GBA",
+    "station_name": "GARHBETA",
+    "day": 2,
+    "arrival": "06:27:00",
+    "departure": "06:28:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "CDGR",
+    "station_name": "CHANDRAKONA RD",
+    "day": 2,
+    "arrival": "06:37:00",
+    "departure": "06:38:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SLB",
+    "station_name": "SALBONI",
+    "day": 2,
+    "arrival": "06:47:00",
+    "departure": "06:48:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "GSL",
+    "station_name": "GODAPIASAL",
+    "day": 2,
+    "arrival": "07:23:00",
+    "departure": "07:23:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BUTA",
+    "station_name": "BHADUTALA",
+    "day": 2,
+    "arrival": "07:37:00",
+    "departure": "07:37:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MDN",
+    "station_name": "MIDNAPORE",
+    "day": 2,
+    "arrival": "07:58:00",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "GKL",
+    "station_name": "GOKULPUR",
+    "day": 2,
+    "arrival": "08:36:00",
+    "departure": "08:36:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "GMDN",
+    "station_name": "GIRIMAIDAN",
+    "day": 2,
+    "arrival": "08:57:00",
+    "departure": "08:57:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "KGP",
+    "station_name": "KHARAGPUR JN",
+    "day": 2,
+    "arrival": "09:03:00",
+    "departure": "09:05:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "JPR",
+    "station_name": "JAKPUR",
+    "day": 2,
+    "arrival": "09:13:00",
+    "departure": "09:13:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MPD",
+    "station_name": "MADPUR",
+    "day": 2,
+    "arrival": "09:19:00",
+    "departure": "09:19:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SMCK",
+    "station_name": "SHYAM CHAK",
+    "day": 2,
+    "arrival": "09:25:00",
+    "departure": "09:25:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BCK",
+    "station_name": "BALICHAK",
+    "day": 2,
+    "arrival": "09:32:00",
+    "departure": "09:33:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "DUAN",
+    "station_name": "DUAN",
+    "day": 2,
+    "arrival": "09:37:00",
+    "departure": "09:37:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "RDU",
+    "station_name": "RADHAMOHANPUR",
+    "day": 2,
+    "arrival": "09:41:00",
+    "departure": "09:41:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "HAUR",
+    "station_name": "HAUR",
+    "day": 2,
+    "arrival": "09:46:00",
+    "departure": "09:46:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "PKU",
+    "station_name": "PANSKURA",
+    "day": 2,
+    "arrival": "09:57:00",
+    "departure": "10:02:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "NPMR",
+    "station_name": "NARAYAN PAKURIA",
+    "day": 2,
+    "arrival": "10:07:00",
+    "departure": "10:07:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BOP",
+    "station_name": "BHOGPUR",
+    "day": 2,
+    "arrival": "10:12:00",
+    "departure": "10:12:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "NDGJ",
+    "station_name": "NANDAHGANJA",
+    "day": 2,
+    "arrival": "10:15:00",
+    "departure": "10:15:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MCA",
+    "station_name": "MECHEDA",
+    "day": 2,
+    "arrival": "10:18:00",
+    "departure": "10:19:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "KIG",
+    "station_name": "KOLAGHAT GOODS",
+    "day": 2,
+    "arrival": "10:23:00",
+    "departure": "10:23:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "DTE",
+    "station_name": "DEULTI",
+    "day": 2,
+    "arrival": "10:27:00",
+    "departure": "10:27:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "GGTA",
+    "station_name": "GHORAGHATA",
+    "day": 2,
+    "arrival": "10:30:00",
+    "departure": "10:30:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BZN",
+    "station_name": "BAGNAN",
+    "day": 2,
+    "arrival": "10:34:00",
+    "departure": "10:35:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "KGY",
+    "station_name": "KULGACHIA",
+    "day": 2,
+    "arrival": "10:42:00",
+    "departure": "10:42:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BSBP",
+    "station_name": "BIR SHIBPUR",
+    "day": 2,
+    "arrival": "10:43:00",
+    "departure": "10:43:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ULB",
+    "station_name": "ULUBARIA",
+    "day": 2,
+    "arrival": "10:47:00",
+    "departure": "10:48:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "FLR",
+    "station_name": "PHULESWAR",
+    "day": 2,
+    "arrival": "10:52:00",
+    "departure": "10:53:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "CGA",
+    "station_name": "CHENGEL",
+    "day": 2,
+    "arrival": "10:55:00",
+    "departure": "10:55:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "BVA",
+    "station_name": "BAURIA JN",
+    "day": 2,
+    "arrival": "10:58:00",
+    "departure": "10:59:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "NALR",
+    "station_name": "NALPUR",
+    "day": 2,
+    "arrival": "11:06:00",
+    "departure": "11:06:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ABB",
+    "station_name": "ABADA",
+    "day": 2,
+    "arrival": "11:11:00",
+    "departure": "11:11:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SEL",
+    "station_name": "SANKRALL",
+    "day": 2,
+    "arrival": "11:15:00",
+    "departure": "11:15:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "ADL",
+    "station_name": "ANDUL",
+    "day": 2,
+    "arrival": "11:22:00",
+    "departure": "11:22:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "MRGM",
+    "station_name": "MAURIGRAM",
+    "day": 2,
+    "arrival": "11:25:00",
+    "departure": "11:25:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "SRC",
+    "station_name": "SANTRAGACHI JN",
+    "day": 2,
+    "arrival": "11:31:00",
+    "departure": "11:31:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "RMJ",
+    "station_name": "RAMRAJATALA",
+    "day": 2,
+    "arrival": "11:34:00",
+    "departure": "11:34:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "DSNR",
+    "station_name": "DASHNAGAR",
+    "day": 2,
+    "arrival": "11:37:00",
+    "departure": "11:37:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "TPKR",
+    "station_name": "TIKIAPARA",
+    "day": 2,
+    "arrival": "11:40:00",
+    "departure": "11:40:00"
+  },
+  {
+    "train_number": "58014",
+    "station_code": "HWH",
+    "station_name": "HOWRAH JN",
+    "day": 2,
+    "arrival": "11:45:00",
+    "departure": "None"
+  }
+]

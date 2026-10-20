@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "55578",
+    "station_code": "BIRL",
+    "station_name": "Biraul",
+    "day": 1,
+    "arrival": "None",
+    "departure": "11:30:00"
+  },
+  {
+    "train_number": "55578",
+    "station_code": "NUIH",
+    "station_name": "Neuri Halt",
+    "day": 1,
+    "arrival": "11:50:00",
+    "departure": "11:51:00"
+  },
+  {
+    "train_number": "55578",
+    "station_code": "BPAH",
+    "station_name": "Benipur Halt",
+    "day": 1,
+    "arrival": "12:08:00",
+    "departure": "12:09:00"
+  },
+  {
+    "train_number": "55578",
+    "station_code": "JPAH",
+    "station_name": "Jagdishpur Halt",
+    "day": 1,
+    "arrival": "12:33:00",
+    "departure": "12:34:00"
+  },
+  {
+    "train_number": "55578",
+    "station_code": "SKI",
+    "station_name": "SAKRI JN",
+    "day": 1,
+    "arrival": "13:00:00",
+    "departure": "None"
+  }
+]

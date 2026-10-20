@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "52183",
+    "station_code": "BARI",
+    "station_name": "Bari",
+    "day": 1,
+    "arrival": "None",
+    "departure": "14:45:00"
+  },
+  {
+    "train_number": "52183",
+    "station_code": "MHF",
+    "station_name": "Mohari Junction",
+    "day": 1,
+    "arrival": "15:04:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "52183",
+    "station_code": "AGE",
+    "station_name": "Angai",
+    "day": 1,
+    "arrival": "15:19:00",
+    "departure": "15:19:00"
+  },
+  {
+    "train_number": "52183",
+    "station_code": "RNB",
+    "station_name": "Ranpura",
+    "day": 1,
+    "arrival": "15:24:00",
+    "departure": "15:25:00"
+  },
+  {
+    "train_number": "52183",
+    "station_code": "BRLI",
+    "station_name": "Barauli",
+    "day": 1,
+    "arrival": "15:52:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "52183",
+    "station_code": "SRMT",
+    "station_name": "Sirmuttra",
+    "day": 1,
+    "arrival": "16:25:00",
+    "departure": "None"
+  }
+]

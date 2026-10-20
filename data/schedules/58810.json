@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "58810",
+    "station_code": "NGP",
+    "station_name": "NAGPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:40:00"
+  },
+  {
+    "train_number": "58810",
+    "station_code": "ITR",
+    "station_name": "ITWARI",
+    "day": 1,
+    "arrival": "05:51:00",
+    "departure": "05:53:00"
+  },
+  {
+    "train_number": "58810",
+    "station_code": "KAV",
+    "station_name": "KALAMNA",
+    "day": 1,
+    "arrival": "06:07:00",
+    "departure": "06:08:00"
+  },
+  {
+    "train_number": "58810",
+    "station_code": "KP",
+    "station_name": "KAMPTEE",
+    "day": 1,
+    "arrival": "06:18:00",
+    "departure": "06:19:00"
+  },
+  {
+    "train_number": "58810",
+    "station_code": "KNHN",
+    "station_name": "KANTHAN JN",
+    "day": 1,
+    "arrival": "06:26:00",
+    "departure": "06:28:00"
+  },
+  {
+    "train_number": "58810",
+    "station_code": "RTK",
+    "station_name": "Ramtek",
+    "day": 1,
+    "arrival": "07:09:00",
+    "departure": "None"
+  }
+]

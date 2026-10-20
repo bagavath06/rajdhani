@@ -1,0 +1,554 @@
+[
+  {
+    "train_number": "12729",
+    "station_code": "PUNE",
+    "station_name": "PUNE JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "22:00:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "GPRW",
+    "station_name": "GHORPURI WEST",
+    "day": 1,
+    "arrival": "22:02:00",
+    "departure": "22:02:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "HDP",
+    "station_name": "HADAPSAR",
+    "day": 1,
+    "arrival": "22:05:00",
+    "departure": "22:05:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "MJBK",
+    "station_name": "MANJARI BUDRUK",
+    "day": 1,
+    "arrival": "22:10:00",
+    "departure": "22:10:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "LONI",
+    "station_name": "LONI",
+    "day": 1,
+    "arrival": "22:15:00",
+    "departure": "22:15:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "URI",
+    "station_name": "URULI",
+    "day": 1,
+    "arrival": "22:27:00",
+    "departure": "22:27:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "YT",
+    "station_name": "YEVAT",
+    "day": 1,
+    "arrival": "22:39:00",
+    "departure": "22:39:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KTT",
+    "station_name": "KHUTBAV",
+    "day": 1,
+    "arrival": "22:44:00",
+    "departure": "22:44:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KDG",
+    "station_name": "KEDGAON",
+    "day": 1,
+    "arrival": "22:51:00",
+    "departure": "22:51:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KDTN",
+    "station_name": "KADETHAN",
+    "day": 1,
+    "arrival": "22:56:00",
+    "departure": "22:56:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PAA",
+    "station_name": "PATAS",
+    "day": 1,
+    "arrival": "22:59:00",
+    "departure": "22:59:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "DD",
+    "station_name": "DAUND JN",
+    "day": 1,
+    "arrival": "23:10:00",
+    "departure": "23:25:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KSTH",
+    "station_name": "KASHTI",
+    "day": 1,
+    "arrival": "23:37:00",
+    "departure": "23:37:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SGND",
+    "station_name": "SHRIGONDA ROAD",
+    "day": 1,
+    "arrival": "23:44:00",
+    "departure": "23:44:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "BWD",
+    "station_name": "BELVANDI",
+    "day": 1,
+    "arrival": "23:57:00",
+    "departure": "23:57:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "VPR",
+    "station_name": "VISAPUR",
+    "day": 2,
+    "arrival": "00:09:00",
+    "departure": "00:09:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "RNJD",
+    "station_name": "RANJANGAON RD",
+    "day": 2,
+    "arrival": "00:15:00",
+    "departure": "00:15:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SRL",
+    "station_name": "SAROLA",
+    "day": 2,
+    "arrival": "00:24:00",
+    "departure": "00:24:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "AKR",
+    "station_name": "AKOLNER",
+    "day": 2,
+    "arrival": "00:29:00",
+    "departure": "00:29:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "ANG",
+    "station_name": "AHMADNAGAR",
+    "day": 2,
+    "arrival": "00:40:00",
+    "departure": "00:43:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "VL",
+    "station_name": "VILAD",
+    "day": 2,
+    "arrival": "00:56:00",
+    "departure": "00:56:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "VBR",
+    "station_name": "VAMBORI",
+    "day": 2,
+    "arrival": "01:06:00",
+    "departure": "01:06:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "RRI",
+    "station_name": "RAHURI",
+    "day": 2,
+    "arrival": "01:17:00",
+    "departure": "01:17:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "TKMY",
+    "station_name": "TAKLIMIYA",
+    "day": 2,
+    "arrival": "01:21:00",
+    "departure": "01:21:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PDGN",
+    "station_name": "PADHEGAON",
+    "day": 2,
+    "arrival": "01:28:00",
+    "departure": "01:28:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "NPW",
+    "station_name": "NIPANI VADGAON",
+    "day": 2,
+    "arrival": "01:33:00",
+    "departure": "01:33:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "BAP",
+    "station_name": "BELAPUR",
+    "day": 2,
+    "arrival": "01:38:00",
+    "departure": "01:40:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "CIT",
+    "station_name": "CHITALI",
+    "day": 2,
+    "arrival": "01:53:00",
+    "departure": "01:53:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PB",
+    "station_name": "PUNTAMBA",
+    "day": 2,
+    "arrival": "02:02:00",
+    "departure": "02:02:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KNGN",
+    "station_name": "KANHEGAON",
+    "day": 2,
+    "arrival": "02:21:00",
+    "departure": "02:21:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SNVR",
+    "station_name": "SANVATSAR",
+    "day": 2,
+    "arrival": "02:25:00",
+    "departure": "02:25:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KPG",
+    "station_name": "KOPARGAON",
+    "day": 2,
+    "arrival": "02:28:00",
+    "departure": "02:30:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "YL",
+    "station_name": "YEOLA",
+    "day": 2,
+    "arrival": "02:53:00",
+    "departure": "02:53:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "ANK",
+    "station_name": "ANKAI",
+    "day": 2,
+    "arrival": "03:19:00",
+    "departure": "03:19:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "MMR",
+    "station_name": "MANMAD JN",
+    "day": 2,
+    "arrival": "03:30:00",
+    "departure": "03:40:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "ANK",
+    "station_name": "ANKAI",
+    "day": 2,
+    "arrival": "03:49:00",
+    "departure": "03:49:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "NSL",
+    "station_name": "NAGARSOL",
+    "day": 2,
+    "arrival": "04:02:00",
+    "departure": "04:02:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "TR",
+    "station_name": "TARU",
+    "day": 2,
+    "arrival": "04:07:00",
+    "departure": "04:07:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "RGO",
+    "station_name": "ROTEGAON",
+    "day": 2,
+    "arrival": "04:26:00",
+    "departure": "04:26:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PSD",
+    "station_name": "PARSODA",
+    "day": 2,
+    "arrival": "04:37:00",
+    "departure": "04:37:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "LSR",
+    "station_name": "LASUR",
+    "day": 2,
+    "arrival": "04:50:00",
+    "departure": "04:50:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "POZ",
+    "station_name": "POTUL",
+    "day": 2,
+    "arrival": "05:00:00",
+    "departure": "05:00:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "DLB",
+    "station_name": "DAULATABAD",
+    "day": 2,
+    "arrival": "05:08:00",
+    "departure": "05:08:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "AWB",
+    "station_name": "AURANGABAD",
+    "day": 2,
+    "arrival": "05:18:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "MKDD",
+    "station_name": "MUKUNDWADI HALT",
+    "day": 2,
+    "arrival": "05:28:00",
+    "departure": "05:28:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "CTH",
+    "station_name": "CHIKALTHANA",
+    "day": 2,
+    "arrival": "05:41:00",
+    "departure": "05:41:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KMV",
+    "station_name": "KARMAD",
+    "day": 2,
+    "arrival": "05:44:00",
+    "departure": "05:44:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "BDU",
+    "station_name": "BADNAPUR",
+    "day": 2,
+    "arrival": "05:57:00",
+    "departure": "05:57:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "J",
+    "station_name": "JALNA",
+    "day": 2,
+    "arrival": "06:13:00",
+    "departure": "06:15:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SVD",
+    "station_name": "SARWARI",
+    "day": 2,
+    "arrival": "06:23:00",
+    "departure": "06:23:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "KODI",
+    "station_name": "KODI",
+    "day": 2,
+    "arrival": "06:32:00",
+    "departure": "06:32:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "RNE",
+    "station_name": "RANJANI",
+    "day": 2,
+    "arrival": "06:41:00",
+    "departure": "06:41:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PDG",
+    "station_name": "PARADGAON",
+    "day": 2,
+    "arrival": "06:47:00",
+    "departure": "06:47:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PTU",
+    "station_name": "PARTUR",
+    "day": 2,
+    "arrival": "06:53:00",
+    "departure": "06:55:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "UPR",
+    "station_name": "USMANPUR",
+    "day": 2,
+    "arrival": "07:01:00",
+    "departure": "07:01:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SCO",
+    "station_name": "SATUNA",
+    "day": 2,
+    "arrival": "07:07:00",
+    "departure": "07:07:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "SELU",
+    "station_name": "SELU",
+    "day": 2,
+    "arrival": "07:13:00",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "DGPP",
+    "station_name": "DHENGLI PP GOAN",
+    "day": 2,
+    "arrival": "07:28:00",
+    "departure": "07:28:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "MVO",
+    "station_name": "MANWATH ROAD",
+    "day": 2,
+    "arrival": "07:36:00",
+    "departure": "07:36:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "DAV",
+    "station_name": "DEVALGAON AVCHAR",
+    "day": 2,
+    "arrival": "07:49:00",
+    "departure": "07:49:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PG",
+    "station_name": "PERGAON",
+    "day": 2,
+    "arrival": "07:57:00",
+    "departure": "07:57:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PBN",
+    "station_name": "PARBHANI JN",
+    "day": 2,
+    "arrival": "08:13:00",
+    "departure": "08:15:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PIZ",
+    "station_name": "PINGLI",
+    "day": 2,
+    "arrival": "08:30:00",
+    "departure": "08:30:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "MQL",
+    "station_name": "MIRKHAL",
+    "day": 2,
+    "arrival": "08:37:00",
+    "departure": "08:37:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "PAU",
+    "station_name": "PURNA JN",
+    "day": 2,
+    "arrival": "08:53:00",
+    "departure": "08:55:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "CRU",
+    "station_name": "CHUDAWA",
+    "day": 2,
+    "arrival": "09:17:00",
+    "departure": "09:17:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "LBG",
+    "station_name": "LIMBGAON",
+    "day": 2,
+    "arrival": "09:38:00",
+    "departure": "09:38:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "WNG",
+    "station_name": "WANEGAON",
+    "day": 2,
+    "arrival": "09:48:00",
+    "departure": "09:48:00"
+  },
+  {
+    "train_number": "12729",
+    "station_code": "NED",
+    "station_name": "HUZUR SAHIB NANDED",
+    "day": 2,
+    "arrival": "10:00:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "54243",
+    "station_code": "MUR",
+    "station_name": "MANKAPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:00:00"
+  },
+  {
+    "train_number": "54243",
+    "station_code": "TRE",
+    "station_name": "TIKRI",
+    "day": 1,
+    "arrival": "17:12:00",
+    "departure": "17:13:00"
+  },
+  {
+    "train_number": "54243",
+    "station_code": "NGB",
+    "station_name": "NAWABGANJ GONDA",
+    "day": 1,
+    "arrival": "17:22:00",
+    "departure": "17:23:00"
+  },
+  {
+    "train_number": "54243",
+    "station_code": "KEA",
+    "station_name": "KATRA",
+    "day": 1,
+    "arrival": "17:32:00",
+    "departure": "17:37:00"
+  },
+  {
+    "train_number": "54243",
+    "station_code": "AY",
+    "station_name": "AYODHYA",
+    "day": 1,
+    "arrival": "18:10:00",
+    "departure": "None"
+  }
+]

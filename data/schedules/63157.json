@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "63157",
+    "station_code": "JSME",
+    "station_name": "JASIDIH JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:26:00"
+  },
+  {
+    "train_number": "63157",
+    "station_code": "SSNR",
+    "station_name": "Satsang Nagar Halt",
+    "day": 1,
+    "arrival": "12:33:00",
+    "departure": "12:34:00"
+  },
+  {
+    "train_number": "63157",
+    "station_code": "BDME",
+    "station_name": "Baidyanathdham Deoghar",
+    "day": 1,
+    "arrival": "12:45:00",
+    "departure": "None"
+  }
+]

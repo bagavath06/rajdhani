@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "51115",
+    "station_code": "CSN",
+    "station_name": "CHALISGAON JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:30:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "BFJ",
+    "station_name": "Bhoras Budrukh",
+    "day": 1,
+    "arrival": "17:38:00",
+    "departure": "17:39:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "JMD",
+    "station_name": "Jamdha",
+    "day": 1,
+    "arrival": "17:49:00",
+    "departure": "17:50:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "RM",
+    "station_name": "Rajmane",
+    "day": 1,
+    "arrival": "18:00:00",
+    "departure": "18:01:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "MWK",
+    "station_name": "Mordad Tanda",
+    "day": 1,
+    "arrival": "18:07:00",
+    "departure": "18:08:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "SHF",
+    "station_name": "Shirud",
+    "day": 1,
+    "arrival": "18:17:00",
+    "departure": "18:18:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "BRVR",
+    "station_name": "Borvihir",
+    "day": 1,
+    "arrival": "18:27:00",
+    "departure": "18:28:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "MHAD",
+    "station_name": "Mohadi Pragane Laling",
+    "day": 1,
+    "arrival": "18:39:00",
+    "departure": "18:40:00"
+  },
+  {
+    "train_number": "51115",
+    "station_code": "DHI",
+    "station_name": "Dhule",
+    "day": 1,
+    "arrival": "18:45:00",
+    "departure": "None"
+  }
+]

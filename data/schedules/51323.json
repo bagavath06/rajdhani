@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "51323",
+    "station_code": "DD",
+    "station_name": "DAUND JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:25:00"
+  },
+  {
+    "train_number": "51323",
+    "station_code": "MDDG",
+    "station_name": "Malad Gaon",
+    "day": 1,
+    "arrival": "05:46:00",
+    "departure": "05:47:00"
+  },
+  {
+    "train_number": "51323",
+    "station_code": "SSI",
+    "station_name": "Shirsai",
+    "day": 1,
+    "arrival": "05:57:00",
+    "departure": "05:58:00"
+  },
+  {
+    "train_number": "51323",
+    "station_code": "SSF",
+    "station_name": "Sirsuphal",
+    "day": 1,
+    "arrival": "06:02:00",
+    "departure": "06:03:00"
+  },
+  {
+    "train_number": "51323",
+    "station_code": "KFH",
+    "station_name": "Katphal",
+    "day": 1,
+    "arrival": "06:18:00",
+    "departure": "06:19:00"
+  },
+  {
+    "train_number": "51323",
+    "station_code": "BRMT",
+    "station_name": "Baramati",
+    "day": 1,
+    "arrival": "06:45:00",
+    "departure": "None"
+  }
+]

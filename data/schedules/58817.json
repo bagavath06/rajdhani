@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "58817",
+    "station_code": "TMR",
+    "station_name": "TUMSAR ROAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:45:00"
+  },
+  {
+    "train_number": "58817",
+    "station_code": "TMS",
+    "station_name": "Tumsar Town",
+    "day": 1,
+    "arrival": "05:54:00",
+    "departure": "05:54:00"
+  },
+  {
+    "train_number": "58817",
+    "station_code": "GBRI",
+    "station_name": "Gobarwahi",
+    "day": 1,
+    "arrival": "06:19:00",
+    "departure": "06:20:00"
+  },
+  {
+    "train_number": "58817",
+    "station_code": "DGBZ",
+    "station_name": "Dongri Buzurg",
+    "day": 1,
+    "arrival": "06:28:00",
+    "departure": "06:29:00"
+  },
+  {
+    "train_number": "58817",
+    "station_code": "TRDI",
+    "station_name": "Tirodi",
+    "day": 1,
+    "arrival": "07:20:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "train_number": "17057-Slip",
+    "station_code": "CSTM",
+    "station_name": "MUMBAI CST",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:05:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "MSD",
+    "station_name": "BOMBAY MASJID",
+    "day": 1,
+    "arrival": "21:06:00",
+    "departure": "21:06:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SNRD",
+    "station_name": "MUMBAI SANDHURST ROAD",
+    "day": 1,
+    "arrival": "21:08:00",
+    "departure": "21:08:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "BY",
+    "station_name": "BYCULLA",
+    "day": 1,
+    "arrival": "21:11:00",
+    "departure": "21:11:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "CHG",
+    "station_name": "MUMBAI CHINCHPOKLI",
+    "day": 1,
+    "arrival": "21:12:00",
+    "departure": "21:12:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "CRD",
+    "station_name": "MUMBAI CURREY ROAD",
+    "day": 1,
+    "arrival": "21:13:00",
+    "departure": "21:13:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "PR",
+    "station_name": "MUMBAI PAREL",
+    "day": 1,
+    "arrival": "21:16:00",
+    "departure": "21:16:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "DR",
+    "station_name": "MUMBAI DADAR CENTRAL",
+    "day": 1,
+    "arrival": "21:18:00",
+    "departure": "21:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "MTN",
+    "station_name": "MUMBAI MATUNGA",
+    "day": 1,
+    "arrival": "21:21:00",
+    "departure": "21:21:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SIN",
+    "station_name": "MUMBAI SION",
+    "day": 1,
+    "arrival": "21:24:00",
+    "departure": "21:24:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "CLA",
+    "station_name": "KURLA JN",
+    "day": 1,
+    "arrival": "21:26:00",
+    "departure": "21:26:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "LTT",
+    "station_name": "LOKMANYA TILAK TERM",
+    "day": 1,
+    "arrival": "21:27:00",
+    "departure": "21:27:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VVH",
+    "station_name": "VIDYAVIHAR",
+    "day": 1,
+    "arrival": "21:28:00",
+    "departure": "21:28:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "GC",
+    "station_name": "GHATKOPAR",
+    "day": 1,
+    "arrival": "21:29:00",
+    "departure": "21:29:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VK",
+    "station_name": "VIKHROLI",
+    "day": 1,
+    "arrival": "21:33:00",
+    "departure": "21:33:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KJMG",
+    "station_name": "KANJUR MARG",
+    "day": 1,
+    "arrival": "21:34:00",
+    "departure": "21:34:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "BND",
+    "station_name": "BHANDUP",
+    "day": 1,
+    "arrival": "21:36:00",
+    "departure": "21:36:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "NHU",
+    "station_name": "NAHUR",
+    "day": 1,
+    "arrival": "21:37:00",
+    "departure": "21:37:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "MLND",
+    "station_name": "MULUND",
+    "day": 1,
+    "arrival": "21:39:00",
+    "departure": "21:39:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "TNA",
+    "station_name": "THANE",
+    "day": 1,
+    "arrival": "21:42:00",
+    "departure": "21:44:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KLVA",
+    "station_name": "KALVA",
+    "day": 1,
+    "arrival": "21:47:00",
+    "departure": "21:47:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "MBQ",
+    "station_name": "MUMBRA",
+    "day": 1,
+    "arrival": "21:51:00",
+    "departure": "21:51:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "DIVA",
+    "station_name": "DIVA",
+    "day": 1,
+    "arrival": "21:54:00",
+    "departure": "21:54:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KOPR",
+    "station_name": "KOPAR ROAD",
+    "day": 1,
+    "arrival": "21:59:00",
+    "departure": "21:59:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "DI",
+    "station_name": "DOMBIVILI",
+    "day": 1,
+    "arrival": "22:00:00",
+    "departure": "22:00:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "THK",
+    "station_name": "THAKRULI",
+    "day": 1,
+    "arrival": "22:02:00",
+    "departure": "22:02:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KYN",
+    "station_name": "KALYAN JN",
+    "day": 1,
+    "arrival": "22:05:00",
+    "departure": "22:10:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SHAD",
+    "station_name": "SHAHAD",
+    "day": 1,
+    "arrival": "22:13:00",
+    "departure": "22:13:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ABY",
+    "station_name": "AMBIVLI",
+    "day": 1,
+    "arrival": "22:16:00",
+    "departure": "22:16:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "TLA",
+    "station_name": "TITVALA",
+    "day": 1,
+    "arrival": "22:20:00",
+    "departure": "22:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KDV",
+    "station_name": "KHADAVLI",
+    "day": 1,
+    "arrival": "22:28:00",
+    "departure": "22:28:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VSD",
+    "station_name": "VASIND",
+    "day": 1,
+    "arrival": "22:35:00",
+    "departure": "22:35:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ASO",
+    "station_name": "ASANGAON",
+    "day": 1,
+    "arrival": "22:41:00",
+    "departure": "22:41:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ATG",
+    "station_name": "ATGAON",
+    "day": 1,
+    "arrival": "22:44:00",
+    "departure": "22:44:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KE",
+    "station_name": "KHARDI",
+    "day": 1,
+    "arrival": "23:01:00",
+    "departure": "23:01:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KSRA",
+    "station_name": "KASARA",
+    "day": 1,
+    "arrival": "23:13:00",
+    "departure": "23:15:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "IGP",
+    "station_name": "IGATPURI",
+    "day": 1,
+    "arrival": "23:53:00",
+    "departure": "23:55:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "GO",
+    "station_name": "GHOTI",
+    "day": 2,
+    "arrival": "00:02:00",
+    "departure": "00:02:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "AV",
+    "station_name": "ASVALI",
+    "day": 2,
+    "arrival": "00:16:00",
+    "departure": "00:16:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "LT",
+    "station_name": "LAHAVIT",
+    "day": 2,
+    "arrival": "00:27:00",
+    "departure": "00:27:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "DVL",
+    "station_name": "DEVLALI",
+    "day": 2,
+    "arrival": "00:33:00",
+    "departure": "00:35:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "NK",
+    "station_name": "NASIK ROAD",
+    "day": 2,
+    "arrival": "00:43:00",
+    "departure": "00:45:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ODHA",
+    "station_name": "ODHA",
+    "day": 2,
+    "arrival": "00:54:00",
+    "departure": "00:54:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KW",
+    "station_name": "KHERVADI",
+    "day": 2,
+    "arrival": "01:00:00",
+    "departure": "01:00:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KBSN",
+    "station_name": "KASBE-SUKENE",
+    "day": 2,
+    "arrival": "01:05:00",
+    "departure": "01:05:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "NR",
+    "station_name": "NIPHAD",
+    "day": 2,
+    "arrival": "01:10:00",
+    "departure": "01:10:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "UGN",
+    "station_name": "UGAON",
+    "day": 2,
+    "arrival": "01:16:00",
+    "departure": "01:16:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "LS",
+    "station_name": "LASALGAON",
+    "day": 2,
+    "arrival": "01:23:00",
+    "departure": "01:25:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SUM",
+    "station_name": "SUMMIT",
+    "day": 2,
+    "arrival": "01:52:00",
+    "departure": "01:52:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "MMR",
+    "station_name": "MANMAD JN",
+    "day": 2,
+    "arrival": "02:20:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ANK",
+    "station_name": "ANKAI",
+    "day": 2,
+    "arrival": "05:48:00",
+    "departure": "05:50:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "YL",
+    "station_name": "YEOLA",
+    "day": 2,
+    "arrival": "06:03:00",
+    "departure": "06:05:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KPG",
+    "station_name": "KOPARGAON",
+    "day": 2,
+    "arrival": "06:16:00",
+    "departure": "06:18:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SNVR",
+    "station_name": "SANVATSAR",
+    "day": 2,
+    "arrival": "06:25:00",
+    "departure": "06:27:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KNGN",
+    "station_name": "KANHEGAON",
+    "day": 2,
+    "arrival": "06:34:00",
+    "departure": "06:36:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "PB",
+    "station_name": "PUNTAMBA",
+    "day": 2,
+    "arrival": "06:44:00",
+    "departure": "06:46:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "CIT",
+    "station_name": "CHITALI",
+    "day": 2,
+    "arrival": "06:54:00",
+    "departure": "06:56:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "BAP",
+    "station_name": "BELAPUR",
+    "day": 2,
+    "arrival": "07:08:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "NPW",
+    "station_name": "NIPANI VADGAON",
+    "day": 2,
+    "arrival": "07:15:00",
+    "departure": "07:17:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "PDGN",
+    "station_name": "PADHEGAON",
+    "day": 2,
+    "arrival": "07:23:00",
+    "departure": "07:25:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "TKMY",
+    "station_name": "TAKLIMIYA",
+    "day": 2,
+    "arrival": "07:31:00",
+    "departure": "07:33:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "RRI",
+    "station_name": "RAHURI",
+    "day": 2,
+    "arrival": "07:38:00",
+    "departure": "07:40:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VBR",
+    "station_name": "VAMBORI",
+    "day": 2,
+    "arrival": "07:53:00",
+    "departure": "07:55:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VL",
+    "station_name": "VILAD",
+    "day": 2,
+    "arrival": "08:18:00",
+    "departure": "08:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "ANG",
+    "station_name": "AHMADNAGAR",
+    "day": 2,
+    "arrival": "09:00:00",
+    "departure": "09:05:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "AKR",
+    "station_name": "AKOLNER",
+    "day": 2,
+    "arrival": "09:18:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SRL",
+    "station_name": "SAROLA",
+    "day": 2,
+    "arrival": "09:28:00",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "RNJD",
+    "station_name": "RANJANGAON RD",
+    "day": 2,
+    "arrival": "09:43:00",
+    "departure": "09:45:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "VPR",
+    "station_name": "VISAPUR",
+    "day": 2,
+    "arrival": "09:58:00",
+    "departure": "10:00:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "BWD",
+    "station_name": "BELVANDI",
+    "day": 2,
+    "arrival": "10:18:00",
+    "departure": "10:20:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "SGND",
+    "station_name": "SHRIGONDA ROAD",
+    "day": 2,
+    "arrival": "10:38:00",
+    "departure": "10:40:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "KSTH",
+    "station_name": "KASHTI",
+    "day": 2,
+    "arrival": "11:10:00",
+    "departure": "11:10:00"
+  },
+  {
+    "train_number": "17057-Slip",
+    "station_code": "DD",
+    "station_name": "DAUND JN",
+    "day": 2,
+    "arrival": "11:55:00",
+    "departure": "None"
+  }
+]

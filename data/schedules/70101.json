@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "70101",
+    "station_code": "MAO",
+    "station_name": "MADGAON",
+    "day": 1,
+    "arrival": "None",
+    "departure": "19:00:00"
+  },
+  {
+    "train_number": "70101",
+    "station_code": "BLLI",
+    "station_name": "BALLI",
+    "day": 1,
+    "arrival": "19:14:00",
+    "departure": "19:15:00"
+  },
+  {
+    "train_number": "70101",
+    "station_code": "CNO",
+    "station_name": "CANCONA",
+    "day": 1,
+    "arrival": "19:32:00",
+    "departure": "19:33:00"
+  },
+  {
+    "train_number": "70101",
+    "station_code": "AT",
+    "station_name": "ASNOTI",
+    "day": 1,
+    "arrival": "19:49:00",
+    "departure": "19:50:00"
+  },
+  {
+    "train_number": "70101",
+    "station_code": "KAWR",
+    "station_name": "KARWAR",
+    "day": 1,
+    "arrival": "20:20:00",
+    "departure": "None"
+  }
+]

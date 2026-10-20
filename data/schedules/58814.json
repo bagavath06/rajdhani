@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "58814",
+    "station_code": "ITR",
+    "station_name": "ITWARI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:00:00"
+  },
+  {
+    "train_number": "58814",
+    "station_code": "KAV",
+    "station_name": "KALAMNA",
+    "day": 1,
+    "arrival": "12:09:00",
+    "departure": "12:10:00"
+  },
+  {
+    "train_number": "58814",
+    "station_code": "KP",
+    "station_name": "KAMPTEE",
+    "day": 1,
+    "arrival": "12:20:00",
+    "departure": "12:21:00"
+  },
+  {
+    "train_number": "58814",
+    "station_code": "KNHN",
+    "station_name": "KANTHAN JN",
+    "day": 1,
+    "arrival": "12:30:00",
+    "departure": "12:32:00"
+  },
+  {
+    "train_number": "58814",
+    "station_code": "RTK",
+    "station_name": "Ramtek",
+    "day": 1,
+    "arrival": "13:15:00",
+    "departure": "None"
+  }
+]

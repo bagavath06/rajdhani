@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "52404",
+    "station_code": "SRDR",
+    "station_name": "Sardarshahr",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:40:00"
+  },
+  {
+    "train_number": "52404",
+    "station_code": "RXW",
+    "station_name": "Ratangarh West",
+    "day": 1,
+    "arrival": "20:04:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "52404",
+    "station_code": "RTGH",
+    "station_name": "Ratangarh Junction",
+    "day": 1,
+    "arrival": "20:15:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "58126",
+    "station_code": "SBP",
+    "station_name": "SAMBALPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "19:15:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "SBPD",
+    "station_name": "SAMBALPUR ROAD",
+    "day": 1,
+    "arrival": "19:20:00",
+    "departure": "19:22:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "SSN",
+    "station_name": "SASON",
+    "day": 1,
+    "arrival": "19:28:00",
+    "departure": "19:38:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "RGL",
+    "station_name": "RENGALI",
+    "day": 1,
+    "arrival": "19:45:00",
+    "departure": "19:46:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "LPG",
+    "station_name": "LAPANGA",
+    "day": 1,
+    "arrival": "19:54:00",
+    "departure": "19:55:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "BXQ",
+    "station_name": "BRUNDAMAL",
+    "day": 1,
+    "arrival": "20:04:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "58126",
+    "station_code": "JSG",
+    "station_name": "JHARSUGUDA JN",
+    "day": 1,
+    "arrival": "20:35:00",
+    "departure": "None"
+  }
+]

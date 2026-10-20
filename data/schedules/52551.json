@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "52551",
+    "station_code": "PRNA",
+    "station_name": "PURNIA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:00:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "PRNC",
+    "station_name": "Purnia Court",
+    "day": 1,
+    "arrival": "12:13:00",
+    "departure": "12:18:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "KTNR",
+    "station_name": "Kirtyanand Nagar",
+    "day": 1,
+    "arrival": "12:33:00",
+    "departure": "12:33:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "SRSI",
+    "station_name": "Sarsi",
+    "day": 1,
+    "arrival": "12:53:00",
+    "departure": "12:54:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "BNKI",
+    "station_name": "Banmankhi Junction",
+    "day": 1,
+    "arrival": "13:20:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "HPI",
+    "station_name": "Harapatti",
+    "day": 1,
+    "arrival": "13:37:00",
+    "departure": "13:37:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "JNKR",
+    "station_name": "Janakinagar",
+    "day": 1,
+    "arrival": "13:43:00",
+    "departure": "13:44:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "RPLY",
+    "station_name": "Rupauli",
+    "day": 1,
+    "arrival": "14:00:00",
+    "departure": "14:00:00"
+  },
+  {
+    "train_number": "52551",
+    "station_code": "MRIJ",
+    "station_name": "Murliganj",
+    "day": 1,
+    "arrival": "14:30:00",
+    "departure": "None"
+  }
+]

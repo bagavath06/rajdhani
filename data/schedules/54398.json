@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "54398",
+    "station_code": "MB",
+    "station_name": "MORADABAD",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:20:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "MCV",
+    "station_name": "MACHARYA",
+    "day": 1,
+    "arrival": "12:29:00",
+    "departure": "12:30:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "FRD",
+    "station_name": "FARHEDI",
+    "day": 1,
+    "arrival": "12:36:00",
+    "departure": "12:37:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "KD",
+    "station_name": "KUNDARKHI",
+    "day": 1,
+    "arrival": "12:47:00",
+    "departure": "12:48:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "RJK",
+    "station_name": "RAJA KA SAHASPUR",
+    "day": 1,
+    "arrival": "13:00:00",
+    "departure": "13:10:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "SPB",
+    "station_name": "Sonekpur Halt",
+    "day": 1,
+    "arrival": "13:29:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "HZN",
+    "station_name": "Hazrat Nagar Halt",
+    "day": 1,
+    "arrival": "13:41:00",
+    "departure": "13:42:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "SRMP",
+    "station_name": "Sirsi Mukhdumpr",
+    "day": 1,
+    "arrival": "13:54:00",
+    "departure": "13:55:00"
+  },
+  {
+    "train_number": "54398",
+    "station_code": "SHTS",
+    "station_name": "Sambhal Hatim Sarai",
+    "day": 1,
+    "arrival": "14:20:00",
+    "departure": "None"
+  }
+]

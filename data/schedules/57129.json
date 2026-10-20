@@ -1,0 +1,594 @@
+[
+  {
+    "train_number": "57129",
+    "station_code": "BJP",
+    "station_name": "BIJAPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:20:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "AYB",
+    "station_name": "Aliyabad",
+    "day": 1,
+    "arrival": "18:25:00",
+    "departure": "18:25:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MNL",
+    "station_name": "MINCHNAL",
+    "day": 1,
+    "arrival": "18:37:00",
+    "departure": "18:38:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "KTK",
+    "station_name": "KYATANEAKERI RD",
+    "day": 1,
+    "arrival": "18:44:00",
+    "departure": "18:45:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "NBL",
+    "station_name": "NIMBAL",
+    "day": 1,
+    "arrival": "18:54:00",
+    "departure": "18:55:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "CHRG",
+    "station_name": "CHORGI",
+    "day": 1,
+    "arrival": "19:04:00",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "IDR",
+    "station_name": "INDI ROAD",
+    "day": 1,
+    "arrival": "19:16:00",
+    "departure": "19:17:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "LHN",
+    "station_name": "LACHYAN",
+    "day": 1,
+    "arrival": "19:29:00",
+    "departure": "19:30:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "PDNR",
+    "station_name": "PADNUR",
+    "day": 1,
+    "arrival": "19:37:00",
+    "departure": "19:38:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "TVL",
+    "station_name": "TADWAL",
+    "day": 1,
+    "arrival": "19:49:00",
+    "departure": "19:50:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SLGE",
+    "station_name": "SULERJAVALGE",
+    "day": 1,
+    "arrival": "19:56:00",
+    "departure": "19:57:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "AHD",
+    "station_name": "AHERWADI",
+    "day": 1,
+    "arrival": "20:04:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HG",
+    "station_name": "HOTGI",
+    "day": 1,
+    "arrival": "20:23:00",
+    "departure": "20:23:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "TKWD",
+    "station_name": "TIKEKARWADI",
+    "day": 1,
+    "arrival": "20:43:00",
+    "departure": "20:43:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SUR",
+    "station_name": "SOLAPUR JN",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "21:15:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "TKWD",
+    "station_name": "TIKEKARWADI",
+    "day": 1,
+    "arrival": "21:25:00",
+    "departure": "21:26:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HG",
+    "station_name": "HOTGI",
+    "day": 1,
+    "arrival": "21:35:00",
+    "departure": "21:37:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "TLT",
+    "station_name": "TILATI",
+    "day": 1,
+    "arrival": "21:47:00",
+    "departure": "21:48:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "AKOR",
+    "station_name": "AKALKOT ROAD",
+    "day": 1,
+    "arrival": "22:04:00",
+    "departure": "22:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "NGS",
+    "station_name": "NAGANSUR",
+    "day": 1,
+    "arrival": "22:14:00",
+    "departure": "22:15:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BOT",
+    "station_name": "BOROTI",
+    "day": 1,
+    "arrival": "22:25:00",
+    "departure": "22:26:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "DUD",
+    "station_name": "DUDHANI",
+    "day": 1,
+    "arrival": "22:39:00",
+    "departure": "22:40:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "KUI",
+    "station_name": "KULALI",
+    "day": 1,
+    "arrival": "22:54:00",
+    "departure": "22:55:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "GDGN",
+    "station_name": "GAUDGAON",
+    "day": 1,
+    "arrival": "23:05:00",
+    "departure": "23:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "GUR",
+    "station_name": "GANAGAPUR ROAD",
+    "day": 1,
+    "arrival": "23:14:00",
+    "departure": "23:15:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HHD",
+    "station_name": "HUNSIHADGIL",
+    "day": 1,
+    "arrival": "23:24:00",
+    "departure": "23:25:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SVG",
+    "station_name": "SAWALGI",
+    "day": 1,
+    "arrival": "23:32:00",
+    "departure": "23:33:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BBD",
+    "station_name": "BABLAD",
+    "day": 1,
+    "arrival": "23:43:00",
+    "departure": "23:43:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "GR",
+    "station_name": "GULBARGA",
+    "day": 1,
+    "arrival": "23:50:00",
+    "departure": "23:55:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HQR",
+    "station_name": "HIRENANDURU",
+    "day": 2,
+    "arrival": "00:09:00",
+    "departure": "00:10:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MR",
+    "station_name": "MARTUR",
+    "day": 2,
+    "arrival": "00:16:00",
+    "departure": "00:17:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SDB",
+    "station_name": "SHAHABAD",
+    "day": 2,
+    "arrival": "00:29:00",
+    "departure": "00:30:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "WADI",
+    "station_name": "WADI",
+    "day": 2,
+    "arrival": "01:20:00",
+    "departure": "02:30:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SUH",
+    "station_name": "SULEHALLI",
+    "day": 2,
+    "arrival": "02:40:00",
+    "departure": "02:41:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "CT",
+    "station_name": "CHITTAPUR",
+    "day": 2,
+    "arrival": "02:48:00",
+    "departure": "02:49:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MQR",
+    "station_name": "MALKHAID ROAD",
+    "day": 2,
+    "arrival": "02:59:00",
+    "departure": "03:00:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SEM",
+    "station_name": "SERAM",
+    "day": 2,
+    "arrival": "03:10:00",
+    "departure": "03:11:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "KQT",
+    "station_name": "KURGUNTA",
+    "day": 2,
+    "arrival": "03:20:00",
+    "departure": "03:21:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "NAW",
+    "station_name": "NAWANDGI",
+    "day": 2,
+    "arrival": "03:30:00",
+    "departure": "03:31:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MVH",
+    "station_name": "MANTATTI",
+    "day": 2,
+    "arrival": "03:39:00",
+    "departure": "03:40:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "TDU",
+    "station_name": "TANDUR",
+    "day": 2,
+    "arrival": "03:50:00",
+    "departure": "03:52:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "RMY",
+    "station_name": "RUKMAPUR",
+    "day": 2,
+    "arrival": "04:11:00",
+    "departure": "04:12:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "DRR",
+    "station_name": "DHARUR",
+    "day": 2,
+    "arrival": "04:23:00",
+    "departure": "04:24:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MWY",
+    "station_name": "MAILARAM",
+    "day": 2,
+    "arrival": "04:31:00",
+    "departure": "04:32:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "GDQ",
+    "station_name": "GODAMGURA",
+    "day": 2,
+    "arrival": "04:40:00",
+    "departure": "04:41:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "VKB",
+    "station_name": "VIKARABAD JN",
+    "day": 2,
+    "arrival": "05:05:00",
+    "departure": "05:10:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "CTF",
+    "station_name": "CHITGIDDA",
+    "day": 2,
+    "arrival": "05:19:00",
+    "departure": "05:20:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "GGD",
+    "station_name": "GULLAGUDA",
+    "day": 2,
+    "arrival": "05:29:00",
+    "departure": "05:30:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "RPK",
+    "station_name": "RAVALPALLI KALA",
+    "day": 2,
+    "arrival": "05:50:00",
+    "departure": "05:50:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SKP",
+    "station_name": "SHANKARPALLI",
+    "day": 2,
+    "arrival": "06:09:00",
+    "departure": "06:10:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "NPL",
+    "station_name": "NAGALAPALLE",
+    "day": 2,
+    "arrival": "06:19:00",
+    "departure": "06:20:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "LPI",
+    "station_name": "LINGAMPALLI",
+    "day": 2,
+    "arrival": "06:29:00",
+    "departure": "06:30:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "CDNR",
+    "station_name": "CHANDANAGAR",
+    "day": 2,
+    "arrival": "06:36:00",
+    "departure": "06:36:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HFZ",
+    "station_name": "HAFIZPETA",
+    "day": 2,
+    "arrival": "06:49:00",
+    "departure": "06:50:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "HTCY",
+    "station_name": "HITECH CITY",
+    "day": 2,
+    "arrival": "06:53:00",
+    "departure": "06:53:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BRBD",
+    "station_name": "BORABANDA",
+    "day": 2,
+    "arrival": "06:56:00",
+    "departure": "06:56:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BTNR",
+    "station_name": "BHARTNAGAR",
+    "day": 2,
+    "arrival": "06:58:00",
+    "departure": "06:58:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SNF",
+    "station_name": "SANAT NAGAR",
+    "day": 2,
+    "arrival": "06:59:00",
+    "departure": "07:00:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "FNB",
+    "station_name": "FATEHNAGAR",
+    "day": 2,
+    "arrival": "07:05:00",
+    "departure": "07:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "NCHS",
+    "station_name": "NATURE CURE HOSPITAL",
+    "day": 2,
+    "arrival": "07:09:00",
+    "departure": "07:09:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BMT",
+    "station_name": "BEGAMPET",
+    "day": 2,
+    "arrival": "07:14:00",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SJVP",
+    "station_name": "SANJEEVAIAH PARK",
+    "day": 2,
+    "arrival": "07:37:00",
+    "departure": "07:37:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "JET",
+    "station_name": "JAMES STREET",
+    "day": 2,
+    "arrival": "07:50:00",
+    "departure": "07:50:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SC",
+    "station_name": "SECUNDERABAD JN",
+    "day": 2,
+    "arrival": "08:00:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "LGDH",
+    "station_name": "LALAGUDA GATE",
+    "day": 2,
+    "arrival": "08:11:00",
+    "departure": "08:11:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "MJF",
+    "station_name": "MALKAJGIRI",
+    "day": 2,
+    "arrival": "08:13:00",
+    "departure": "08:14:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "DYE",
+    "station_name": "DAYANAND NAGAR",
+    "day": 2,
+    "arrival": "08:16:00",
+    "departure": "08:16:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "SFX",
+    "station_name": "SAFILGUDA",
+    "day": 2,
+    "arrival": "08:18:00",
+    "departure": "08:18:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "RKO",
+    "station_name": "RAMAKRISHNAPURAM GATE",
+    "day": 2,
+    "arrival": "08:22:00",
+    "departure": "08:22:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "AMQ",
+    "station_name": "AMMUGUDA",
+    "day": 2,
+    "arrival": "08:25:00",
+    "departure": "08:25:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "CVB",
+    "station_name": "CAVALRY BARRCKS",
+    "day": 2,
+    "arrival": "08:27:00",
+    "departure": "08:28:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "ALW",
+    "station_name": "ALWAL",
+    "day": 2,
+    "arrival": "08:32:00",
+    "departure": "08:32:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BOZ",
+    "station_name": "BOLARUM BAZAR",
+    "day": 2,
+    "arrival": "08:38:00",
+    "departure": "08:38:00"
+  },
+  {
+    "train_number": "57129",
+    "station_code": "BMO",
+    "station_name": "BOLARUM",
+    "day": 2,
+    "arrival": "08:45:00",
+    "departure": "None"
+  }
+]

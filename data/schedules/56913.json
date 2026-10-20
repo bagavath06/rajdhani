@@ -1,0 +1,506 @@
+[
+  {
+    "train_number": "56913",
+    "station_code": "SBC",
+    "station_name": "BANGALORE CITY JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:30:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "MWM",
+    "station_name": "MALLESWARAM",
+    "day": 1,
+    "arrival": "06:34:00",
+    "departure": "06:35:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "YPR",
+    "station_name": "YESVANTPUR JN",
+    "day": 1,
+    "arrival": "06:41:00",
+    "departure": "06:42:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BAW",
+    "station_name": "CHIK BANAVAR",
+    "day": 1,
+    "arrival": "06:56:00",
+    "departure": "06:57:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SDVL",
+    "station_name": "SOLDEVANAHALLI",
+    "day": 1,
+    "arrival": "06:59:00",
+    "departure": "06:59:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "GHL",
+    "station_name": "GOLHALLI",
+    "day": 1,
+    "arrival": "07:08:00",
+    "departure": "07:08:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BNKH",
+    "station_name": "BHAIRANAYAKANAH",
+    "day": 1,
+    "arrival": "07:13:00",
+    "departure": "07:13:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "DBL",
+    "station_name": "DODBELE",
+    "day": 1,
+    "arrival": "07:17:00",
+    "departure": "07:18:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "MDLL",
+    "station_name": "MUDDALINGAHALLI",
+    "day": 1,
+    "arrival": "07:24:00",
+    "departure": "07:24:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "NDV",
+    "station_name": "NIDVANDA",
+    "day": 1,
+    "arrival": "07:27:00",
+    "departure": "07:27:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "DBS",
+    "station_name": "DOBBSPET",
+    "day": 1,
+    "arrival": "07:30:00",
+    "departure": "07:30:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HHL",
+    "station_name": "HIREHALI",
+    "day": 1,
+    "arrival": "07:38:00",
+    "departure": "07:38:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KIAT",
+    "station_name": "KYATSANDRA",
+    "day": 1,
+    "arrival": "07:44:00",
+    "departure": "07:45:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "TK",
+    "station_name": "TUMKUR",
+    "day": 1,
+    "arrival": "07:58:00",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HEI",
+    "station_name": "HEGGERE HALT",
+    "day": 1,
+    "arrival": "08:07:00",
+    "departure": "08:07:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "MLSA",
+    "station_name": "MALLASANDRA",
+    "day": 1,
+    "arrival": "08:11:00",
+    "departure": "08:11:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "GBB",
+    "station_name": "GUBBI",
+    "day": 1,
+    "arrival": "08:21:00",
+    "departure": "08:22:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "NTR",
+    "station_name": "NITTUR",
+    "day": 1,
+    "arrival": "08:32:00",
+    "departure": "08:32:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SPGR",
+    "station_name": "SAMPIGE ROAD",
+    "day": 1,
+    "arrival": "08:43:00",
+    "departure": "08:43:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "AMSA",
+    "station_name": "AMMASANDRA",
+    "day": 1,
+    "arrival": "08:49:00",
+    "departure": "08:50:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BSN",
+    "station_name": "BANASANDRA",
+    "day": 1,
+    "arrival": "08:59:00",
+    "departure": "09:00:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "ARGP",
+    "station_name": "ARALAGUPPE",
+    "day": 1,
+    "arrival": "09:05:00",
+    "departure": "09:06:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "RDI",
+    "station_name": "KARDI",
+    "day": 1,
+    "arrival": "09:11:00",
+    "departure": "09:11:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BNK",
+    "station_name": "BANASANKARAI HA",
+    "day": 1,
+    "arrival": "09:16:00",
+    "departure": "09:16:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "TTR",
+    "station_name": "TIPTUR",
+    "day": 1,
+    "arrival": "09:21:00",
+    "departure": "09:22:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SSNH",
+    "station_name": "SREE SARADANAGAR HALT",
+    "day": 1,
+    "arrival": "09:24:00",
+    "departure": "09:24:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HVL",
+    "station_name": "HONNAVALLI ROAD",
+    "day": 1,
+    "arrival": "09:32:00",
+    "departure": "09:33:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "ADHL",
+    "station_name": "ADIHALLI",
+    "day": 1,
+    "arrival": "09:38:00",
+    "departure": "09:38:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "ASK",
+    "station_name": "ARSIKERE JN",
+    "day": 1,
+    "arrival": "09:50:00",
+    "departure": "09:55:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BVR",
+    "station_name": "BANAVAR",
+    "day": 1,
+    "arrival": "10:14:00",
+    "departure": "10:15:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "VNR",
+    "station_name": "DEVANUR",
+    "day": 1,
+    "arrival": "10:24:00",
+    "departure": "10:25:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BLKR",
+    "station_name": "BALLEKERE HALT",
+    "day": 1,
+    "arrival": "10:37:00",
+    "departure": "10:37:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "DRU",
+    "station_name": "KADUR",
+    "day": 1,
+    "arrival": "10:44:00",
+    "departure": "10:45:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "RRB",
+    "station_name": "BIRUR JN",
+    "day": 1,
+    "arrival": "11:10:00",
+    "departure": "11:40:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "NVF",
+    "station_name": "NAGAVANGALA",
+    "day": 1,
+    "arrival": "11:51:00",
+    "departure": "11:51:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "AJP",
+    "station_name": "AJJAMPUR",
+    "day": 1,
+    "arrival": "11:59:00",
+    "departure": "12:00:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SHV",
+    "station_name": "SHIVANI",
+    "day": 1,
+    "arrival": "12:11:00",
+    "departure": "12:12:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HSD",
+    "station_name": "HOSDURGA ROAD",
+    "day": 1,
+    "arrival": "12:23:00",
+    "departure": "12:24:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "ABGT",
+    "station_name": "ARBAGATTA HALT",
+    "day": 1,
+    "arrival": "12:28:00",
+    "departure": "12:28:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "RGI",
+    "station_name": "RAMGIRI",
+    "day": 1,
+    "arrival": "12:35:00",
+    "departure": "12:36:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HLK",
+    "station_name": "HOLALKERE",
+    "day": 1,
+    "arrival": "12:47:00",
+    "departure": "12:48:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "JRU",
+    "station_name": "CHIKJAJUR JN",
+    "day": 1,
+    "arrival": "13:00:00",
+    "departure": "13:02:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SLU",
+    "station_name": "SASALU",
+    "day": 1,
+    "arrival": "13:11:00",
+    "departure": "13:12:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "MYK",
+    "station_name": "MAYAKONDA",
+    "day": 1,
+    "arrival": "13:20:00",
+    "departure": "13:21:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KAG",
+    "station_name": "KODAGANUR",
+    "day": 1,
+    "arrival": "13:29:00",
+    "departure": "13:30:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HNH",
+    "station_name": "HANUMANAHALLI",
+    "day": 1,
+    "arrival": "13:35:00",
+    "departure": "13:35:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "THN",
+    "station_name": "TOLAHUNSE",
+    "day": 1,
+    "arrival": "13:41:00",
+    "departure": "13:41:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "DVG",
+    "station_name": "DAVANGERE",
+    "day": 1,
+    "arrival": "13:51:00",
+    "departure": "13:52:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HRR",
+    "station_name": "HARIHAR",
+    "day": 1,
+    "arrival": "14:10:00",
+    "departure": "14:15:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "CLI",
+    "station_name": "CHALGERI",
+    "day": 1,
+    "arrival": "14:24:00",
+    "departure": "14:25:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "RNR",
+    "station_name": "RANIBENNUR",
+    "day": 1,
+    "arrival": "14:39:00",
+    "departure": "14:40:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "DAD",
+    "station_name": "DEVARGUDDA",
+    "day": 1,
+    "arrival": "14:51:00",
+    "departure": "14:52:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "BYD",
+    "station_name": "BYADGI",
+    "day": 1,
+    "arrival": "15:02:00",
+    "departure": "15:03:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "HVR",
+    "station_name": "HAVERI",
+    "day": 1,
+    "arrival": "15:17:00",
+    "departure": "15:18:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KJG",
+    "station_name": "KARAJGI",
+    "day": 1,
+    "arrival": "15:29:00",
+    "departure": "15:30:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KVS",
+    "station_name": "KALSUR",
+    "day": 1,
+    "arrival": "15:34:00",
+    "departure": "15:35:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SVNR",
+    "station_name": "SAVANUR",
+    "day": 1,
+    "arrival": "15:45:00",
+    "departure": "15:46:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "YLG",
+    "station_name": "YALVIGI",
+    "day": 1,
+    "arrival": "15:56:00",
+    "departure": "15:57:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KALS",
+    "station_name": "KALAS HALT",
+    "day": 1,
+    "arrival": "16:04:00",
+    "departure": "16:05:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "GDI",
+    "station_name": "GUDGERI",
+    "day": 1,
+    "arrival": "16:19:00",
+    "departure": "16:20:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "SNH",
+    "station_name": "SAUNSHI",
+    "day": 1,
+    "arrival": "16:34:00",
+    "departure": "16:35:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "KNO",
+    "station_name": "KUNDGOL",
+    "day": 1,
+    "arrival": "16:49:00",
+    "departure": "16:50:00"
+  },
+  {
+    "train_number": "56913",
+    "station_code": "UBL",
+    "station_name": "HUBLI JN",
+    "day": 1,
+    "arrival": "17:45:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "train_number": "18626",
+    "station_code": "HTE",
+    "station_name": "HATIA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:10:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "AOR",
+    "station_name": "ARGORA",
+    "day": 1,
+    "arrival": "06:20:00",
+    "departure": "06:20:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "RNC",
+    "station_name": "RANCHI",
+    "day": 1,
+    "arrival": "06:25:00",
+    "departure": "06:35:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "NKM",
+    "station_name": "NAMKON",
+    "day": 1,
+    "arrival": "06:39:00",
+    "departure": "06:39:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "TIS",
+    "station_name": "TATISILWAI",
+    "day": 1,
+    "arrival": "06:46:00",
+    "departure": "06:46:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "GAG",
+    "station_name": "GANGAGHAT",
+    "day": 1,
+    "arrival": "06:54:00",
+    "departure": "06:54:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "JONA",
+    "station_name": "Jonha",
+    "day": 1,
+    "arrival": "07:05:00",
+    "departure": "07:05:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "KITA",
+    "station_name": "KITA",
+    "day": 1,
+    "arrival": "07:20:00",
+    "departure": "07:20:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "SLF",
+    "station_name": "SILLI",
+    "day": 1,
+    "arrival": "07:30:00",
+    "departure": "07:30:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "MURI",
+    "station_name": "MURI",
+    "day": 1,
+    "arrival": "07:38:00",
+    "departure": "07:40:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "THO",
+    "station_name": "TULIN",
+    "day": 1,
+    "arrival": "07:47:00",
+    "departure": "07:47:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "JAA",
+    "station_name": "JHALIDA",
+    "day": 1,
+    "arrival": "08:00:00",
+    "departure": "08:01:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "KSX",
+    "station_name": "KOTSHILA",
+    "day": 1,
+    "arrival": "08:17:00",
+    "departure": "08:18:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "DRGU",
+    "station_name": "DAMRU GHUTU",
+    "day": 1,
+    "arrival": "08:22:00",
+    "departure": "08:22:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PNW",
+    "station_name": "PUNDHAG",
+    "day": 1,
+    "arrival": "08:28:00",
+    "departure": "08:29:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "RDF",
+    "station_name": "RADHAGAON",
+    "day": 1,
+    "arrival": "08:39:00",
+    "departure": "08:39:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "BKSC",
+    "station_name": "BOKARO STEEL CITY",
+    "day": 1,
+    "arrival": "08:46:00",
+    "departure": "08:51:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "TKB",
+    "station_name": "TUPKADIH",
+    "day": 1,
+    "arrival": "09:01:00",
+    "departure": "09:01:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "RJB",
+    "station_name": "RAJABERA",
+    "day": 1,
+    "arrival": "09:13:00",
+    "departure": "09:13:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "CRP",
+    "station_name": "CHANDRAPURA",
+    "day": 1,
+    "arrival": "09:20:00",
+    "departure": "09:22:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "TELO",
+    "station_name": "TELO",
+    "day": 1,
+    "arrival": "09:32:00",
+    "departure": "09:32:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "GMO",
+    "station_name": "GOMOH JN",
+    "day": 1,
+    "arrival": "09:45:00",
+    "departure": "09:55:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "NMG",
+    "station_name": "NIMIAGHAT",
+    "day": 1,
+    "arrival": "10:03:00",
+    "departure": "10:03:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PNME",
+    "station_name": "PARASNATH",
+    "day": 1,
+    "arrival": "10:09:00",
+    "departure": "10:10:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "CDB",
+    "station_name": "CHAUDHRIBANDH",
+    "day": 1,
+    "arrival": "10:25:00",
+    "departure": "10:25:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "CCK",
+    "station_name": "CHICHAKI",
+    "day": 1,
+    "arrival": "10:29:00",
+    "departure": "10:29:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "CBH",
+    "station_name": "CHAUBE",
+    "day": 1,
+    "arrival": "10:33:00",
+    "departure": "10:33:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "HZD",
+    "station_name": "HAZARIBAGH ROAD",
+    "day": 1,
+    "arrival": "10:33:00",
+    "departure": "10:34:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PSB",
+    "station_name": "PARSABAD",
+    "day": 1,
+    "arrival": "10:39:00",
+    "departure": "10:39:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "YDD",
+    "station_name": "YADUDIH",
+    "day": 1,
+    "arrival": "10:43:00",
+    "departure": "10:43:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "SMND",
+    "station_name": "SARMATANR",
+    "day": 1,
+    "arrival": "10:46:00",
+    "departure": "10:46:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "HRE",
+    "station_name": "HIRODIH",
+    "day": 1,
+    "arrival": "10:52:00",
+    "departure": "10:52:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "KQR",
+    "station_name": "KODERMA",
+    "day": 1,
+    "arrival": "11:11:00",
+    "departure": "11:12:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "GJD",
+    "station_name": "GUJHANDI",
+    "day": 1,
+    "arrival": "11:21:00",
+    "departure": "11:21:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "DLW",
+    "station_name": "DILWA",
+    "day": 1,
+    "arrival": "11:27:00",
+    "departure": "11:27:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "GAP",
+    "station_name": "GURPA",
+    "day": 1,
+    "arrival": "11:41:00",
+    "departure": "11:41:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PRP",
+    "station_name": "PAHARPUR",
+    "day": 1,
+    "arrival": "11:51:00",
+    "departure": "11:52:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "BNSL",
+    "station_name": "BANSINALA HALT",
+    "day": 1,
+    "arrival": "11:58:00",
+    "departure": "11:58:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "TKN",
+    "station_name": "TANKUPPA",
+    "day": 1,
+    "arrival": "12:05:00",
+    "departure": "12:06:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "BNF",
+    "station_name": "BANDHUA",
+    "day": 1,
+    "arrival": "12:22:00",
+    "departure": "12:22:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "MPO",
+    "station_name": "MANPUR JN",
+    "day": 1,
+    "arrival": "12:37:00",
+    "departure": "12:37:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "12:45:00",
+    "departure": "13:10:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "CKH",
+    "station_name": "Chakand",
+    "day": 1,
+    "arrival": "13:19:00",
+    "departure": "13:19:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "BELA",
+    "station_name": "Bela",
+    "day": 1,
+    "arrival": "13:28:00",
+    "departure": "13:29:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "MDE",
+    "station_name": "Makhdumpur Gaya",
+    "day": 1,
+    "arrival": "13:40:00",
+    "departure": "13:40:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "THA",
+    "station_name": "Tehta",
+    "day": 1,
+    "arrival": "13:45:00",
+    "departure": "13:45:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "JHDC",
+    "station_name": "Jehanabad Court",
+    "day": 1,
+    "arrival": "13:51:00",
+    "departure": "13:51:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "JHD",
+    "station_name": "Jehanabad",
+    "day": 1,
+    "arrival": "13:57:00",
+    "departure": "13:58:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "NDU",
+    "station_name": "Nadauj",
+    "day": 1,
+    "arrival": "14:09:00",
+    "departure": "14:09:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "TEA",
+    "station_name": "Taregna",
+    "day": 1,
+    "arrival": "14:13:00",
+    "departure": "14:14:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "NDW",
+    "station_name": "Nadwan",
+    "day": 1,
+    "arrival": "14:30:00",
+    "departure": "14:30:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PFT",
+    "station_name": "Pothahi",
+    "day": 1,
+    "arrival": "14:41:00",
+    "departure": "14:41:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PPN",
+    "station_name": "Punpun",
+    "day": 1,
+    "arrival": "14:48:00",
+    "departure": "14:48:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PRBZ",
+    "station_name": "Parsa Bazar",
+    "day": 1,
+    "arrival": "15:23:00",
+    "departure": "15:23:00"
+  },
+  {
+    "train_number": "18626",
+    "station_code": "PNBE",
+    "station_name": "PATNA JN",
+    "day": 1,
+    "arrival": "15:40:00",
+    "departure": "None"
+  }
+]

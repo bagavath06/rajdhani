@@ -1,0 +1,434 @@
+[
+  {
+    "train_number": "53172",
+    "station_code": "LGL",
+    "station_name": "Lalgola",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:20:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KRP",
+    "station_name": "Krishnapur",
+    "day": 1,
+    "arrival": "21:24:00",
+    "departure": "21:39:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PRTL",
+    "station_name": "Pirtala",
+    "day": 1,
+    "arrival": "21:44:00",
+    "departure": "21:45:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BQG",
+    "station_name": "Bhagwangola",
+    "day": 1,
+    "arrival": "21:51:00",
+    "departure": "21:52:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SBNM",
+    "station_name": "Subarnamrigi",
+    "day": 1,
+    "arrival": "22:06:00",
+    "departure": "22:06:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "JJG",
+    "station_name": "JiaGanj",
+    "day": 1,
+    "arrival": "22:14:00",
+    "departure": "22:15:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "MBB",
+    "station_name": "Murshidabad",
+    "day": 1,
+    "arrival": "22:31:00",
+    "departure": "22:33:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "CSZ",
+    "station_name": "Cossimbazar",
+    "day": 1,
+    "arrival": "22:39:00",
+    "departure": "22:40:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BPC",
+    "station_name": "Berhampore Court",
+    "day": 1,
+    "arrival": "22:47:00",
+    "departure": "22:52:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "NBPH",
+    "station_name": "New Balarampur Halt",
+    "day": 1,
+    "arrival": "22:55:00",
+    "departure": "22:55:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SGV",
+    "station_name": "Sargachhi",
+    "day": 1,
+    "arrival": "22:57:00",
+    "departure": "22:58:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BFT",
+    "station_name": "Bhabta",
+    "day": 1,
+    "arrival": "23:04:00",
+    "departure": "23:05:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BEB",
+    "station_name": "Beldanga",
+    "day": 1,
+    "arrival": "23:12:00",
+    "departure": "23:20:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "REJ",
+    "station_name": "Rejinagar",
+    "day": 1,
+    "arrival": "23:34:00",
+    "departure": "23:35:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SRJN",
+    "station_name": "Sirajnagar Halt",
+    "day": 1,
+    "arrival": "23:41:00",
+    "departure": "23:41:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PLY",
+    "station_name": "Plassey",
+    "day": 1,
+    "arrival": "23:48:00",
+    "departure": "23:49:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PCX",
+    "station_name": "Pagla Chandi",
+    "day": 1,
+    "arrival": "23:56:00",
+    "departure": "23:57:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "DEB",
+    "station_name": "Debagram",
+    "day": 2,
+    "arrival": "00:03:00",
+    "departure": "00:04:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SVH",
+    "station_name": "Sonadanga",
+    "day": 2,
+    "arrival": "00:12:00",
+    "departure": "00:13:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BTY",
+    "station_name": "Bethuadahari",
+    "day": 2,
+    "arrival": "00:18:00",
+    "departure": "00:19:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "MGM",
+    "station_name": "Muragacha",
+    "day": 2,
+    "arrival": "00:29:00",
+    "departure": "00:30:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "DHU",
+    "station_name": "Dhubulia",
+    "day": 2,
+    "arrival": "00:36:00",
+    "departure": "00:37:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BPD",
+    "station_name": "Bahadurpur",
+    "day": 2,
+    "arrival": "00:50:00",
+    "departure": "00:50:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KNJ",
+    "station_name": "Krishnanagar City Junction",
+    "day": 2,
+    "arrival": "01:06:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "JKL",
+    "station_name": "Jalal Khali",
+    "day": 2,
+    "arrival": "01:17:00",
+    "departure": "01:17:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BDZ",
+    "station_name": "Badkulla",
+    "day": 2,
+    "arrival": "01:22:00",
+    "departure": "01:23:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "THP",
+    "station_name": "Taherpur",
+    "day": 2,
+    "arrival": "01:29:00",
+    "departure": "01:30:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BIJ",
+    "station_name": "Birnagar",
+    "day": 2,
+    "arrival": "01:35:00",
+    "departure": "01:36:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KLNP",
+    "station_name": "Kalinarayanpur",
+    "day": 2,
+    "arrival": "01:53:00",
+    "departure": "01:53:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "RHA",
+    "station_name": "Ranaghat Junction",
+    "day": 2,
+    "arrival": "02:10:00",
+    "departure": "02:18:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PDX",
+    "station_name": "Payradanga",
+    "day": 2,
+    "arrival": "02:23:00",
+    "departure": "02:23:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "CDH",
+    "station_name": "Chakdaha",
+    "day": 2,
+    "arrival": "02:29:00",
+    "departure": "02:30:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PXR",
+    "station_name": "Palpara",
+    "day": 2,
+    "arrival": "02:33:00",
+    "departure": "02:33:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SMX",
+    "station_name": "Simurali",
+    "day": 2,
+    "arrival": "02:35:00",
+    "departure": "02:36:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "MPJ",
+    "station_name": "Madanpur",
+    "day": 2,
+    "arrival": "02:41:00",
+    "departure": "02:42:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KYI",
+    "station_name": "Kalyani",
+    "day": 2,
+    "arrival": "02:48:00",
+    "departure": "02:49:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KPA",
+    "station_name": "Kanchrapara",
+    "day": 2,
+    "arrival": "02:54:00",
+    "departure": "02:58:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "HLR",
+    "station_name": "Halisahar",
+    "day": 2,
+    "arrival": "03:03:00",
+    "departure": "03:04:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "NH",
+    "station_name": "NAIHATI JN",
+    "day": 2,
+    "arrival": "03:15:00",
+    "departure": "03:20:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KNR",
+    "station_name": "KANKINARA",
+    "day": 2,
+    "arrival": "03:23:00",
+    "departure": "03:23:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "JGDL",
+    "station_name": "JAGADAL",
+    "day": 2,
+    "arrival": "03:25:00",
+    "departure": "03:25:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SNR",
+    "station_name": "SHYAMNAGAR",
+    "day": 2,
+    "arrival": "03:29:00",
+    "departure": "03:29:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "IP",
+    "station_name": "ICHHAPUR",
+    "day": 2,
+    "arrival": "03:32:00",
+    "departure": "03:32:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "PTF",
+    "station_name": "PALTA",
+    "day": 2,
+    "arrival": "03:35:00",
+    "departure": "03:35:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BP",
+    "station_name": "BARRACKPORE",
+    "day": 2,
+    "arrival": "03:37:00",
+    "departure": "03:38:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "TGH",
+    "station_name": "TITAGARH",
+    "day": 2,
+    "arrival": "03:41:00",
+    "departure": "03:41:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "KDH",
+    "station_name": "KHARDAHA",
+    "day": 2,
+    "arrival": "03:44:00",
+    "departure": "03:44:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SEP",
+    "station_name": "SODPUR",
+    "day": 2,
+    "arrival": "03:49:00",
+    "departure": "03:50:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "AGP",
+    "station_name": "AGARPARA",
+    "day": 2,
+    "arrival": "03:53:00",
+    "departure": "03:53:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BLH",
+    "station_name": "BELGHARIA",
+    "day": 2,
+    "arrival": "03:56:00",
+    "departure": "03:57:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "DDJ",
+    "station_name": "DUM DUM",
+    "day": 2,
+    "arrival": "04:09:00",
+    "departure": "04:10:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "BNXR",
+    "station_name": "BIDHAN NAGAR",
+    "day": 2,
+    "arrival": "04:21:00",
+    "departure": "04:21:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SGBA",
+    "station_name": "Sir Gurudas Banerjee Halt",
+    "day": 2,
+    "arrival": "04:28:00",
+    "departure": "04:28:00"
+  },
+  {
+    "train_number": "53172",
+    "station_code": "SDAH",
+    "station_name": "KOLKATA SEALDAH",
+    "day": 2,
+    "arrival": "04:30:00",
+    "departure": "None"
+  }
+]

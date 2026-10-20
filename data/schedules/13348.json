@@ -1,0 +1,506 @@
+[
+  {
+    "train_number": "13348",
+    "station_code": "PNBE",
+    "station_name": "PATNA JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:15:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PRBZ",
+    "station_name": "Parsa Bazar",
+    "day": 1,
+    "arrival": "21:23:00",
+    "departure": "21:23:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PPN",
+    "station_name": "Punpun",
+    "day": 1,
+    "arrival": "21:32:00",
+    "departure": "21:34:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PFT",
+    "station_name": "Pothahi",
+    "day": 1,
+    "arrival": "21:36:00",
+    "departure": "21:36:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "NDW",
+    "station_name": "Nadwan",
+    "day": 1,
+    "arrival": "21:39:00",
+    "departure": "21:39:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "TEA",
+    "station_name": "Taregna",
+    "day": 1,
+    "arrival": "21:47:00",
+    "departure": "21:48:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "NDU",
+    "station_name": "Nadauj",
+    "day": 1,
+    "arrival": "21:53:00",
+    "departure": "21:53:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "JHD",
+    "station_name": "Jehanabad",
+    "day": 1,
+    "arrival": "22:02:00",
+    "departure": "22:03:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "JHDC",
+    "station_name": "Jehanabad Court",
+    "day": 1,
+    "arrival": "22:12:00",
+    "departure": "22:12:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "THA",
+    "station_name": "Tehta",
+    "day": 1,
+    "arrival": "22:21:00",
+    "departure": "22:21:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "MDE",
+    "station_name": "Makhdumpur Gaya",
+    "day": 1,
+    "arrival": "22:30:00",
+    "departure": "22:30:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BELA",
+    "station_name": "Bela",
+    "day": 1,
+    "arrival": "22:47:00",
+    "departure": "22:48:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "CKH",
+    "station_name": "Chakand",
+    "day": 1,
+    "arrival": "23:12:00",
+    "departure": "23:12:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "23:33:00",
+    "departure": "23:43:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KSTA",
+    "station_name": "KASTHA",
+    "day": 1,
+    "arrival": "23:50:00",
+    "departure": "23:50:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PRY",
+    "station_name": "PARAIYA",
+    "day": 1,
+    "arrival": "23:54:00",
+    "departure": "23:54:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "GRRU",
+    "station_name": "GURARU",
+    "day": 1,
+    "arrival": "23:59:00",
+    "departure": "00:01:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "IMGE",
+    "station_name": "ISMAILPUR",
+    "day": 2,
+    "arrival": "00:07:00",
+    "departure": "00:07:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "RFJ",
+    "station_name": "RAFIGANJ",
+    "day": 2,
+    "arrival": "00:14:00",
+    "departure": "00:15:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "DORD",
+    "station_name": "DEO ROAD",
+    "day": 2,
+    "arrival": "00:21:00",
+    "departure": "00:21:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "JHN",
+    "station_name": "JAKHIM",
+    "day": 2,
+    "arrival": "00:26:00",
+    "departure": "00:27:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BHKH",
+    "station_name": "BAGHOI KUSA",
+    "day": 2,
+    "arrival": "00:33:00",
+    "departure": "00:33:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PES",
+    "station_name": "PHESAR",
+    "day": 2,
+    "arrival": "00:38:00",
+    "departure": "00:38:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "AUBR",
+    "station_name": "ANUGRAHA NARAYAN ROAD",
+    "day": 2,
+    "arrival": "00:47:00",
+    "departure": "00:48:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "SEB",
+    "station_name": "SON NAGAR",
+    "day": 2,
+    "arrival": "00:59:00",
+    "departure": "01:00:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "DOS",
+    "station_name": "DEHRI ON SONE",
+    "day": 2,
+    "arrival": "01:40:00",
+    "departure": "02:10:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "SEB",
+    "station_name": "SON NAGAR",
+    "day": 2,
+    "arrival": "02:16:00",
+    "departure": "02:16:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BSYA",
+    "station_name": "BARKISALALYA",
+    "day": 2,
+    "arrival": "02:31:00",
+    "departure": "02:31:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "ANH",
+    "station_name": "ANKORAH AKORHA",
+    "day": 2,
+    "arrival": "02:32:00",
+    "departure": "02:33:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "NBG",
+    "station_name": "NABENAGAR ROAD",
+    "day": 2,
+    "arrival": "02:45:00",
+    "departure": "02:46:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KYF",
+    "station_name": "KAJRAT NAWADIH",
+    "day": 2,
+    "arrival": "02:53:00",
+    "departure": "02:53:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "JPL",
+    "station_name": "JAPLA",
+    "day": 2,
+    "arrival": "02:59:00",
+    "departure": "03:00:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "HDN",
+    "station_name": "HAIDARNAGAR",
+    "day": 2,
+    "arrival": "03:11:00",
+    "departure": "03:12:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KVQ",
+    "station_name": "KOSIARA",
+    "day": 2,
+    "arrival": "03:16:00",
+    "departure": "03:16:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "MDJ",
+    "station_name": "MUHAMMADGANJ",
+    "day": 2,
+    "arrival": "03:22:00",
+    "departure": "03:23:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "SZF",
+    "station_name": "SATBAHINI",
+    "day": 2,
+    "arrival": "03:29:00",
+    "departure": "03:29:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "URD",
+    "station_name": "UNTARE ROAD",
+    "day": 2,
+    "arrival": "03:34:00",
+    "departure": "03:35:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "SQS",
+    "station_name": "SIGSIGI",
+    "day": 2,
+    "arrival": "04:17:00",
+    "departure": "04:17:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "GHD",
+    "station_name": "GARWA ROAD",
+    "day": 2,
+    "arrival": "04:40:00",
+    "departure": "04:50:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "TRZ",
+    "station_name": "TOLRA",
+    "day": 2,
+    "arrival": "04:57:00",
+    "departure": "04:57:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "RHR",
+    "station_name": "RAJHURA",
+    "day": 2,
+    "arrival": "05:08:00",
+    "departure": "05:08:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KFT",
+    "station_name": "KAJRI",
+    "day": 2,
+    "arrival": "05:21:00",
+    "departure": "05:21:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "DTO",
+    "station_name": "DALTONGANJ",
+    "day": 2,
+    "arrival": "05:28:00",
+    "departure": "05:33:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "CNF",
+    "station_name": "CHIANKI",
+    "day": 2,
+    "arrival": "05:44:00",
+    "departure": "05:44:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KCKI",
+    "station_name": "KECKHI",
+    "day": 2,
+    "arrival": "05:56:00",
+    "departure": "05:56:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BRWD",
+    "station_name": "BARWADIH JN",
+    "day": 2,
+    "arrival": "06:15:00",
+    "departure": "06:20:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "CPDR",
+    "station_name": "CHHIPADOHAR",
+    "day": 2,
+    "arrival": "06:28:00",
+    "departure": "06:29:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KMND",
+    "station_name": "KUMENDI",
+    "day": 2,
+    "arrival": "06:49:00",
+    "departure": "06:49:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BFQ",
+    "station_name": "BENDI",
+    "day": 2,
+    "arrival": "06:57:00",
+    "departure": "06:57:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "LTHR",
+    "station_name": "LATEHAR",
+    "day": 2,
+    "arrival": "07:02:00",
+    "departure": "07:03:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "DEMU",
+    "station_name": "DEMU",
+    "day": 2,
+    "arrival": "07:10:00",
+    "departure": "07:10:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "RCGT",
+    "station_name": "RICHUGHUTU",
+    "day": 2,
+    "arrival": "07:19:00",
+    "departure": "07:19:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "CTQ",
+    "station_name": "CHETAR",
+    "day": 2,
+    "arrival": "07:28:00",
+    "departure": "07:28:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "TORI",
+    "station_name": "TORI",
+    "day": 2,
+    "arrival": "07:39:00",
+    "departure": "07:40:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "MMLN",
+    "station_name": "MAHUAMILAN",
+    "day": 2,
+    "arrival": "07:58:00",
+    "departure": "07:58:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "MGME",
+    "station_name": "MCCLUSKIEGANJ",
+    "day": 2,
+    "arrival": "08:11:00",
+    "departure": "08:12:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "KLRE",
+    "station_name": "KHALARI",
+    "day": 2,
+    "arrival": "08:23:00",
+    "departure": "08:24:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "RAY",
+    "station_name": "RAY",
+    "day": 2,
+    "arrival": "08:41:00",
+    "departure": "08:42:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "HNDR",
+    "station_name": "HENDEGIR",
+    "day": 2,
+    "arrival": "08:57:00",
+    "departure": "08:57:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "TKS",
+    "station_name": "TOKISUD",
+    "day": 2,
+    "arrival": "09:08:00",
+    "departure": "09:08:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "PTRU",
+    "station_name": "PATRATU",
+    "day": 2,
+    "arrival": "09:19:00",
+    "departure": "09:20:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BHKD",
+    "station_name": "BHURKUNDA",
+    "day": 2,
+    "arrival": "09:31:00",
+    "departure": "09:32:00"
+  },
+  {
+    "train_number": "13348",
+    "station_code": "BRKA",
+    "station_name": "BARKAKANA",
+    "day": 2,
+    "arrival": "10:05:00",
+    "departure": "None"
+  }
+]

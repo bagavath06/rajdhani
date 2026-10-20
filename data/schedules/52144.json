@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "52144",
+    "station_code": "ARVI",
+    "station_name": "Arvi",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:10:00"
+  },
+  {
+    "train_number": "52144",
+    "station_code": "KBGN",
+    "station_name": "Khubagaon",
+    "day": 1,
+    "arrival": "12:34:00",
+    "departure": "12:35:00"
+  },
+  {
+    "train_number": "52144",
+    "station_code": "PRGT",
+    "station_name": "Pargothan",
+    "day": 1,
+    "arrival": "13:23:00",
+    "departure": "13:24:00"
+  },
+  {
+    "train_number": "52144",
+    "station_code": "DNZ",
+    "station_name": "Dhanori",
+    "day": 1,
+    "arrival": "13:46:00",
+    "departure": "13:47:00"
+  },
+  {
+    "train_number": "52144",
+    "station_code": "VUL",
+    "station_name": "Virul",
+    "day": 1,
+    "arrival": "14:40:00",
+    "departure": "14:41:00"
+  },
+  {
+    "train_number": "52144",
+    "station_code": "PLO",
+    "station_name": "PULGAON JN",
+    "day": 1,
+    "arrival": "15:30:00",
+    "departure": "None"
+  }
+]

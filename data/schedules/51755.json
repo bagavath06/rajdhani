@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "51755",
+    "station_code": "CHRM",
+    "station_name": "Chirmiri",
+    "day": 1,
+    "arrival": "None",
+    "departure": "10:45:00"
+  },
+  {
+    "train_number": "51755",
+    "station_code": "PRDL",
+    "station_name": "Paradol",
+    "day": 1,
+    "arrival": "11:09:00",
+    "departure": "11:10:00"
+  },
+  {
+    "train_number": "51755",
+    "station_code": "MDGR",
+    "station_name": "Manendragarh",
+    "day": 1,
+    "arrival": "11:45:00",
+    "departure": "None"
+  }
+]

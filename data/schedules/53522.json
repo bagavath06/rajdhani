@@ -1,0 +1,570 @@
+[
+  {
+    "train_number": "53522",
+    "station_code": "BSB",
+    "station_name": "VARANASI JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "04:25:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KEI",
+    "station_name": "KASHI",
+    "day": 1,
+    "arrival": "04:37:00",
+    "departure": "04:38:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "VYN",
+    "station_name": "VYASNAGAR",
+    "day": 1,
+    "arrival": "04:54:00",
+    "departure": "04:55:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "MGS",
+    "station_name": "MUGHAL SARAI JN",
+    "day": 1,
+    "arrival": "05:20:00",
+    "departure": "05:40:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GAQ",
+    "station_name": "GANJ KHAWAJA",
+    "day": 1,
+    "arrival": "05:51:00",
+    "departure": "05:52:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CDMR",
+    "station_name": "CHANDAULI MJHWR",
+    "day": 1,
+    "arrival": "06:00:00",
+    "departure": "06:01:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "SYJ",
+    "station_name": "SAIDRAJA",
+    "day": 1,
+    "arrival": "06:12:00",
+    "departure": "06:13:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KMS",
+    "station_name": "KARAMNASA",
+    "day": 1,
+    "arrival": "06:21:00",
+    "departure": "06:22:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DCX",
+    "station_name": "DHANICHHA",
+    "day": 1,
+    "arrival": "06:29:00",
+    "departure": "06:30:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DGO",
+    "station_name": "DURGAUTI",
+    "day": 1,
+    "arrival": "06:37:00",
+    "departure": "06:38:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BBU",
+    "station_name": "BHABUA ROAD",
+    "day": 1,
+    "arrival": "07:07:00",
+    "departure": "07:08:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "MTGE",
+    "station_name": "MUTHANI",
+    "day": 1,
+    "arrival": "07:31:00",
+    "departure": "07:32:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PSE",
+    "station_name": "PUSAULI",
+    "day": 1,
+    "arrival": "07:40:00",
+    "departure": "07:41:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KTQ",
+    "station_name": "KUDRA",
+    "day": 1,
+    "arrival": "07:47:00",
+    "departure": "07:48:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KVD",
+    "station_name": "KHURMABAD ROAD",
+    "day": 1,
+    "arrival": "07:57:00",
+    "departure": "07:57:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "SSG",
+    "station_name": "SHIU SAGAR ROAD",
+    "day": 1,
+    "arrival": "08:04:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KMGE",
+    "station_name": "KUMAHU",
+    "day": 1,
+    "arrival": "08:13:00",
+    "departure": "08:14:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "SSM",
+    "station_name": "SASARAM",
+    "day": 1,
+    "arrival": "08:23:00",
+    "departure": "08:24:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KWD",
+    "station_name": "KARWANDIA",
+    "day": 1,
+    "arrival": "08:33:00",
+    "departure": "08:34:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PHE",
+    "station_name": "PAHALEJA HALT",
+    "day": 1,
+    "arrival": "08:41:00",
+    "departure": "08:42:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DOS",
+    "station_name": "DEHRI ON SONE",
+    "day": 1,
+    "arrival": "09:21:00",
+    "departure": "09:26:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "SEB",
+    "station_name": "SON NAGAR",
+    "day": 1,
+    "arrival": "09:34:00",
+    "departure": "09:35:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "AUBR",
+    "station_name": "ANUGRAHA NARAYAN ROAD",
+    "day": 1,
+    "arrival": "09:50:00",
+    "departure": "09:51:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PES",
+    "station_name": "PHESAR",
+    "day": 1,
+    "arrival": "10:05:00",
+    "departure": "10:06:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BHKH",
+    "station_name": "BAGHOI KUSA",
+    "day": 1,
+    "arrival": "10:14:00",
+    "departure": "10:14:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "JHN",
+    "station_name": "JAKHIM",
+    "day": 1,
+    "arrival": "10:22:00",
+    "departure": "10:23:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DORD",
+    "station_name": "DEO ROAD",
+    "day": 1,
+    "arrival": "10:30:00",
+    "departure": "10:30:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "RFJ",
+    "station_name": "RAFIGANJ",
+    "day": 1,
+    "arrival": "10:38:00",
+    "departure": "10:39:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "IMGE",
+    "station_name": "ISMAILPUR",
+    "day": 1,
+    "arrival": "10:47:00",
+    "departure": "10:48:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GRRU",
+    "station_name": "GURARU",
+    "day": 1,
+    "arrival": "10:57:00",
+    "departure": "10:58:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PRY",
+    "station_name": "PARAIYA",
+    "day": 1,
+    "arrival": "11:06:00",
+    "departure": "11:07:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KSTA",
+    "station_name": "KASTHA",
+    "day": 1,
+    "arrival": "11:15:00",
+    "departure": "11:16:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "11:45:00",
+    "departure": "11:55:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "MPO",
+    "station_name": "MANPUR JN",
+    "day": 1,
+    "arrival": "12:07:00",
+    "departure": "12:08:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BNF",
+    "station_name": "BANDHUA",
+    "day": 1,
+    "arrival": "12:24:00",
+    "departure": "12:25:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "TKN",
+    "station_name": "TANKUPPA",
+    "day": 1,
+    "arrival": "12:34:00",
+    "departure": "12:35:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BNSL",
+    "station_name": "BANSINALA HALT",
+    "day": 1,
+    "arrival": "12:43:00",
+    "departure": "12:43:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PRP",
+    "station_name": "PAHARPUR",
+    "day": 1,
+    "arrival": "12:51:00",
+    "departure": "12:52:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GAP",
+    "station_name": "GURPA",
+    "day": 1,
+    "arrival": "13:05:00",
+    "departure": "13:06:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DLW",
+    "station_name": "DILWA",
+    "day": 1,
+    "arrival": "13:37:00",
+    "departure": "13:38:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GJD",
+    "station_name": "GUJHANDI",
+    "day": 1,
+    "arrival": "13:53:00",
+    "departure": "13:54:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KQR",
+    "station_name": "KODERMA",
+    "day": 1,
+    "arrival": "14:06:00",
+    "departure": "14:07:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "HRE",
+    "station_name": "HIRODIH",
+    "day": 1,
+    "arrival": "14:25:00",
+    "departure": "14:26:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "SMND",
+    "station_name": "SARMATANR",
+    "day": 1,
+    "arrival": "14:35:00",
+    "departure": "14:36:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "YDD",
+    "station_name": "YADUDIH",
+    "day": 1,
+    "arrival": "14:43:00",
+    "departure": "14:44:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PSB",
+    "station_name": "PARSABAD",
+    "day": 1,
+    "arrival": "14:50:00",
+    "departure": "14:51:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "HZD",
+    "station_name": "HAZARIBAGH ROAD",
+    "day": 1,
+    "arrival": "14:59:00",
+    "departure": "14:59:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CBH",
+    "station_name": "CHAUBE",
+    "day": 1,
+    "arrival": "15:05:00",
+    "departure": "15:06:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "HZD",
+    "station_name": "HAZARIBAGH ROAD",
+    "day": 1,
+    "arrival": "15:34:00",
+    "departure": "15:35:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CBH",
+    "station_name": "CHAUBE",
+    "day": 1,
+    "arrival": "15:39:00",
+    "departure": "15:39:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CCK",
+    "station_name": "CHICHAKI",
+    "day": 1,
+    "arrival": "15:50:00",
+    "departure": "15:51:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CDB",
+    "station_name": "CHAUDHRIBANDH",
+    "day": 1,
+    "arrival": "16:04:00",
+    "departure": "16:05:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PNME",
+    "station_name": "PARASNATH",
+    "day": 1,
+    "arrival": "16:50:00",
+    "departure": "16:51:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "NMG",
+    "station_name": "NIMIAGHAT",
+    "day": 1,
+    "arrival": "17:03:00",
+    "departure": "17:04:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "GMO",
+    "station_name": "GOMOH JN",
+    "day": 1,
+    "arrival": "17:40:00",
+    "departure": "17:50:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "MRQ",
+    "station_name": "MATARI",
+    "day": 1,
+    "arrival": "18:01:00",
+    "departure": "18:02:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "NPJE",
+    "station_name": "NICHITPUR",
+    "day": 1,
+    "arrival": "18:09:00",
+    "departure": "18:09:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "TET",
+    "station_name": "TETULMARI",
+    "day": 1,
+    "arrival": "18:16:00",
+    "departure": "18:17:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BHN",
+    "station_name": "BHULI",
+    "day": 1,
+    "arrival": "18:35:00",
+    "departure": "18:35:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "DHN",
+    "station_name": "DHANBAD JN",
+    "day": 1,
+    "arrival": "19:05:00",
+    "departure": "19:15:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "PKA",
+    "station_name": "PRADHANKHUNTA",
+    "day": 1,
+    "arrival": "19:29:00",
+    "departure": "19:30:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "CAM",
+    "station_name": "CHHOTA AMBANA",
+    "day": 1,
+    "arrival": "19:36:00",
+    "departure": "19:36:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KAO",
+    "station_name": "KALUBATHAN",
+    "day": 1,
+    "arrival": "19:45:00",
+    "departure": "19:46:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "TNW",
+    "station_name": "THAPAR NAGAR",
+    "day": 1,
+    "arrival": "19:52:00",
+    "departure": "19:52:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "MMU",
+    "station_name": "MUGMA",
+    "day": 1,
+    "arrival": "19:58:00",
+    "departure": "19:59:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "KMME",
+    "station_name": "KUMARDUBI",
+    "day": 1,
+    "arrival": "20:04:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BRR",
+    "station_name": "BARAKAR",
+    "day": 1,
+    "arrival": "20:09:00",
+    "departure": "20:10:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "ULT",
+    "station_name": "KULTI",
+    "day": 1,
+    "arrival": "20:16:00",
+    "departure": "20:17:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "STN",
+    "station_name": "SITARAMPUR",
+    "day": 1,
+    "arrival": "20:41:00",
+    "departure": "20:42:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "BCQ",
+    "station_name": "BARACHAK",
+    "day": 1,
+    "arrival": "20:49:00",
+    "departure": "20:49:00"
+  },
+  {
+    "train_number": "53522",
+    "station_code": "ASN",
+    "station_name": "ASANSOL JN",
+    "day": 1,
+    "arrival": "21:00:00",
+    "departure": "None"
+  }
+]

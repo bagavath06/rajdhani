@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "57285",
+    "station_code": "NDKD",
+    "station_name": "NADIKODE",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:00:00"
+  },
+  {
+    "train_number": "57285",
+    "station_code": "RCA",
+    "station_name": "Rentachintala",
+    "day": 1,
+    "arrival": "15:29:00",
+    "departure": "15:30:00"
+  },
+  {
+    "train_number": "57285",
+    "station_code": "MCLA",
+    "station_name": "Macherla",
+    "day": 1,
+    "arrival": "16:00:00",
+    "departure": "None"
+  }
+]

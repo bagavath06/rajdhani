@@ -1,0 +1,186 @@
+[
+  {
+    "train_number": "56232",
+    "station_code": "SBC",
+    "station_name": "BANGALORE CITY JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "NYH",
+    "station_name": "NAYANDAHALLI",
+    "day": 1,
+    "arrival": "09:46:00",
+    "departure": "09:47:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "GNB",
+    "station_name": "JNANA BHARTI HALT",
+    "day": 1,
+    "arrival": "09:50:00",
+    "departure": "09:51:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "KGI",
+    "station_name": "KENGERI",
+    "day": 1,
+    "arrival": "09:56:00",
+    "departure": "09:57:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "HJL",
+    "station_name": "HEJJALA",
+    "day": 1,
+    "arrival": "10:06:00",
+    "departure": "10:07:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "BID",
+    "station_name": "BIDADI",
+    "day": 1,
+    "arrival": "10:12:00",
+    "departure": "10:13:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "KHLL",
+    "station_name": "KETOHALLI",
+    "day": 1,
+    "arrival": "10:19:00",
+    "departure": "10:20:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "RMGM",
+    "station_name": "RAMANAGARAM",
+    "day": 1,
+    "arrival": "10:27:00",
+    "departure": "10:28:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "CPT",
+    "station_name": "CHANNAPATNA",
+    "day": 1,
+    "arrival": "10:37:00",
+    "departure": "10:38:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "SET",
+    "station_name": "SETTIHALLY",
+    "day": 1,
+    "arrival": "10:45:00",
+    "departure": "10:46:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "NZH",
+    "station_name": "Nidaghatta",
+    "day": 1,
+    "arrival": "10:53:00",
+    "departure": "10:53:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "MAD",
+    "station_name": "MADDUR",
+    "day": 1,
+    "arrival": "10:58:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "HNK",
+    "station_name": "HANAKERE",
+    "day": 1,
+    "arrival": "11:09:00",
+    "departure": "11:10:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "MYA",
+    "station_name": "MANDYA",
+    "day": 1,
+    "arrival": "11:29:00",
+    "departure": "11:30:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "Y",
+    "station_name": "YELIYUR",
+    "day": 1,
+    "arrival": "11:40:00",
+    "departure": "11:41:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "BDRL",
+    "station_name": "BYADARAHALLI",
+    "day": 1,
+    "arrival": "11:50:00",
+    "departure": "11:51:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "CGKR",
+    "station_name": "CHANDAGIRIKOPAL",
+    "day": 1,
+    "arrival": "11:55:00",
+    "departure": "11:56:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "CGKP",
+    "station_name": "CHANDAGIRIKOPAL",
+    "day": 1,
+    "arrival": "11:56:00",
+    "departure": "11:56:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "PANP",
+    "station_name": "PANDAVAPURA",
+    "day": 1,
+    "arrival": "12:04:00",
+    "departure": "12:05:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "S",
+    "station_name": "SHRIRANGAPATNA",
+    "day": 1,
+    "arrival": "12:10:00",
+    "departure": "12:11:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "NHY",
+    "station_name": "NAGANAHALLI",
+    "day": 1,
+    "arrival": "12:24:00",
+    "departure": "12:25:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "MNGT",
+    "station_name": "MYSORE NEW GOOD",
+    "day": 1,
+    "arrival": "13:10:00",
+    "departure": "13:10:00"
+  },
+  {
+    "train_number": "56232",
+    "station_code": "MYS",
+    "station_name": "MYSORE JN",
+    "day": 1,
+    "arrival": "13:35:00",
+    "departure": "None"
+  }
+]

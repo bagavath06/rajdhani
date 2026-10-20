@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "53547",
+    "station_code": "UDL",
+    "station_name": "ANDAL JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:35:00"
+  },
+  {
+    "train_number": "53547",
+    "station_code": "RNG",
+    "station_name": "RANIGANJ",
+    "day": 1,
+    "arrival": "06:55:00",
+    "departure": "06:55:00"
+  },
+  {
+    "train_number": "53547",
+    "station_code": "KPK",
+    "station_name": "KALIPAHARI",
+    "day": 1,
+    "arrival": "07:31:00",
+    "departure": "07:31:00"
+  },
+  {
+    "train_number": "53547",
+    "station_code": "ASN",
+    "station_name": "ASANSOL JN",
+    "day": 1,
+    "arrival": "07:46:00",
+    "departure": "07:46:00"
+  },
+  {
+    "train_number": "53547",
+    "station_code": "BCQ",
+    "station_name": "BARACHAK",
+    "day": 1,
+    "arrival": "08:00:00",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "53547",
+    "station_code": "STN",
+    "station_name": "SITARAMPUR",
+    "day": 1,
+    "arrival": "08:10:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "56862",
+    "station_code": "PDY",
+    "station_name": "Puducherry",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "56862",
+    "station_code": "VI",
+    "station_name": "Villianur",
+    "day": 1,
+    "arrival": "08:11:00",
+    "departure": "08:12:00"
+  },
+  {
+    "train_number": "56862",
+    "station_code": "CBU",
+    "station_name": "Chinna Babu Samudram",
+    "day": 1,
+    "arrival": "08:18:00",
+    "departure": "08:19:00"
+  },
+  {
+    "train_number": "56862",
+    "station_code": "VRA",
+    "station_name": "Valavanur",
+    "day": 1,
+    "arrival": "08:27:00",
+    "departure": "08:29:00"
+  },
+  {
+    "train_number": "56862",
+    "station_code": "VM",
+    "station_name": "VILLUPURAM JN",
+    "day": 1,
+    "arrival": "08:50:00",
+    "departure": "None"
+  }
+]

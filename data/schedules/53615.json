@@ -1,0 +1,162 @@
+[
+  {
+    "train_number": "53615",
+    "station_code": "JMP",
+    "station_name": "JAMALPUR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "08:15:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "DRTP",
+    "station_name": "DASHARATHPUR",
+    "day": 1,
+    "arrival": "08:22:00",
+    "departure": "08:23:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "DRH",
+    "station_name": "DHARHARA",
+    "day": 1,
+    "arrival": "08:29:00",
+    "departure": "08:30:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "MSDN",
+    "station_name": "MASUDAN",
+    "day": 1,
+    "arrival": "08:36:00",
+    "departure": "08:37:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "AHA",
+    "station_name": "ABHAIPUR",
+    "day": 1,
+    "arrival": "08:42:00",
+    "departure": "08:43:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "KJH",
+    "station_name": "KAJRA",
+    "day": 1,
+    "arrival": "08:52:00",
+    "departure": "08:53:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "UREN",
+    "station_name": "UREN",
+    "day": 1,
+    "arrival": "09:00:00",
+    "departure": "09:01:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "DNRE",
+    "station_name": "DHANAURI",
+    "day": 1,
+    "arrival": "09:29:00",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "KIUL",
+    "station_name": "KIUL JN",
+    "day": 1,
+    "arrival": "09:43:00",
+    "departure": "09:53:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "LKR",
+    "station_name": "LUCKEESARAI JN",
+    "day": 1,
+    "arrival": "10:00:00",
+    "departure": "10:01:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "SRY",
+    "station_name": "SIRARI",
+    "day": 1,
+    "arrival": "10:29:00",
+    "departure": "10:30:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "SHK",
+    "station_name": "SHEIKPURA",
+    "day": 1,
+    "arrival": "10:41:00",
+    "departure": "10:42:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "KSC",
+    "station_name": "KASHI CHAK",
+    "day": 1,
+    "arrival": "10:56:00",
+    "departure": "10:57:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "WRS",
+    "station_name": "WARIS ALEGANJ",
+    "day": 1,
+    "arrival": "11:11:00",
+    "departure": "11:12:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "NWD",
+    "station_name": "NAWADIH",
+    "day": 1,
+    "arrival": "11:30:00",
+    "departure": "11:35:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "TIA",
+    "station_name": "TILAYA",
+    "day": 1,
+    "arrival": "12:18:00",
+    "departure": "12:19:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "WZJ",
+    "station_name": "WAZERGANJ",
+    "day": 1,
+    "arrival": "13:13:00",
+    "departure": "13:14:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "KRJR",
+    "station_name": "KARJARA",
+    "day": 1,
+    "arrival": "13:32:00",
+    "departure": "13:32:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "MPO",
+    "station_name": "MANPUR JN",
+    "day": 1,
+    "arrival": "14:02:00",
+    "departure": "14:03:00"
+  },
+  {
+    "train_number": "53615",
+    "station_code": "GAYA",
+    "station_name": "GAYA JN",
+    "day": 1,
+    "arrival": "14:20:00",
+    "departure": "None"
+  }
+]

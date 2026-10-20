@@ -1,0 +1,650 @@
+[
+  {
+    "train_number": "17013",
+    "station_code": "PUNE",
+    "station_name": "PUNE JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "14:15:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "GPRW",
+    "station_name": "GHORPURI WEST",
+    "day": 1,
+    "arrival": "14:17:00",
+    "departure": "14:17:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HDP",
+    "station_name": "HADAPSAR",
+    "day": 1,
+    "arrival": "14:20:00",
+    "departure": "14:20:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MJBK",
+    "station_name": "MANJARI BUDRUK",
+    "day": 1,
+    "arrival": "14:25:00",
+    "departure": "14:25:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "LONI",
+    "station_name": "LONI",
+    "day": 1,
+    "arrival": "14:30:00",
+    "departure": "14:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "URI",
+    "station_name": "URULI",
+    "day": 1,
+    "arrival": "14:42:00",
+    "departure": "14:42:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "YT",
+    "station_name": "YEVAT",
+    "day": 1,
+    "arrival": "14:54:00",
+    "departure": "14:54:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KTT",
+    "station_name": "KHUTBAV",
+    "day": 1,
+    "arrival": "14:59:00",
+    "departure": "14:59:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KDG",
+    "station_name": "KEDGAON",
+    "day": 1,
+    "arrival": "15:06:00",
+    "departure": "15:06:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KDTN",
+    "station_name": "KADETHAN",
+    "day": 1,
+    "arrival": "15:11:00",
+    "departure": "15:11:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "PAA",
+    "station_name": "PATAS",
+    "day": 1,
+    "arrival": "15:14:00",
+    "departure": "15:14:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "DD",
+    "station_name": "DAUND JN",
+    "day": 1,
+    "arrival": "15:25:00",
+    "departure": "15:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BRB",
+    "station_name": "BORIBIAL",
+    "day": 1,
+    "arrival": "15:41:00",
+    "departure": "15:41:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MLM",
+    "station_name": "MALTHAN",
+    "day": 1,
+    "arrival": "15:51:00",
+    "departure": "15:51:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BGVN",
+    "station_name": "BHIGWAN",
+    "day": 1,
+    "arrival": "16:01:00",
+    "departure": "16:01:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "JNTR",
+    "station_name": "JINTI ROAD",
+    "day": 1,
+    "arrival": "16:17:00",
+    "departure": "16:17:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "PRWD",
+    "station_name": "PAREWADI",
+    "day": 1,
+    "arrival": "16:24:00",
+    "departure": "16:24:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "WSB",
+    "station_name": "WASHIMBE",
+    "day": 1,
+    "arrival": "16:30:00",
+    "departure": "16:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "PPJ",
+    "station_name": "POPHLAJ",
+    "day": 1,
+    "arrival": "16:45:00",
+    "departure": "16:45:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "JEUR",
+    "station_name": "JEUR",
+    "day": 1,
+    "arrival": "16:52:00",
+    "departure": "16:52:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BLNI",
+    "station_name": "BHALWANI",
+    "day": 1,
+    "arrival": "17:01:00",
+    "departure": "17:01:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KEM",
+    "station_name": "KEM",
+    "day": 1,
+    "arrival": "17:10:00",
+    "departure": "17:10:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "DHS",
+    "station_name": "DHAVALAS",
+    "day": 1,
+    "arrival": "17:19:00",
+    "departure": "17:19:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KWV",
+    "station_name": "KURDUVADI",
+    "day": 1,
+    "arrival": "17:30:00",
+    "departure": "17:32:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "CNHL",
+    "station_name": "CHINK HILL",
+    "day": 1,
+    "arrival": "17:37:00",
+    "departure": "17:37:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MGO",
+    "station_name": "MAHISGAON",
+    "day": 1,
+    "arrival": "17:41:00",
+    "departure": "17:41:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "SEI",
+    "station_name": "SHENDRI",
+    "day": 1,
+    "arrival": "17:53:00",
+    "departure": "17:53:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "UPI",
+    "station_name": "UPLAI",
+    "day": 1,
+    "arrival": "17:59:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BTW",
+    "station_name": "BARSI TOWN",
+    "day": 1,
+    "arrival": "18:10:00",
+    "departure": "18:12:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KCB",
+    "station_name": "KUSLAMB",
+    "day": 1,
+    "arrival": "18:28:00",
+    "departure": "18:28:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "PJR",
+    "station_name": "PANGRI",
+    "day": 1,
+    "arrival": "18:35:00",
+    "departure": "18:35:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "UMD",
+    "station_name": "USMANABAD",
+    "day": 1,
+    "arrival": "19:00:00",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "YSI",
+    "station_name": "YEDESHI",
+    "day": 1,
+    "arrival": "19:19:00",
+    "departure": "19:19:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KMRD",
+    "station_name": "KALAMB ROAD",
+    "day": 1,
+    "arrival": "19:34:00",
+    "departure": "19:34:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "DKY",
+    "station_name": "DHOKI",
+    "day": 1,
+    "arrival": "19:42:00",
+    "departure": "19:42:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "TER",
+    "station_name": "THAIR",
+    "day": 1,
+    "arrival": "19:49:00",
+    "departure": "19:49:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "PCP",
+    "station_name": "PALSAP",
+    "day": 1,
+    "arrival": "19:56:00",
+    "departure": "19:56:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MRX",
+    "station_name": "MURUD",
+    "day": 1,
+    "arrival": "20:05:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "NEI",
+    "station_name": "NEOLI",
+    "day": 1,
+    "arrival": "20:15:00",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "OSA",
+    "station_name": "AUSA ROAD",
+    "day": 1,
+    "arrival": "20:30:00",
+    "departure": "20:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HGL",
+    "station_name": "HARANGUL",
+    "day": 1,
+    "arrival": "20:44:00",
+    "departure": "20:44:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "LUR",
+    "station_name": "LATUR",
+    "day": 1,
+    "arrival": "20:55:00",
+    "departure": "21:05:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BANL",
+    "station_name": "BHATANGLI",
+    "day": 1,
+    "arrival": "21:28:00",
+    "departure": "21:28:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "GANI",
+    "station_name": "GHARNI",
+    "day": 1,
+    "arrival": "21:37:00",
+    "departure": "21:37:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "LTRR",
+    "station_name": "LATUR ROAD",
+    "day": 1,
+    "arrival": "22:00:00",
+    "departure": "22:02:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "CKX",
+    "station_name": "Chakur",
+    "day": 1,
+    "arrival": "22:06:00",
+    "departure": "22:06:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "AMBR",
+    "station_name": "Ambika Rohina",
+    "day": 1,
+    "arrival": "22:14:00",
+    "departure": "22:14:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HER",
+    "station_name": "Her",
+    "day": 1,
+    "arrival": "22:17:00",
+    "departure": "22:17:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KTKR",
+    "station_name": "Kumtha Khurd",
+    "day": 1,
+    "arrival": "22:26:00",
+    "departure": "22:26:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "UDGR",
+    "station_name": "Udgir",
+    "day": 1,
+    "arrival": "22:33:00",
+    "departure": "22:35:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KMNR",
+    "station_name": "Kamalnagar",
+    "day": 1,
+    "arrival": "22:59:00",
+    "departure": "22:59:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KCP",
+    "station_name": "Kalgupur",
+    "day": 1,
+    "arrival": "23:11:00",
+    "departure": "23:11:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BHLK",
+    "station_name": "Bhalki",
+    "day": 1,
+    "arrival": "23:29:00",
+    "departure": "23:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HBU",
+    "station_name": "Halbarga",
+    "day": 1,
+    "arrival": "23:45:00",
+    "departure": "23:45:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KHNP",
+    "station_name": "Khanapur Deccan",
+    "day": 1,
+    "arrival": "23:57:00",
+    "departure": "23:57:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BIDR",
+    "station_name": "Bidar",
+    "day": 2,
+    "arrival": "00:15:00",
+    "departure": "00:20:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MTV",
+    "station_name": "Matalkunta",
+    "day": 2,
+    "arrival": "00:49:00",
+    "departure": "00:49:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "ZB",
+    "station_name": "Zahirabad",
+    "day": 2,
+    "arrival": "01:05:00",
+    "departure": "01:07:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KOHR",
+    "station_name": "Kohir Deccan",
+    "day": 2,
+    "arrival": "01:30:00",
+    "departure": "01:30:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "MRF",
+    "station_name": "Marpalli",
+    "day": 2,
+    "arrival": "01:46:00",
+    "departure": "01:46:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "SSPD",
+    "station_name": "Sadashivapet Road",
+    "day": 2,
+    "arrival": "02:09:00",
+    "departure": "02:09:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "VKB",
+    "station_name": "VIKARABAD JN",
+    "day": 2,
+    "arrival": "02:45:00",
+    "departure": "02:50:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "CTF",
+    "station_name": "CHITGIDDA",
+    "day": 2,
+    "arrival": "02:59:00",
+    "departure": "02:59:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "GGD",
+    "station_name": "GULLAGUDA",
+    "day": 2,
+    "arrival": "03:04:00",
+    "departure": "03:04:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "RPK",
+    "station_name": "RAVALPALLI KALA",
+    "day": 2,
+    "arrival": "03:10:00",
+    "departure": "03:10:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "SKP",
+    "station_name": "SHANKARPALLI",
+    "day": 2,
+    "arrival": "03:14:00",
+    "departure": "03:14:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "NPL",
+    "station_name": "NAGALAPALLE",
+    "day": 2,
+    "arrival": "03:23:00",
+    "departure": "03:23:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "LPI",
+    "station_name": "LINGAMPALLI",
+    "day": 2,
+    "arrival": "03:31:00",
+    "departure": "03:31:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "CDNR",
+    "station_name": "CHANDANAGAR",
+    "day": 2,
+    "arrival": "03:33:00",
+    "departure": "03:33:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HFZ",
+    "station_name": "HAFIZPETA",
+    "day": 2,
+    "arrival": "03:35:00",
+    "departure": "03:35:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HTCY",
+    "station_name": "HITECH CITY",
+    "day": 2,
+    "arrival": "03:38:00",
+    "departure": "03:38:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BRBD",
+    "station_name": "BORABANDA",
+    "day": 2,
+    "arrival": "03:40:00",
+    "departure": "03:40:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BTNR",
+    "station_name": "BHARTNAGAR",
+    "day": 2,
+    "arrival": "03:42:00",
+    "departure": "03:42:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "SNF",
+    "station_name": "SANAT NAGAR",
+    "day": 2,
+    "arrival": "03:43:00",
+    "departure": "03:43:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "FNB",
+    "station_name": "FATEHNAGAR",
+    "day": 2,
+    "arrival": "03:44:00",
+    "departure": "03:44:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "NCHS",
+    "station_name": "NATURE CURE HOSPITAL",
+    "day": 2,
+    "arrival": "03:45:00",
+    "departure": "03:45:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "BMT",
+    "station_name": "BEGAMPET",
+    "day": 2,
+    "arrival": "03:45:00",
+    "departure": "03:50:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "NLRD",
+    "station_name": "NECKLACE ROAD",
+    "day": 2,
+    "arrival": "04:04:00",
+    "departure": "04:04:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "KQD",
+    "station_name": "KHAIRATABAD DCN",
+    "day": 2,
+    "arrival": "04:12:00",
+    "departure": "04:12:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "LKPL",
+    "station_name": "LAKDIKAPUL",
+    "day": 2,
+    "arrival": "04:20:00",
+    "departure": "04:20:00"
+  },
+  {
+    "train_number": "17013",
+    "station_code": "HYB",
+    "station_name": "HYDERABAD DECCAN",
+    "day": 2,
+    "arrival": "04:30:00",
+    "departure": "None"
+  }
+]

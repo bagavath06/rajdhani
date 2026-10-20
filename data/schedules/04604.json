@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "04604",
+    "station_code": "UHP",
+    "station_name": "UDHAMPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "18:20:00"
+  },
+  {
+    "train_number": "04604",
+    "station_code": "RMJK",
+    "station_name": "RAM NAGAR J K",
+    "day": 1,
+    "arrival": "18:33:00",
+    "departure": "18:34:00"
+  },
+  {
+    "train_number": "04604",
+    "station_code": "MNWL",
+    "station_name": "MANWAL",
+    "day": 1,
+    "arrival": "19:13:00",
+    "departure": "19:13:00"
+  },
+  {
+    "train_number": "04604",
+    "station_code": "SGRR",
+    "station_name": "SANGAR",
+    "day": 1,
+    "arrival": "19:24:00",
+    "departure": "19:24:00"
+  },
+  {
+    "train_number": "04604",
+    "station_code": "BLA",
+    "station_name": "BAJALTA",
+    "day": 1,
+    "arrival": "19:32:00",
+    "departure": "19:32:00"
+  },
+  {
+    "train_number": "04604",
+    "station_code": "JAT",
+    "station_name": "JAMMU TAWI",
+    "day": 1,
+    "arrival": "19:50:00",
+    "departure": "None"
+  }
+]

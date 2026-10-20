@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "53485",
+    "station_code": "TPH",
+    "station_name": "TINPAHAR JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "13:47:00"
+  },
+  {
+    "train_number": "53485",
+    "station_code": "MRLI",
+    "station_name": "Murli Halt",
+    "day": 1,
+    "arrival": "13:55:00",
+    "departure": "13:56:00"
+  },
+  {
+    "train_number": "53485",
+    "station_code": "RJL",
+    "station_name": "Rajmahal",
+    "day": 1,
+    "arrival": "14:15:00",
+    "departure": "None"
+  }
+]

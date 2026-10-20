@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "52545",
+    "station_code": "KGN",
+    "station_name": "Kurseong",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:00:00"
+  },
+  {
+    "train_number": "52545",
+    "station_code": "TUNG",
+    "station_name": "Tung",
+    "day": 1,
+    "arrival": "15:35:00",
+    "departure": "15:36:00"
+  },
+  {
+    "train_number": "52545",
+    "station_code": "SAD",
+    "station_name": "Sonada",
+    "day": 1,
+    "arrival": "16:16:00",
+    "departure": "16:17:00"
+  },
+  {
+    "train_number": "52545",
+    "station_code": "GHUM",
+    "station_name": "Ghoom",
+    "day": 1,
+    "arrival": "17:03:00",
+    "departure": "17:08:00"
+  },
+  {
+    "train_number": "52545",
+    "station_code": "DJ",
+    "station_name": "Darjeeling",
+    "day": 1,
+    "arrival": "17:50:00",
+    "departure": "None"
+  }
+]

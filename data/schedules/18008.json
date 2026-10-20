@@ -1,0 +1,426 @@
+[
+  {
+    "train_number": "18008",
+    "station_code": "BPO",
+    "station_name": "Baripada",
+    "day": 1,
+    "arrival": "None",
+    "departure": "12:50:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "KCV",
+    "station_name": "Krishnachandrapur",
+    "day": 1,
+    "arrival": "13:10:00",
+    "departure": "13:11:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BTQ",
+    "station_name": "Betnoti",
+    "day": 1,
+    "arrival": "13:24:00",
+    "departure": "13:25:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "JOL",
+    "station_name": "Jogal",
+    "day": 1,
+    "arrival": "13:33:00",
+    "departure": "13:33:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "JRG",
+    "station_name": "Jugpura",
+    "day": 1,
+    "arrival": "13:40:00",
+    "departure": "13:41:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "TKH",
+    "station_name": "Thakurtola",
+    "day": 1,
+    "arrival": "13:57:00",
+    "departure": "13:57:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "ROP",
+    "station_name": "RUPSA JN",
+    "day": 1,
+    "arrival": "14:10:00",
+    "departure": "14:30:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NMBR",
+    "station_name": "N MAYURBHANJ ROAD",
+    "day": 1,
+    "arrival": "14:35:00",
+    "departure": "14:35:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BTS",
+    "station_name": "BASTA",
+    "day": 1,
+    "arrival": "14:40:00",
+    "departure": "14:41:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "ARD",
+    "station_name": "AMARDA ROAD",
+    "day": 1,
+    "arrival": "14:45:00",
+    "departure": "14:45:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "RGT",
+    "station_name": "RAJGHAT HALT",
+    "day": 1,
+    "arrival": "14:49:00",
+    "departure": "14:49:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "JER",
+    "station_name": "JALESWAR",
+    "day": 1,
+    "arrival": "14:54:00",
+    "departure": "14:55:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "LXD",
+    "station_name": "LAKSHANNATH ROAD",
+    "day": 1,
+    "arrival": "14:59:00",
+    "departure": "14:59:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "AGV",
+    "station_name": "ANGUA",
+    "day": 1,
+    "arrival": "15:03:00",
+    "departure": "15:03:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "DNT",
+    "station_name": "DANTAN",
+    "day": 1,
+    "arrival": "15:06:00",
+    "departure": "15:06:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NSI",
+    "station_name": "NIKURSINI",
+    "day": 1,
+    "arrival": "15:12:00",
+    "departure": "15:12:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BLDA",
+    "station_name": "BELDA",
+    "day": 1,
+    "arrival": "15:17:00",
+    "departure": "15:18:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "CNT",
+    "station_name": "CONTAI ROAD",
+    "day": 1,
+    "arrival": "15:18:00",
+    "departure": "15:18:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "VKD",
+    "station_name": "BAKHRABAD",
+    "day": 1,
+    "arrival": "15:25:00",
+    "departure": "15:25:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NYA",
+    "station_name": "NARAYANGARH",
+    "day": 1,
+    "arrival": "15:32:00",
+    "departure": "15:32:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BPE",
+    "station_name": "BENAPUR",
+    "day": 1,
+    "arrival": "15:45:00",
+    "departure": "15:45:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "HIJ",
+    "station_name": "HIJILLI",
+    "day": 1,
+    "arrival": "15:54:00",
+    "departure": "15:54:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "KGP",
+    "station_name": "KHARAGPUR JN",
+    "day": 1,
+    "arrival": "16:00:00",
+    "departure": "16:05:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "JPR",
+    "station_name": "JAKPUR",
+    "day": 1,
+    "arrival": "16:12:00",
+    "departure": "16:12:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "MPD",
+    "station_name": "MADPUR",
+    "day": 1,
+    "arrival": "16:18:00",
+    "departure": "16:18:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "SMCK",
+    "station_name": "SHYAM CHAK",
+    "day": 1,
+    "arrival": "16:24:00",
+    "departure": "16:24:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BCK",
+    "station_name": "BALICHAK",
+    "day": 1,
+    "arrival": "16:30:00",
+    "departure": "16:30:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "DUAN",
+    "station_name": "DUAN",
+    "day": 1,
+    "arrival": "16:33:00",
+    "departure": "16:33:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "RDU",
+    "station_name": "RADHAMOHANPUR",
+    "day": 1,
+    "arrival": "16:36:00",
+    "departure": "16:36:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "HAUR",
+    "station_name": "HAUR",
+    "day": 1,
+    "arrival": "16:41:00",
+    "departure": "16:41:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "PKU",
+    "station_name": "PANSKURA",
+    "day": 1,
+    "arrival": "16:51:00",
+    "departure": "16:51:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NPMR",
+    "station_name": "NARAYAN PAKURIA",
+    "day": 1,
+    "arrival": "16:54:00",
+    "departure": "16:54:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BOP",
+    "station_name": "BHOGPUR",
+    "day": 1,
+    "arrival": "16:58:00",
+    "departure": "16:58:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NDGJ",
+    "station_name": "NANDAHGANJA",
+    "day": 1,
+    "arrival": "17:00:00",
+    "departure": "17:00:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "MCA",
+    "station_name": "MECHEDA",
+    "day": 1,
+    "arrival": "17:03:00",
+    "departure": "17:03:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "KIG",
+    "station_name": "KOLAGHAT GOODS",
+    "day": 1,
+    "arrival": "17:07:00",
+    "departure": "17:07:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "DTE",
+    "station_name": "DEULTI",
+    "day": 1,
+    "arrival": "17:11:00",
+    "departure": "17:11:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "GGTA",
+    "station_name": "GHORAGHATA",
+    "day": 1,
+    "arrival": "17:14:00",
+    "departure": "17:14:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BZN",
+    "station_name": "BAGNAN",
+    "day": 1,
+    "arrival": "17:17:00",
+    "departure": "17:17:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "KGY",
+    "station_name": "KULGACHIA",
+    "day": 1,
+    "arrival": "17:25:00",
+    "departure": "17:25:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BSBP",
+    "station_name": "BIR SHIBPUR",
+    "day": 1,
+    "arrival": "17:26:00",
+    "departure": "17:26:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "ULB",
+    "station_name": "ULUBARIA",
+    "day": 1,
+    "arrival": "17:30:00",
+    "departure": "17:30:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "FLR",
+    "station_name": "PHULESWAR",
+    "day": 1,
+    "arrival": "17:33:00",
+    "departure": "17:33:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "CGA",
+    "station_name": "CHENGEL",
+    "day": 1,
+    "arrival": "17:35:00",
+    "departure": "17:35:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "BVA",
+    "station_name": "BAURIA JN",
+    "day": 1,
+    "arrival": "17:39:00",
+    "departure": "17:39:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "NALR",
+    "station_name": "NALPUR",
+    "day": 1,
+    "arrival": "17:42:00",
+    "departure": "17:42:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "ABB",
+    "station_name": "ABADA",
+    "day": 1,
+    "arrival": "17:45:00",
+    "departure": "17:45:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "SEL",
+    "station_name": "SANKRALL",
+    "day": 1,
+    "arrival": "17:47:00",
+    "departure": "17:47:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "ADL",
+    "station_name": "ANDUL",
+    "day": 1,
+    "arrival": "17:51:00",
+    "departure": "17:51:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "MRGM",
+    "station_name": "MAURIGRAM",
+    "day": 1,
+    "arrival": "17:52:00",
+    "departure": "17:52:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "SRC",
+    "station_name": "SANTRAGACHI JN",
+    "day": 1,
+    "arrival": "17:56:00",
+    "departure": "17:56:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "PDPK",
+    "station_name": "PADMAPUKAR",
+    "day": 1,
+    "arrival": "17:59:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "18008",
+    "station_code": "SHM",
+    "station_name": "KOLKATA SHALIMAR",
+    "day": 1,
+    "arrival": "18:00:00",
+    "departure": "None"
+  }
+]

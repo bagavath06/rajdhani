@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "57649",
+    "station_code": "GR",
+    "station_name": "GULBARGA",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:10:00"
+  },
+  {
+    "train_number": "57649",
+    "station_code": "HQR",
+    "station_name": "HIRENANDURU",
+    "day": 1,
+    "arrival": "21:20:00",
+    "departure": "21:21:00"
+  },
+  {
+    "train_number": "57649",
+    "station_code": "MR",
+    "station_name": "MARTUR",
+    "day": 1,
+    "arrival": "21:27:00",
+    "departure": "21:28:00"
+  },
+  {
+    "train_number": "57649",
+    "station_code": "SDB",
+    "station_name": "SHAHABAD",
+    "day": 1,
+    "arrival": "21:41:00",
+    "departure": "21:42:00"
+  },
+  {
+    "train_number": "57649",
+    "station_code": "WADI",
+    "station_name": "WADI",
+    "day": 1,
+    "arrival": "22:05:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "56151",
+    "station_code": "MTP",
+    "station_name": "Mettupalayam",
+    "day": 1,
+    "arrival": "None",
+    "departure": "16:20:00"
+  },
+  {
+    "train_number": "56151",
+    "station_code": "KAY",
+    "station_name": "Karaimadai",
+    "day": 1,
+    "arrival": "16:28:00",
+    "departure": "16:30:00"
+  },
+  {
+    "train_number": "56151",
+    "station_code": "PKM",
+    "station_name": "Periyanaikanpalayam",
+    "day": 1,
+    "arrival": "16:41:00",
+    "departure": "16:43:00"
+  },
+  {
+    "train_number": "56151",
+    "station_code": "CBF",
+    "station_name": "COIMBATORE NORTH",
+    "day": 1,
+    "arrival": "16:53:00",
+    "departure": "16:55:00"
+  },
+  {
+    "train_number": "56151",
+    "station_code": "CBE",
+    "station_name": "COIMBATORE JN",
+    "day": 1,
+    "arrival": "17:10:00",
+    "departure": "None"
+  }
+]

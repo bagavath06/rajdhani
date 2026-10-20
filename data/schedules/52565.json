@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "52565",
+    "station_code": "SCL",
+    "station_name": "SILCHAR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "07:30:00"
+  },
+  {
+    "train_number": "52565",
+    "station_code": "ARCL",
+    "station_name": "ARUNACHAL",
+    "day": 1,
+    "arrival": "07:40:00",
+    "departure": "08:05:00"
+  },
+  {
+    "train_number": "52565",
+    "station_code": "JRBM",
+    "station_name": "JIRIBAM",
+    "day": 1,
+    "arrival": "10:45:00",
+    "departure": "None"
+  }
+]

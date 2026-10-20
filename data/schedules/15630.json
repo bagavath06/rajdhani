@@ -1,0 +1,3338 @@
+[
+  {
+    "train_number": "15630",
+    "station_code": "GHY",
+    "station_name": "GUWAHATI",
+    "day": 1,
+    "arrival": "None",
+    "departure": "15:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KYQ",
+    "station_name": "KAMAKHYA",
+    "day": 1,
+    "arrival": "15:16:00",
+    "departure": "15:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AGT",
+    "station_name": "AGTHORI",
+    "day": 1,
+    "arrival": "15:27:00",
+    "departure": "15:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CGS",
+    "station_name": "CHANGSARI",
+    "day": 1,
+    "arrival": "15:38:00",
+    "departure": "15:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BIZ",
+    "station_name": "BAIHATA",
+    "day": 1,
+    "arrival": "15:53:00",
+    "departure": "15:53:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KDKN",
+    "station_name": "KENDUKANA",
+    "day": 1,
+    "arrival": "16:06:00",
+    "departure": "16:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RNY",
+    "station_name": "RANGIYA JN",
+    "day": 1,
+    "arrival": "16:15:00",
+    "departure": "16:25:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GOE",
+    "station_name": "GHOGRAPUR",
+    "day": 1,
+    "arrival": "16:34:00",
+    "departure": "16:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NLV",
+    "station_name": "NALBARI",
+    "day": 1,
+    "arrival": "16:44:00",
+    "departure": "16:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KTCH",
+    "station_name": "KAITHALKUCHI",
+    "day": 1,
+    "arrival": "16:56:00",
+    "departure": "16:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TIHU",
+    "station_name": "TIHU",
+    "day": 1,
+    "arrival": "17:05:00",
+    "departure": "17:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PBL",
+    "station_name": "PATHSALA",
+    "day": 1,
+    "arrival": "17:16:00",
+    "departure": "17:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SPQ",
+    "station_name": "SORUPETA",
+    "day": 1,
+    "arrival": "17:27:00",
+    "departure": "17:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BPRD",
+    "station_name": "BARPETA ROAD",
+    "day": 1,
+    "arrival": "17:40:00",
+    "departure": "17:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SBE",
+    "station_name": "SORBHOG JN",
+    "day": 1,
+    "arrival": "17:49:00",
+    "departure": "17:49:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PTLD",
+    "station_name": "PATILADAHA",
+    "day": 1,
+    "arrival": "17:59:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BJF",
+    "station_name": "BIJNI",
+    "day": 1,
+    "arrival": "18:11:00",
+    "departure": "18:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CPQ",
+    "station_name": "CHAPRAKATA",
+    "day": 1,
+    "arrival": "18:22:00",
+    "departure": "18:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BNGN",
+    "station_name": "BONGAIGAON",
+    "day": 1,
+    "arrival": "18:28:00",
+    "departure": "18:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NBQ",
+    "station_name": "NEW BONGAIGAON",
+    "day": 1,
+    "arrival": "18:30:00",
+    "departure": "18:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DTX",
+    "station_name": "DANGTAL",
+    "day": 1,
+    "arrival": "18:46:00",
+    "departure": "18:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BSGN",
+    "station_name": "BASUGAON",
+    "day": 1,
+    "arrival": "18:51:00",
+    "departure": "18:51:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SLKX",
+    "station_name": "SALAKATI",
+    "day": 1,
+    "arrival": "18:57:00",
+    "departure": "18:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KOJ",
+    "station_name": "KOKRAJHAR",
+    "day": 1,
+    "arrival": "19:07:00",
+    "departure": "19:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "FKM",
+    "station_name": "FAKIRAGRAM JN",
+    "day": 1,
+    "arrival": "19:15:00",
+    "departure": "19:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CROA",
+    "station_name": "CHAUTARA",
+    "day": 1,
+    "arrival": "19:23:00",
+    "departure": "19:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SRPB",
+    "station_name": "SRIRAMPUR ASSAM",
+    "day": 1,
+    "arrival": "19:37:00",
+    "departure": "19:37:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JOQ",
+    "station_name": "JORAI",
+    "day": 1,
+    "arrival": "19:45:00",
+    "departure": "19:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KAMG",
+    "station_name": "KAMAKHYAGURI",
+    "day": 1,
+    "arrival": "19:51:00",
+    "departure": "19:51:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SMTA",
+    "station_name": "SAMUKTALA ROAD",
+    "day": 1,
+    "arrival": "19:58:00",
+    "departure": "19:58:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NOQ",
+    "station_name": "NEW ALIPURDAUR",
+    "day": 1,
+    "arrival": "20:05:00",
+    "departure": "20:10:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NBS",
+    "station_name": "NEW BANESWAR",
+    "day": 1,
+    "arrival": "20:30:00",
+    "departure": "20:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NCB",
+    "station_name": "NEW COOCH BEHAR",
+    "day": 1,
+    "arrival": "20:45:00",
+    "departure": "20:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PQZ",
+    "station_name": "PUNDIBARI",
+    "day": 1,
+    "arrival": "20:58:00",
+    "departure": "20:58:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SJRR",
+    "station_name": "SAJHERPAR",
+    "day": 1,
+    "arrival": "20:59:00",
+    "departure": "20:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GDX",
+    "station_name": "GHOKSADANGA",
+    "day": 1,
+    "arrival": "21:01:00",
+    "departure": "21:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "FLK",
+    "station_name": "FALAKATA",
+    "day": 1,
+    "arrival": "21:17:00",
+    "departure": "21:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SXX",
+    "station_name": "SALBARI",
+    "day": 1,
+    "arrival": "21:24:00",
+    "departure": "21:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KLGR",
+    "station_name": "KHALAIGRAM",
+    "day": 1,
+    "arrival": "21:30:00",
+    "departure": "21:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DQG",
+    "station_name": "DHUPGURI",
+    "day": 1,
+    "arrival": "21:35:00",
+    "departure": "21:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ATM",
+    "station_name": "ALTAGRAM",
+    "day": 1,
+    "arrival": "21:54:00",
+    "departure": "21:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BYXA",
+    "station_name": "BETGARA",
+    "day": 1,
+    "arrival": "22:01:00",
+    "departure": "22:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NMX",
+    "station_name": "NEW MAYNAGURI",
+    "day": 1,
+    "arrival": "22:13:00",
+    "departure": "22:13:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NQH",
+    "station_name": "NEW DOMOHANI",
+    "day": 1,
+    "arrival": "22:19:00",
+    "departure": "22:19:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JPE",
+    "station_name": "JALPAIGURI ROAD",
+    "day": 1,
+    "arrival": "22:31:00",
+    "departure": "22:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RQJ",
+    "station_name": "RANINAGAR JALPAIGIRI",
+    "day": 1,
+    "arrival": "22:43:00",
+    "departure": "22:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BLK",
+    "station_name": "BELAKOBA",
+    "day": 1,
+    "arrival": "22:56:00",
+    "departure": "22:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ABFC",
+    "station_name": "AMBARI FALAKATA",
+    "day": 1,
+    "arrival": "23:11:00",
+    "departure": "23:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NJP",
+    "station_name": "NEW JALPAIGURI",
+    "day": 1,
+    "arrival": "23:25:00",
+    "departure": "23:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RNI",
+    "station_name": "RANGAPANI",
+    "day": 1,
+    "arrival": "23:46:00",
+    "departure": "23:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NJB",
+    "station_name": "NIJBARI",
+    "day": 1,
+    "arrival": "23:54:00",
+    "departure": "23:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CAT",
+    "station_name": "CHATTAR HAT",
+    "day": 1,
+    "arrival": "23:57:00",
+    "departure": "23:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DMZ",
+    "station_name": "DUMDANGI",
+    "day": 2,
+    "arrival": "00:05:00",
+    "departure": "00:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TMH",
+    "station_name": "TIN MILE HAT",
+    "day": 2,
+    "arrival": "00:09:00",
+    "departure": "00:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MXJ",
+    "station_name": "MANGURJAN",
+    "day": 2,
+    "arrival": "00:12:00",
+    "departure": "00:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DBQ",
+    "station_name": "DHULABARI",
+    "day": 2,
+    "arrival": "00:17:00",
+    "departure": "00:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AUB",
+    "station_name": "ALUABARI ROAD",
+    "day": 2,
+    "arrival": "00:26:00",
+    "departure": "00:26:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GEOR",
+    "station_name": "GUNJARIA",
+    "day": 2,
+    "arrival": "00:33:00",
+    "departure": "00:33:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GIL",
+    "station_name": "GAISAL",
+    "day": 2,
+    "arrival": "00:38:00",
+    "departure": "00:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PJP",
+    "station_name": "PANJIPARA",
+    "day": 2,
+    "arrival": "00:44:00",
+    "departure": "00:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KNE",
+    "station_name": "KISHANGANJ",
+    "day": 2,
+    "arrival": "00:50:00",
+    "departure": "00:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HWR",
+    "station_name": "HATWAR",
+    "day": 2,
+    "arrival": "01:02:00",
+    "departure": "01:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KKA",
+    "station_name": "KANKI",
+    "day": 2,
+    "arrival": "01:06:00",
+    "departure": "01:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SJKL",
+    "station_name": "SURJA KAMAL",
+    "day": 2,
+    "arrival": "01:12:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DLK",
+    "station_name": "DALKOLHA",
+    "day": 2,
+    "arrival": "01:17:00",
+    "departure": "01:18:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TETA",
+    "station_name": "TELTA",
+    "day": 2,
+    "arrival": "01:25:00",
+    "departure": "01:25:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AHL",
+    "station_name": "AJHARAIL",
+    "day": 2,
+    "arrival": "01:29:00",
+    "departure": "01:29:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SUD",
+    "station_name": "SUDHANI",
+    "day": 2,
+    "arrival": "01:33:00",
+    "departure": "01:33:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BOE",
+    "station_name": "BARSOI JN",
+    "day": 2,
+    "arrival": "01:43:00",
+    "departure": "01:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MFA",
+    "station_name": "MAKURIA",
+    "day": 2,
+    "arrival": "01:52:00",
+    "departure": "01:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BWPB",
+    "station_name": "BHAWANIPUR BIHAR",
+    "day": 2,
+    "arrival": "01:58:00",
+    "departure": "01:58:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AZR",
+    "station_name": "AZAMNAGAR ROAD",
+    "day": 2,
+    "arrival": "02:05:00",
+    "departure": "02:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KWE",
+    "station_name": "KHURIAL",
+    "day": 2,
+    "arrival": "02:16:00",
+    "departure": "02:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KDPR",
+    "station_name": "KUMEDPUR",
+    "day": 2,
+    "arrival": "02:27:00",
+    "departure": "02:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HCR",
+    "station_name": "HARISCHANDRPUR",
+    "day": 2,
+    "arrival": "02:38:00",
+    "departure": "02:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MQG",
+    "station_name": "MILANGARH",
+    "day": 2,
+    "arrival": "02:45:00",
+    "departure": "02:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BKRD",
+    "station_name": "BHALUKA ROAD F",
+    "day": 2,
+    "arrival": "02:50:00",
+    "departure": "02:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MFZ",
+    "station_name": "MALAHAR",
+    "day": 2,
+    "arrival": "02:59:00",
+    "departure": "02:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SM",
+    "station_name": "SAMSI",
+    "day": 2,
+    "arrival": "03:08:00",
+    "departure": "03:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SRPU",
+    "station_name": "SRIPUR HALT",
+    "day": 2,
+    "arrival": "03:14:00",
+    "departure": "03:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KMRJ",
+    "station_name": "KUMARGANJ",
+    "day": 2,
+    "arrival": "03:21:00",
+    "departure": "03:21:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MBC",
+    "station_name": "MAHANANDA BGE",
+    "day": 2,
+    "arrival": "03:27:00",
+    "departure": "03:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "EKI",
+    "station_name": "EKLAKHI",
+    "day": 2,
+    "arrival": "03:31:00",
+    "departure": "03:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ADF",
+    "station_name": "ADINA",
+    "day": 2,
+    "arrival": "03:41:00",
+    "departure": "03:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "OMLF",
+    "station_name": "OLD MALDA",
+    "day": 2,
+    "arrival": "03:52:00",
+    "departure": "03:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MLDT",
+    "station_name": "MALDA TOWN",
+    "day": 2,
+    "arrival": "03:55:00",
+    "departure": "04:10:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GZM",
+    "station_name": "GOUR MALDA",
+    "day": 2,
+    "arrival": "04:18:00",
+    "departure": "04:18:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JMQ",
+    "station_name": "JAMIRGHATA",
+    "day": 2,
+    "arrival": "04:24:00",
+    "departure": "04:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KTJ",
+    "station_name": "KHALTIPUR",
+    "day": 2,
+    "arrival": "04:31:00",
+    "departure": "04:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CMX",
+    "station_name": "CHAMAGRAM",
+    "day": 2,
+    "arrival": "04:39:00",
+    "departure": "04:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NFK",
+    "station_name": "NEW FARAKKA JN",
+    "day": 2,
+    "arrival": "04:45:00",
+    "departure": "04:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TDLE",
+    "station_name": "TILDANGA",
+    "day": 2,
+    "arrival": "04:54:00",
+    "departure": "04:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BDBS",
+    "station_name": "BINDUBASINI HAL",
+    "day": 2,
+    "arrival": "04:58:00",
+    "departure": "04:58:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BDAG",
+    "station_name": "BONIDANGA",
+    "day": 2,
+    "arrival": "05:04:00",
+    "departure": "05:04:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PKR",
+    "station_name": "PAKUR",
+    "day": 2,
+    "arrival": "05:30:00",
+    "departure": "05:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NGF",
+    "station_name": "NAGARNABI",
+    "day": 2,
+    "arrival": "05:38:00",
+    "departure": "05:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RJG",
+    "station_name": "RAJGRAM",
+    "day": 2,
+    "arrival": "05:45:00",
+    "departure": "05:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BSBR",
+    "station_name": "BANSHLAI BRIDGE",
+    "day": 2,
+    "arrival": "05:54:00",
+    "departure": "05:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MRR",
+    "station_name": "MURARAI",
+    "day": 2,
+    "arrival": "06:01:00",
+    "departure": "06:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CTR",
+    "station_name": "CHATRA",
+    "day": 2,
+    "arrival": "06:11:00",
+    "departure": "06:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NHT",
+    "station_name": "NALHATI JN",
+    "day": 2,
+    "arrival": "06:23:00",
+    "departure": "06:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SDLE",
+    "station_name": "SWADINPUR",
+    "day": 2,
+    "arrival": "06:29:00",
+    "departure": "06:29:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RPH",
+    "station_name": "RAMPUR HAT",
+    "day": 2,
+    "arrival": "06:43:00",
+    "departure": "06:48:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TPF",
+    "station_name": "TARAPITH ROAD",
+    "day": 2,
+    "arrival": "06:54:00",
+    "departure": "06:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MLV",
+    "station_name": "MALLARPUR",
+    "day": 2,
+    "arrival": "06:59:00",
+    "departure": "06:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GHLE",
+    "station_name": "GADADHARPUR",
+    "day": 2,
+    "arrival": "07:11:00",
+    "departure": "07:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SNT",
+    "station_name": "SAINTHIA",
+    "day": 2,
+    "arrival": "07:13:00",
+    "departure": "07:13:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SURI",
+    "station_name": "SIURI",
+    "day": 2,
+    "arrival": "07:29:00",
+    "departure": "07:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CPLE",
+    "station_name": "CHINPAI",
+    "day": 2,
+    "arrival": "07:52:00",
+    "departure": "07:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DUJ",
+    "station_name": "DUBRAJPUR",
+    "day": 2,
+    "arrival": "08:02:00",
+    "departure": "08:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PCR",
+    "station_name": "PANCHRA",
+    "day": 2,
+    "arrival": "08:13:00",
+    "departure": "08:13:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BMGA",
+    "station_name": "BHIMGARA",
+    "day": 2,
+    "arrival": "08:23:00",
+    "departure": "08:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PAW",
+    "station_name": "PANDABESWAR",
+    "day": 2,
+    "arrival": "08:28:00",
+    "departure": "08:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "UKA",
+    "station_name": "UKHRA",
+    "day": 2,
+    "arrival": "08:42:00",
+    "departure": "08:42:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KJME",
+    "station_name": "KAJORAGRAM",
+    "day": 2,
+    "arrival": "08:54:00",
+    "departure": "08:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "UDL",
+    "station_name": "ANDAL JN",
+    "day": 2,
+    "arrival": "09:01:00",
+    "departure": "09:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "OYR",
+    "station_name": "WARIA",
+    "day": 2,
+    "arrival": "09:11:00",
+    "departure": "09:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DGR",
+    "station_name": "DURGAPUR",
+    "day": 2,
+    "arrival": "09:18:00",
+    "departure": "09:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "OYR",
+    "station_name": "WARIA",
+    "day": 2,
+    "arrival": "09:11:00",
+    "departure": "09:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "UDL",
+    "station_name": "ANDAL JN",
+    "day": 2,
+    "arrival": "09:01:00",
+    "departure": "09:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RNG",
+    "station_name": "RANIGANJ",
+    "day": 2,
+    "arrival": "10:03:00",
+    "departure": "10:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KPK",
+    "station_name": "KALIPAHARI",
+    "day": 2,
+    "arrival": "10:16:00",
+    "departure": "10:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ASN",
+    "station_name": "ASANSOL JN",
+    "day": 2,
+    "arrival": "10:20:00",
+    "departure": "10:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BURN",
+    "station_name": "BURNPUR",
+    "day": 2,
+    "arrival": "10:46:00",
+    "departure": "10:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DMA",
+    "station_name": "DAMODAR JUNCTION",
+    "day": 2,
+    "arrival": "10:52:00",
+    "departure": "10:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MDKD",
+    "station_name": "MADHUKUNDA",
+    "day": 2,
+    "arrival": "10:58:00",
+    "departure": "10:58:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MDF",
+    "station_name": "MURADI",
+    "day": 2,
+    "arrival": "11:07:00",
+    "departure": "11:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RKI",
+    "station_name": "RAMKANALI JN",
+    "day": 2,
+    "arrival": "11:14:00",
+    "departure": "11:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BERO",
+    "station_name": "BERO",
+    "day": 2,
+    "arrival": "11:20:00",
+    "departure": "11:20:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JOC",
+    "station_name": "JOYCHANDI PAHAR",
+    "day": 2,
+    "arrival": "11:27:00",
+    "departure": "11:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GRB",
+    "station_name": "GARHDHRUBESWAR",
+    "day": 2,
+    "arrival": "11:35:00",
+    "departure": "11:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ANR",
+    "station_name": "ANARA",
+    "day": 2,
+    "arrival": "11:42:00",
+    "departure": "11:42:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BGA",
+    "station_name": "BAGALIA",
+    "day": 2,
+    "arrival": "11:48:00",
+    "departure": "11:48:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KSU",
+    "station_name": "KUSHTAUR",
+    "day": 2,
+    "arrival": "11:51:00",
+    "departure": "11:51:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CHRA",
+    "station_name": "CHHARRA",
+    "day": 2,
+    "arrival": "12:01:00",
+    "departure": "12:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PRR",
+    "station_name": "PURULIA JN",
+    "day": 2,
+    "arrival": "12:08:00",
+    "departure": "12:10:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TAO",
+    "station_name": "TAMNA",
+    "day": 2,
+    "arrival": "12:24:00",
+    "departure": "12:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KTD",
+    "station_name": "KANTADIH",
+    "day": 2,
+    "arrival": "12:39:00",
+    "departure": "12:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "URMA",
+    "station_name": "URMA",
+    "day": 2,
+    "arrival": "12:55:00",
+    "departure": "12:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BBM",
+    "station_name": "BARABHUM",
+    "day": 2,
+    "arrival": "13:12:00",
+    "departure": "13:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BRMD",
+    "station_name": "BIRAMDIH",
+    "day": 2,
+    "arrival": "13:23:00",
+    "departure": "13:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NIM",
+    "station_name": "NIMDIH",
+    "day": 2,
+    "arrival": "13:39:00",
+    "departure": "13:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CNI",
+    "station_name": "CHANDIL JN",
+    "day": 2,
+    "arrival": "13:56:00",
+    "departure": "13:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MIK",
+    "station_name": "MANIKUL",
+    "day": 2,
+    "arrival": "14:08:00",
+    "departure": "14:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KZU",
+    "station_name": "KUNKI",
+    "day": 2,
+    "arrival": "14:18:00",
+    "departure": "14:18:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KND",
+    "station_name": "KANDRA",
+    "day": 2,
+    "arrival": "14:24:00",
+    "departure": "14:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GMH",
+    "station_name": "GAMHARIA",
+    "day": 2,
+    "arrival": "15:05:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ADTP",
+    "station_name": "ADITYAPUR",
+    "day": 2,
+    "arrival": "15:05:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TATA",
+    "station_name": "TATANAGAR JN",
+    "day": 2,
+    "arrival": "15:05:00",
+    "departure": "15:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SLJR",
+    "station_name": "SALGA JHARI",
+    "day": 2,
+    "arrival": "15:17:00",
+    "departure": "15:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ASB",
+    "station_name": "ASANBONI",
+    "day": 2,
+    "arrival": "15:28:00",
+    "departure": "15:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RHE",
+    "station_name": "RAKHA MINES",
+    "day": 2,
+    "arrival": "15:34:00",
+    "departure": "15:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GUD",
+    "station_name": "GALUDIH",
+    "day": 2,
+    "arrival": "15:41:00",
+    "departure": "15:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GTS",
+    "station_name": "GHATSILA",
+    "day": 2,
+    "arrival": "15:52:00",
+    "departure": "15:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DVM",
+    "station_name": "DALBHUMGARH",
+    "day": 2,
+    "arrival": "16:04:00",
+    "departure": "16:04:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KKPR",
+    "station_name": "KOKPARA",
+    "day": 2,
+    "arrival": "16:14:00",
+    "departure": "16:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CKU",
+    "station_name": "CHAKULIA",
+    "day": 2,
+    "arrival": "16:22:00",
+    "departure": "16:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KNM",
+    "station_name": "KANIMAHULI",
+    "day": 2,
+    "arrival": "16:28:00",
+    "departure": "16:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GII",
+    "station_name": "GIDNI",
+    "day": 2,
+    "arrival": "16:36:00",
+    "departure": "16:36:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KATB",
+    "station_name": "KHATKURA",
+    "day": 2,
+    "arrival": "16:43:00",
+    "departure": "16:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JGM",
+    "station_name": "JHARGRAM",
+    "day": 2,
+    "arrival": "16:52:00",
+    "departure": "16:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BNB",
+    "station_name": "BANSTOLA",
+    "day": 2,
+    "arrival": "17:00:00",
+    "departure": "17:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SUA",
+    "station_name": "SARDIHA",
+    "day": 2,
+    "arrival": "17:07:00",
+    "departure": "17:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KSO",
+    "station_name": "KHEMASULI",
+    "day": 2,
+    "arrival": "17:15:00",
+    "departure": "17:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KKQ",
+    "station_name": "KALAIKUNDA",
+    "day": 2,
+    "arrival": "17:23:00",
+    "departure": "17:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HIJ",
+    "station_name": "HIJILLI",
+    "day": 2,
+    "arrival": "18:03:00",
+    "departure": "18:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BPE",
+    "station_name": "BENAPUR",
+    "day": 2,
+    "arrival": "18:09:00",
+    "departure": "18:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NYA",
+    "station_name": "NARAYANGARH",
+    "day": 2,
+    "arrival": "18:17:00",
+    "departure": "18:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VKD",
+    "station_name": "BAKHRABAD",
+    "day": 2,
+    "arrival": "18:22:00",
+    "departure": "18:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CNT",
+    "station_name": "CONTAI ROAD",
+    "day": 2,
+    "arrival": "18:26:00",
+    "departure": "18:26:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BLDA",
+    "station_name": "BELDA",
+    "day": 2,
+    "arrival": "18:26:00",
+    "departure": "18:26:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NSI",
+    "station_name": "NIKURSINI",
+    "day": 2,
+    "arrival": "18:32:00",
+    "departure": "18:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DNT",
+    "station_name": "DANTAN",
+    "day": 2,
+    "arrival": "18:38:00",
+    "departure": "18:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AGV",
+    "station_name": "ANGUA",
+    "day": 2,
+    "arrival": "18:41:00",
+    "departure": "18:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "LXD",
+    "station_name": "LAKSHANNATH ROAD",
+    "day": 2,
+    "arrival": "18:46:00",
+    "departure": "18:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JER",
+    "station_name": "JALESWAR",
+    "day": 2,
+    "arrival": "18:50:00",
+    "departure": "18:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RGT",
+    "station_name": "RAJGHAT HALT",
+    "day": 2,
+    "arrival": "18:56:00",
+    "departure": "18:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ARD",
+    "station_name": "AMARDA ROAD",
+    "day": 2,
+    "arrival": "19:00:00",
+    "departure": "19:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BTS",
+    "station_name": "BASTA",
+    "day": 2,
+    "arrival": "19:04:00",
+    "departure": "19:04:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NMBR",
+    "station_name": "N MAYURBHANJ ROAD",
+    "day": 2,
+    "arrival": "19:08:00",
+    "departure": "19:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ROP",
+    "station_name": "RUPSA JN",
+    "day": 2,
+    "arrival": "19:12:00",
+    "departure": "19:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HIP",
+    "station_name": "HALDIPADA",
+    "day": 2,
+    "arrival": "19:16:00",
+    "departure": "19:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TKPL",
+    "station_name": "TIKIRAPAL HALT",
+    "day": 2,
+    "arrival": "19:21:00",
+    "departure": "19:21:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BLS",
+    "station_name": "BALASORE",
+    "day": 2,
+    "arrival": "19:25:00",
+    "departure": "19:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NGRD",
+    "station_name": "NILGIRI ROAD",
+    "day": 2,
+    "arrival": "19:36:00",
+    "departure": "19:36:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KHF",
+    "station_name": "KHANTAPARA",
+    "day": 2,
+    "arrival": "19:40:00",
+    "departure": "19:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PNPN",
+    "station_name": "PANPANA",
+    "day": 2,
+    "arrival": "19:44:00",
+    "departure": "19:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BNBR",
+    "station_name": "BAHANAGA BAZAR",
+    "day": 2,
+    "arrival": "19:48:00",
+    "departure": "19:48:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SORO",
+    "station_name": "SORO",
+    "day": 2,
+    "arrival": "19:55:00",
+    "departure": "19:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SZZ",
+    "station_name": "SABIRA",
+    "day": 2,
+    "arrival": "20:02:00",
+    "departure": "20:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MKO",
+    "station_name": "MARKONA",
+    "day": 2,
+    "arrival": "20:07:00",
+    "departure": "20:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RNTL",
+    "station_name": "RANITAL",
+    "day": 2,
+    "arrival": "20:13:00",
+    "departure": "20:13:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BHC",
+    "station_name": "BHADRAKH",
+    "day": 2,
+    "arrival": "20:19:00",
+    "departure": "20:19:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BUDR",
+    "station_name": "BAUDPUR",
+    "day": 2,
+    "arrival": "20:25:00",
+    "departure": "20:25:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KPLD",
+    "station_name": "KAPALI ROAD",
+    "day": 2,
+    "arrival": "20:30:00",
+    "departure": "20:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KED",
+    "station_name": "KENDUAPADA",
+    "day": 2,
+    "arrival": "20:32:00",
+    "departure": "20:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MZZ",
+    "station_name": "MANJURI ROAD",
+    "day": 2,
+    "arrival": "20:38:00",
+    "departure": "20:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DLPT",
+    "station_name": "DULAKHAPATNA",
+    "day": 2,
+    "arrival": "20:41:00",
+    "departure": "20:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BTV",
+    "station_name": "BAITARANI ROAD",
+    "day": 2,
+    "arrival": "20:46:00",
+    "departure": "20:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KRIH",
+    "station_name": "KORAI HALT",
+    "day": 2,
+    "arrival": "20:52:00",
+    "departure": "20:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JJKR",
+    "station_name": "JAJPUR KEONJHAR ROAD",
+    "day": 2,
+    "arrival": "20:56:00",
+    "departure": "20:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JKPR",
+    "station_name": "JAKHAPURA",
+    "day": 2,
+    "arrival": "21:02:00",
+    "departure": "21:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BRMI",
+    "station_name": "BRAHMANI PH",
+    "day": 2,
+    "arrival": "21:07:00",
+    "departure": "21:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JEN",
+    "station_name": "JENAPUR",
+    "day": 2,
+    "arrival": "21:09:00",
+    "departure": "21:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NGMP",
+    "station_name": "NEW GARH MADHOPUR",
+    "day": 2,
+    "arrival": "21:14:00",
+    "departure": "21:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HDS",
+    "station_name": "HARIDASPUR",
+    "day": 2,
+    "arrival": "21:22:00",
+    "departure": "21:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DNM",
+    "station_name": "DHANMANDAL",
+    "day": 2,
+    "arrival": "21:26:00",
+    "departure": "21:26:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BRTG",
+    "station_name": "BARITHENGARH",
+    "day": 2,
+    "arrival": "21:32:00",
+    "departure": "21:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BYY",
+    "station_name": "BYREE",
+    "day": 2,
+    "arrival": "21:35:00",
+    "departure": "21:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SJDR",
+    "station_name": "SRI JHADESHWAR",
+    "day": 2,
+    "arrival": "21:39:00",
+    "departure": "21:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KIS",
+    "station_name": "KAPILAS ROAD",
+    "day": 2,
+    "arrival": "21:44:00",
+    "departure": "21:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NRG",
+    "station_name": "NERGUNDI",
+    "day": 2,
+    "arrival": "21:47:00",
+    "departure": "21:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KNPR",
+    "station_name": "KENDRAPARA ROAD",
+    "day": 2,
+    "arrival": "21:53:00",
+    "departure": "21:53:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CTC",
+    "station_name": "CUTTACK",
+    "day": 2,
+    "arrival": "21:56:00",
+    "departure": "21:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KTJI",
+    "station_name": "KATHA JORI",
+    "day": 2,
+    "arrival": "21:57:00",
+    "departure": "21:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GBK",
+    "station_name": "GOPALPUR BALKDA",
+    "day": 2,
+    "arrival": "22:00:00",
+    "departure": "22:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BRAG",
+    "station_name": "BARANG",
+    "day": 2,
+    "arrival": "22:06:00",
+    "departure": "22:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PTAB",
+    "station_name": "PATIA HALT",
+    "day": 2,
+    "arrival": "22:11:00",
+    "departure": "22:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MCS",
+    "station_name": "MANCHESWAR",
+    "day": 2,
+    "arrival": "22:14:00",
+    "departure": "22:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BNBH",
+    "station_name": "BANI BIHAR",
+    "day": 2,
+    "arrival": "22:16:00",
+    "departure": "22:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BBS",
+    "station_name": "BHUBANESWAR",
+    "day": 2,
+    "arrival": "22:35:00",
+    "departure": "22:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "LGTR",
+    "station_name": "LINGARAJ TEMPLE ROAD",
+    "day": 2,
+    "arrival": "22:50:00",
+    "departure": "22:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RTN",
+    "station_name": "RETANG",
+    "day": 2,
+    "arrival": "23:05:00",
+    "departure": "23:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KUR",
+    "station_name": "KHURDA ROAD JN",
+    "day": 2,
+    "arrival": "23:20:00",
+    "departure": "23:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ARGL",
+    "station_name": "ARGUL",
+    "day": 2,
+    "arrival": "23:34:00",
+    "departure": "23:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KPXR",
+    "station_name": "KAIPADA ROAD",
+    "day": 2,
+    "arrival": "23:37:00",
+    "departure": "23:37:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DLMH",
+    "station_name": "DHAULIMUHAN",
+    "day": 2,
+    "arrival": "23:40:00",
+    "departure": "23:40:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TAP",
+    "station_name": "TAPANG",
+    "day": 2,
+    "arrival": "23:43:00",
+    "departure": "23:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GLBA",
+    "station_name": "GOLABAI",
+    "day": 2,
+    "arrival": "23:47:00",
+    "departure": "23:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NKP",
+    "station_name": "NIRAKARPUR",
+    "day": 2,
+    "arrival": "23:49:00",
+    "departure": "23:49:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BSDP",
+    "station_name": "BHUSANDPUR",
+    "day": 2,
+    "arrival": "23:55:00",
+    "departure": "23:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MKTP",
+    "station_name": "MUKETASHWAR",
+    "day": 2,
+    "arrival": "23:59:00",
+    "departure": "23:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KAPG",
+    "station_name": "KALUPARA GHAT",
+    "day": 3,
+    "arrival": "00:02:00",
+    "departure": "00:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KUU",
+    "station_name": "KUHURI",
+    "day": 3,
+    "arrival": "00:07:00",
+    "departure": "00:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GNGD",
+    "station_name": "GANGADHARPUR",
+    "day": 3,
+    "arrival": "00:13:00",
+    "departure": "00:13:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SLZ",
+    "station_name": "SOLARI",
+    "day": 3,
+    "arrival": "00:16:00",
+    "departure": "00:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BALU",
+    "station_name": "BALUGAON",
+    "day": 3,
+    "arrival": "00:22:00",
+    "departure": "00:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CLKA",
+    "station_name": "CHILKA",
+    "day": 3,
+    "arrival": "00:28:00",
+    "departure": "00:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KLJI",
+    "station_name": "KALIJAI",
+    "day": 3,
+    "arrival": "00:31:00",
+    "departure": "00:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KIT",
+    "station_name": "KHALLIKOT",
+    "day": 3,
+    "arrival": "00:35:00",
+    "departure": "00:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RBA",
+    "station_name": "RAMBHA",
+    "day": 3,
+    "arrival": "00:43:00",
+    "departure": "00:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HMA",
+    "station_name": "HUMMA",
+    "day": 3,
+    "arrival": "00:51:00",
+    "departure": "00:51:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GAM",
+    "station_name": "GANJAM",
+    "day": 3,
+    "arrival": "00:56:00",
+    "departure": "00:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CAPC",
+    "station_name": "CHATRAPUR COURT",
+    "day": 3,
+    "arrival": "01:02:00",
+    "departure": "01:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CAP",
+    "station_name": "CHATRAPUR",
+    "day": 3,
+    "arrival": "01:02:00",
+    "departure": "01:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NRSP",
+    "station_name": "NARASIMHAPURA",
+    "day": 3,
+    "arrival": "01:05:00",
+    "departure": "01:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JNP",
+    "station_name": "JAGAN NATHAPUR",
+    "day": 3,
+    "arrival": "01:12:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BAM",
+    "station_name": "BRAHMAPUR",
+    "day": 3,
+    "arrival": "01:17:00",
+    "departure": "01:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GTA",
+    "station_name": "GOLANTHRA",
+    "day": 3,
+    "arrival": "01:32:00",
+    "departure": "01:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SLRD",
+    "station_name": "SURLA ROAD",
+    "day": 3,
+    "arrival": "01:37:00",
+    "departure": "01:37:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "IPM",
+    "station_name": "ICHCHPURAM",
+    "day": 3,
+    "arrival": "01:45:00",
+    "departure": "01:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JPI",
+    "station_name": "JHADUPUDI",
+    "day": 3,
+    "arrival": "01:56:00",
+    "departure": "01:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SPT",
+    "station_name": "SOMPETA",
+    "day": 3,
+    "arrival": "02:02:00",
+    "departure": "02:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BAV",
+    "station_name": "BARUVA",
+    "day": 3,
+    "arrival": "02:11:00",
+    "departure": "02:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MMS",
+    "station_name": "MANDASA ROAD",
+    "day": 3,
+    "arrival": "02:20:00",
+    "departure": "02:20:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SUDV",
+    "station_name": "SUMMADEVI",
+    "day": 3,
+    "arrival": "02:24:00",
+    "departure": "02:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PSA",
+    "station_name": "PALASA",
+    "day": 3,
+    "arrival": "02:32:00",
+    "departure": "02:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PUN",
+    "station_name": "PUNDI",
+    "day": 3,
+    "arrival": "02:43:00",
+    "departure": "02:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RMZ",
+    "station_name": "ROUTHPURAM HALT",
+    "day": 3,
+    "arrival": "02:49:00",
+    "departure": "02:49:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NWP",
+    "station_name": "NAUPADA JN",
+    "day": 3,
+    "arrival": "02:56:00",
+    "departure": "02:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DGB",
+    "station_name": "DINDU GOPALA PURAM HALT",
+    "day": 3,
+    "arrival": "03:02:00",
+    "departure": "03:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KBM",
+    "station_name": "KOTABOMMALI",
+    "day": 3,
+    "arrival": "03:09:00",
+    "departure": "03:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HCM",
+    "station_name": "HARISHCHANDRAPURAM",
+    "day": 3,
+    "arrival": "03:17:00",
+    "departure": "03:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TIU",
+    "station_name": "TILARU",
+    "day": 3,
+    "arrival": "03:22:00",
+    "departure": "03:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ULM",
+    "station_name": "URLAM",
+    "day": 3,
+    "arrival": "03:31:00",
+    "departure": "03:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CHE",
+    "station_name": "SRIKAKULAM ROAD",
+    "day": 3,
+    "arrival": "03:41:00",
+    "departure": "03:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DUSI",
+    "station_name": "DUSI",
+    "day": 3,
+    "arrival": "03:47:00",
+    "departure": "03:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PDU",
+    "station_name": "PONDURU",
+    "day": 3,
+    "arrival": "03:55:00",
+    "departure": "03:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SGDM",
+    "station_name": "SIGADAM",
+    "day": 3,
+    "arrival": "04:04:00",
+    "departure": "04:04:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BTVA",
+    "station_name": "BATUVA",
+    "day": 3,
+    "arrival": "04:11:00",
+    "departure": "04:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CPP",
+    "station_name": "CHIPURUPALLE",
+    "day": 3,
+    "arrival": "04:17:00",
+    "departure": "04:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GVI",
+    "station_name": "GARIVIDI",
+    "day": 3,
+    "arrival": "04:23:00",
+    "departure": "04:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NML",
+    "station_name": "NELLIMARIA",
+    "day": 3,
+    "arrival": "04:35:00",
+    "departure": "04:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VZM",
+    "station_name": "VIZIANAGRAM JN",
+    "day": 3,
+    "arrival": "04:46:00",
+    "departure": "04:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KUK",
+    "station_name": "KORUKONDA",
+    "day": 3,
+    "arrival": "04:56:00",
+    "departure": "04:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ALM",
+    "station_name": "ALAMANDA",
+    "day": 3,
+    "arrival": "05:03:00",
+    "departure": "05:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KPL",
+    "station_name": "KANTAKAPALLE",
+    "day": 3,
+    "arrival": "05:11:00",
+    "departure": "05:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KTV",
+    "station_name": "KOTTAVALASA",
+    "day": 3,
+    "arrival": "05:19:00",
+    "departure": "05:19:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PDT",
+    "station_name": "PENDURTI",
+    "day": 3,
+    "arrival": "05:27:00",
+    "departure": "05:27:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SCMN",
+    "station_name": "SIMHACHALAM NORTH",
+    "day": 3,
+    "arrival": "05:35:00",
+    "departure": "05:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SCM",
+    "station_name": "SIMHACHALAM",
+    "day": 3,
+    "arrival": "05:36:00",
+    "departure": "05:36:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MIPM",
+    "station_name": "MARRIPALEM",
+    "day": 3,
+    "arrival": "05:39:00",
+    "departure": "05:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VSKP",
+    "station_name": "VISHAKAPATNAM",
+    "day": 3,
+    "arrival": "05:40:00",
+    "departure": "06:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MIPM",
+    "station_name": "MARRIPALEM",
+    "day": 3,
+    "arrival": "05:39:00",
+    "departure": "05:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DVD",
+    "station_name": "DUVVADA",
+    "day": 3,
+    "arrival": "06:30:00",
+    "departure": "06:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "THY",
+    "station_name": "THADI",
+    "day": 3,
+    "arrival": "06:39:00",
+    "departure": "06:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AKP",
+    "station_name": "ANAKAPALLE",
+    "day": 3,
+    "arrival": "06:45:00",
+    "departure": "06:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KSK",
+    "station_name": "KASIMKOTA",
+    "day": 3,
+    "arrival": "06:50:00",
+    "departure": "06:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BVM",
+    "station_name": "BAYYAVARAM",
+    "day": 3,
+    "arrival": "06:54:00",
+    "departure": "06:54:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NASP",
+    "station_name": "NARASINGAPALLI",
+    "day": 3,
+    "arrival": "07:00:00",
+    "departure": "07:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "YLM",
+    "station_name": "ELLAMANCHILI",
+    "day": 3,
+    "arrival": "07:07:00",
+    "departure": "07:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "REG",
+    "station_name": "REGUPALEM",
+    "day": 3,
+    "arrival": "07:15:00",
+    "departure": "07:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NRP",
+    "station_name": "NARSIPATNAM RD",
+    "day": 3,
+    "arrival": "07:24:00",
+    "departure": "07:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GLU",
+    "station_name": "GULLIPADU",
+    "day": 3,
+    "arrival": "07:34:00",
+    "departure": "07:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TUNI",
+    "station_name": "TUNI",
+    "day": 3,
+    "arrival": "07:44:00",
+    "departure": "07:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "HVM",
+    "station_name": "HAMSAVARAM",
+    "day": 3,
+    "arrival": "07:52:00",
+    "departure": "07:52:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TMPM",
+    "station_name": "TIMMAPURAM",
+    "day": 3,
+    "arrival": "07:56:00",
+    "departure": "07:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ANV",
+    "station_name": "ANNAVARAM",
+    "day": 3,
+    "arrival": "08:00:00",
+    "departure": "08:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RVD",
+    "station_name": "RAVIKAMPADU",
+    "day": 3,
+    "arrival": "08:06:00",
+    "departure": "08:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DGDG",
+    "station_name": "DURGADA GATE",
+    "day": 3,
+    "arrival": "08:09:00",
+    "departure": "08:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GLP",
+    "station_name": "GOLLAPROLU",
+    "day": 3,
+    "arrival": "08:18:00",
+    "departure": "08:18:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PAP",
+    "station_name": "PITHAPURAM",
+    "day": 3,
+    "arrival": "08:23:00",
+    "departure": "08:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SLO",
+    "station_name": "SAMALKOT JN",
+    "day": 3,
+    "arrival": "08:34:00",
+    "departure": "08:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GDPT",
+    "station_name": "GUDAPARTI",
+    "day": 3,
+    "arrival": "08:38:00",
+    "departure": "08:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MPU",
+    "station_name": "MEDAPADU",
+    "day": 3,
+    "arrival": "08:42:00",
+    "departure": "08:42:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PBD",
+    "station_name": "PEDABRAMADVAM",
+    "day": 3,
+    "arrival": "08:45:00",
+    "departure": "08:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BVL",
+    "station_name": "BIKKAVOLU",
+    "day": 3,
+    "arrival": "08:50:00",
+    "departure": "08:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BBPM",
+    "station_name": "BALABHADRAPURAM",
+    "day": 3,
+    "arrival": "08:53:00",
+    "departure": "08:53:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "APT",
+    "station_name": "ANAPARTI",
+    "day": 3,
+    "arrival": "08:59:00",
+    "departure": "08:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DWP",
+    "station_name": "DWARAPUDI",
+    "day": 3,
+    "arrival": "09:02:00",
+    "departure": "09:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KSVM",
+    "station_name": "KESAVARAM",
+    "day": 3,
+    "arrival": "09:06:00",
+    "departure": "09:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KYM",
+    "station_name": "KADIYAN",
+    "day": 3,
+    "arrival": "09:11:00",
+    "departure": "09:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RJY",
+    "station_name": "RAJAMUNDRY",
+    "day": 3,
+    "arrival": "09:20:00",
+    "departure": "09:22:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GVN",
+    "station_name": "GODAVARI",
+    "day": 3,
+    "arrival": "09:24:00",
+    "departure": "09:24:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KVR",
+    "station_name": "KOVVUR",
+    "day": 3,
+    "arrival": "09:28:00",
+    "departure": "09:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PSDA",
+    "station_name": "PASIVEDALA",
+    "day": 3,
+    "arrival": "09:30:00",
+    "departure": "09:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CU",
+    "station_name": "CHAGALLU",
+    "day": 3,
+    "arrival": "09:33:00",
+    "departure": "09:33:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BMGM",
+    "station_name": "BRAHMANAGUDEM",
+    "day": 3,
+    "arrival": "09:36:00",
+    "departure": "09:36:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NDD",
+    "station_name": "NIDADAVOLU JN",
+    "day": 3,
+    "arrival": "09:38:00",
+    "departure": "09:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MRPL",
+    "station_name": "MARAMPALLI",
+    "day": 3,
+    "arrival": "09:44:00",
+    "departure": "09:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NBM",
+    "station_name": "NAVABPALEM",
+    "day": 3,
+    "arrival": "09:46:00",
+    "departure": "09:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PTPU",
+    "station_name": "PRATTIAPADU",
+    "day": 3,
+    "arrival": "09:49:00",
+    "departure": "09:49:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TDD",
+    "station_name": "TADEPALLIGUDEM",
+    "day": 3,
+    "arrival": "09:53:00",
+    "departure": "09:53:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BPY",
+    "station_name": "BADAMPUDI",
+    "day": 3,
+    "arrival": "09:57:00",
+    "departure": "09:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VGT",
+    "station_name": "UNGUTURU",
+    "day": 3,
+    "arrival": "10:01:00",
+    "departure": "10:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CEL",
+    "station_name": "CHEBROL",
+    "day": 3,
+    "arrival": "10:03:00",
+    "departure": "10:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KKRM",
+    "station_name": "KAIKORAM",
+    "day": 3,
+    "arrival": "10:06:00",
+    "departure": "10:06:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PUA",
+    "station_name": "PULLA",
+    "day": 3,
+    "arrival": "10:09:00",
+    "departure": "10:09:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BMD",
+    "station_name": "BHIMADOLU",
+    "day": 3,
+    "arrival": "10:14:00",
+    "departure": "10:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "STPT",
+    "station_name": "SITAMPET",
+    "day": 3,
+    "arrival": "10:18:00",
+    "departure": "10:18:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DEL",
+    "station_name": "DENDULURU",
+    "day": 3,
+    "arrival": "10:20:00",
+    "departure": "10:20:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "EE",
+    "station_name": "ELURU",
+    "day": 3,
+    "arrival": "10:27:00",
+    "departure": "10:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PRH",
+    "station_name": "POWERPET",
+    "day": 3,
+    "arrival": "10:31:00",
+    "departure": "10:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VAT",
+    "station_name": "VATLUR",
+    "day": 3,
+    "arrival": "10:43:00",
+    "departure": "10:43:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NZD",
+    "station_name": "NUZVID",
+    "day": 3,
+    "arrival": "11:00:00",
+    "departure": "11:00:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VRVL",
+    "station_name": "VIRAVALLI",
+    "day": 3,
+    "arrival": "11:11:00",
+    "departure": "11:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TOU",
+    "station_name": "TELAPROLU",
+    "day": 3,
+    "arrival": "11:17:00",
+    "departure": "11:17:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PAVP",
+    "station_name": "PEDDA AVUTAPALE",
+    "day": 3,
+    "arrival": "11:29:00",
+    "departure": "11:29:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GWM",
+    "station_name": "GANNAVARAM",
+    "day": 3,
+    "arrival": "11:37:00",
+    "departure": "11:37:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MBD",
+    "station_name": "MUSTABADA",
+    "day": 3,
+    "arrival": "11:49:00",
+    "departure": "11:49:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GALA",
+    "station_name": "GUNADALA",
+    "day": 3,
+    "arrival": "12:01:00",
+    "departure": "12:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BZA",
+    "station_name": "VIJAYAWADA JN",
+    "day": 3,
+    "arrival": "12:10:00",
+    "departure": "12:25:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KCC",
+    "station_name": "KRISHNA CANAL",
+    "day": 3,
+    "arrival": "12:29:00",
+    "departure": "12:29:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KAQ",
+    "station_name": "KOLANUKONDA",
+    "day": 3,
+    "arrival": "12:32:00",
+    "departure": "12:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PVD",
+    "station_name": "PEDDAVADIAPUDI",
+    "day": 3,
+    "arrival": "12:34:00",
+    "departure": "12:34:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CLVR",
+    "station_name": "CHILUVUR",
+    "day": 3,
+    "arrival": "12:38:00",
+    "departure": "12:38:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DIG",
+    "station_name": "DUGGIRALA",
+    "day": 3,
+    "arrival": "12:42:00",
+    "departure": "12:42:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KLX",
+    "station_name": "KOLAKALUR",
+    "day": 3,
+    "arrival": "12:45:00",
+    "departure": "12:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TEL",
+    "station_name": "TENALI JN",
+    "day": 3,
+    "arrival": "12:50:00",
+    "departure": "12:50:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TSR",
+    "station_name": "TSUNDURU",
+    "day": 3,
+    "arrival": "12:59:00",
+    "departure": "12:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MDKU",
+    "station_name": "MODUKURU",
+    "day": 3,
+    "arrival": "13:02:00",
+    "departure": "13:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NDO",
+    "station_name": "NIDUBROLU",
+    "day": 3,
+    "arrival": "13:07:00",
+    "departure": "13:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MCVM",
+    "station_name": "MACHAVARAM",
+    "day": 3,
+    "arrival": "13:11:00",
+    "departure": "13:11:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "APL",
+    "station_name": "APPIKATLA",
+    "day": 3,
+    "arrival": "13:16:00",
+    "departure": "13:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BPP",
+    "station_name": "BAPATLA",
+    "day": 3,
+    "arrival": "13:23:00",
+    "departure": "13:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SPF",
+    "station_name": "STUARTPURAM",
+    "day": 3,
+    "arrival": "13:29:00",
+    "departure": "13:29:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "IPPM",
+    "station_name": "IPURUPALEM",
+    "day": 3,
+    "arrival": "13:32:00",
+    "departure": "13:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "IPPN",
+    "station_name": "IPURUPALEM HALT",
+    "day": 3,
+    "arrival": "13:32:00",
+    "departure": "13:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CLX",
+    "station_name": "CHIRALA",
+    "day": 3,
+    "arrival": "13:35:00",
+    "departure": "13:35:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "JAQ",
+    "station_name": "JANDRAPETA",
+    "day": 3,
+    "arrival": "13:37:00",
+    "departure": "13:37:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VTM",
+    "station_name": "VETAPALEMU",
+    "day": 3,
+    "arrival": "13:41:00",
+    "departure": "13:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KPLL",
+    "station_name": "KOTTA PANDILA PALLI",
+    "day": 3,
+    "arrival": "13:44:00",
+    "departure": "13:44:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KVDU",
+    "station_name": "KADAVAKUDURU",
+    "day": 3,
+    "arrival": "13:47:00",
+    "departure": "13:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "CJM",
+    "station_name": "CHINNA GANJAM",
+    "day": 3,
+    "arrival": "13:51:00",
+    "departure": "13:51:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "UGD",
+    "station_name": "UPPUGUNDURU",
+    "day": 3,
+    "arrival": "13:56:00",
+    "departure": "13:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RPRL",
+    "station_name": "RAPARLA HALT",
+    "day": 3,
+    "arrival": "13:59:00",
+    "departure": "13:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ANB",
+    "station_name": "AMMANABROLU",
+    "day": 3,
+    "arrival": "14:02:00",
+    "departure": "14:02:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KRV",
+    "station_name": "KARAVADI",
+    "day": 3,
+    "arrival": "14:07:00",
+    "departure": "14:07:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "OGL",
+    "station_name": "ONGOLE",
+    "day": 3,
+    "arrival": "14:13:00",
+    "departure": "14:14:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SDM",
+    "station_name": "SURAREDDIPALEM",
+    "day": 3,
+    "arrival": "14:21:00",
+    "departure": "14:21:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TNR",
+    "station_name": "TANGUTURU",
+    "day": 3,
+    "arrival": "14:26:00",
+    "departure": "14:26:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SKM",
+    "station_name": "SINGARAYAKONDA",
+    "day": 3,
+    "arrival": "14:32:00",
+    "departure": "14:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "UPD",
+    "station_name": "ULAVAPADU",
+    "day": 3,
+    "arrival": "14:39:00",
+    "departure": "14:39:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TTU",
+    "station_name": "TETTU",
+    "day": 3,
+    "arrival": "14:48:00",
+    "departure": "14:48:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KVZ",
+    "station_name": "KAVALI",
+    "day": 3,
+    "arrival": "14:57:00",
+    "departure": "14:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SVPM",
+    "station_name": "S VENKTESWRPALM",
+    "day": 3,
+    "arrival": "15:05:00",
+    "departure": "15:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "BTTR",
+    "station_name": "BITRAGUNTA",
+    "day": 3,
+    "arrival": "15:08:00",
+    "departure": "15:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AXR",
+    "station_name": "ALLURU ROAD",
+    "day": 3,
+    "arrival": "15:12:00",
+    "departure": "15:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TMC",
+    "station_name": "TALAMANCHI",
+    "day": 3,
+    "arrival": "15:20:00",
+    "departure": "15:20:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KJJ",
+    "station_name": "KODAVALURU",
+    "day": 3,
+    "arrival": "15:23:00",
+    "departure": "15:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PGU",
+    "station_name": "PADUGUPADU",
+    "day": 3,
+    "arrival": "15:28:00",
+    "departure": "15:28:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NLR",
+    "station_name": "NELLORE",
+    "day": 3,
+    "arrival": "15:29:00",
+    "departure": "15:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NLS",
+    "station_name": "NELLORE SOUTH",
+    "day": 3,
+    "arrival": "15:33:00",
+    "departure": "15:33:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VDE",
+    "station_name": "VEDAYAPALEM",
+    "day": 3,
+    "arrival": "15:42:00",
+    "departure": "15:42:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VKT",
+    "station_name": "VENKATACHALAM",
+    "day": 3,
+    "arrival": "15:56:00",
+    "departure": "15:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MBL",
+    "station_name": "MANUBOLU",
+    "day": 3,
+    "arrival": "16:16:00",
+    "departure": "16:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GDR",
+    "station_name": "GUDUR JN",
+    "day": 3,
+    "arrival": "16:32:00",
+    "departure": "16:32:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ODUR",
+    "station_name": "ODUR",
+    "day": 3,
+    "arrival": "16:45:00",
+    "departure": "16:45:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PYA",
+    "station_name": "PEDAPARIYA",
+    "day": 3,
+    "arrival": "16:55:00",
+    "departure": "16:55:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NYP",
+    "station_name": "NAYADUPETA",
+    "day": 3,
+    "arrival": "17:16:00",
+    "departure": "17:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "DVR",
+    "station_name": "DORAVARI CHATRAM",
+    "day": 3,
+    "arrival": "17:41:00",
+    "departure": "17:41:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PEL",
+    "station_name": "POLIREDDIPALEM",
+    "day": 3,
+    "arrival": "17:46:00",
+    "departure": "17:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "SPE",
+    "station_name": "SULLURUPETA",
+    "day": 3,
+    "arrival": "17:59:00",
+    "departure": "17:59:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AKAT",
+    "station_name": "AKKAMPET",
+    "day": 3,
+    "arrival": "18:04:00",
+    "departure": "18:04:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TADA",
+    "station_name": "TADA",
+    "day": 3,
+    "arrival": "18:19:00",
+    "departure": "18:19:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AKM",
+    "station_name": "ARAMBAKKAM",
+    "day": 3,
+    "arrival": "18:31:00",
+    "departure": "18:31:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ELR",
+    "station_name": "ELAVUR",
+    "day": 3,
+    "arrival": "18:47:00",
+    "departure": "18:47:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "GPD",
+    "station_name": "GUMMIDIPUNDI",
+    "day": 3,
+    "arrival": "18:56:00",
+    "departure": "18:56:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KVP",
+    "station_name": "KAVARAIPPETTAI",
+    "day": 3,
+    "arrival": "19:05:00",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "PON",
+    "station_name": "PONNERI",
+    "day": 3,
+    "arrival": "19:16:00",
+    "departure": "19:16:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "APB",
+    "station_name": "ANUPPAMBATTU",
+    "day": 3,
+    "arrival": "19:23:00",
+    "departure": "19:23:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MJR",
+    "station_name": "MINJUR",
+    "day": 3,
+    "arrival": "19:30:00",
+    "departure": "19:30:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "NPKM",
+    "station_name": "NANDIYAMPAKKAM",
+    "day": 3,
+    "arrival": "19:33:00",
+    "departure": "19:33:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "AIP",
+    "station_name": "ATTIPPATTU",
+    "day": 3,
+    "arrival": "19:36:00",
+    "departure": "19:36:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "ENR",
+    "station_name": "ENNORE",
+    "day": 3,
+    "arrival": "19:46:00",
+    "departure": "19:46:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KAVM",
+    "station_name": "KATHIVAKKAM",
+    "day": 3,
+    "arrival": "19:48:00",
+    "departure": "19:48:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "WCN",
+    "station_name": "WIMCO NAGAR",
+    "day": 3,
+    "arrival": "19:53:00",
+    "departure": "19:53:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TVT",
+    "station_name": "TIRUVOTTIYUR",
+    "day": 3,
+    "arrival": "19:57:00",
+    "departure": "19:57:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "VOC",
+    "station_name": "V.O.C. NAGAR",
+    "day": 3,
+    "arrival": "20:01:00",
+    "departure": "20:01:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "TNP",
+    "station_name": "TONDIARPETTAI",
+    "day": 3,
+    "arrival": "20:03:00",
+    "departure": "20:03:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "KOK",
+    "station_name": "KORUKKUPET JN",
+    "day": 3,
+    "arrival": "20:05:00",
+    "departure": "20:05:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "WST",
+    "station_name": "WASHERMANPET",
+    "day": 3,
+    "arrival": "20:08:00",
+    "departure": "20:08:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "RPM",
+    "station_name": "ROYAPURAM",
+    "day": 3,
+    "arrival": "20:10:00",
+    "departure": "20:10:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MSB",
+    "station_name": "CHENNAI BEACH",
+    "day": 3,
+    "arrival": "20:12:00",
+    "departure": "20:12:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MSF",
+    "station_name": "CHENNAI FORT",
+    "day": 3,
+    "arrival": "20:15:00",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MPK",
+    "station_name": "CHENNAI PARK",
+    "day": 3,
+    "arrival": "20:15:00",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "15630",
+    "station_code": "MS",
+    "station_name": "CHENNAI EGMORE",
+    "day": 3,
+    "arrival": "20:15:00",
+    "departure": "None"
+  }
+]

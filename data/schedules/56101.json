@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "56101",
+    "station_code": "MTDM",
+    "station_name": "METUR DAM",
+    "day": 1,
+    "arrival": "None",
+    "departure": "19:05:00"
+  },
+  {
+    "train_number": "56101",
+    "station_code": "MCRD",
+    "station_name": "MECHERI ROAD",
+    "day": 1,
+    "arrival": "19:27:00",
+    "departure": "19:28:00"
+  },
+  {
+    "train_number": "56101",
+    "station_code": "OML",
+    "station_name": "OMALUR",
+    "day": 1,
+    "arrival": "19:54:00",
+    "departure": "19:55:00"
+  }
+]

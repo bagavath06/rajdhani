@@ -1,0 +1,402 @@
+[
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KLK",
+    "station_name": "Kalka",
+    "day": 1,
+    "arrival": "None",
+    "departure": "21:45:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "CNDM",
+    "station_name": "Chandi Mandir",
+    "day": 1,
+    "arrival": "22:00:00",
+    "departure": "22:02:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "CDG",
+    "station_name": "CHANDIGARH",
+    "day": 1,
+    "arrival": "22:15:00",
+    "departure": "22:25:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "GHG",
+    "station_name": "GHAGGHAR",
+    "day": 1,
+    "arrival": "22:29:00",
+    "departure": "22:29:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "DHPR",
+    "station_name": "DAPPAR",
+    "day": 1,
+    "arrival": "22:39:00",
+    "departure": "22:41:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "LLU",
+    "station_name": "LALRU",
+    "day": 1,
+    "arrival": "22:56:00",
+    "departure": "22:56:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "DKT",
+    "station_name": "DHULKOT",
+    "day": 1,
+    "arrival": "23:07:00",
+    "departure": "23:07:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "UMB",
+    "station_name": "AMBALA CANT JN",
+    "day": 1,
+    "arrival": "23:15:00",
+    "departure": "23:45:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "UBC",
+    "station_name": "AMBALA CITY",
+    "day": 1,
+    "arrival": "23:56:00",
+    "departure": "23:58:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "SMU",
+    "station_name": "SAMBHU",
+    "day": 2,
+    "arrival": "00:08:00",
+    "departure": "00:08:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "RPJ",
+    "station_name": "RAJPURA JN",
+    "day": 2,
+    "arrival": "00:18:00",
+    "departure": "00:20:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KLI",
+    "station_name": "Kauli",
+    "day": 2,
+    "arrival": "00:30:00",
+    "departure": "00:30:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "DOC",
+    "station_name": "Daun Kalan",
+    "day": 2,
+    "arrival": "00:35:00",
+    "departure": "00:35:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "PTA",
+    "station_name": "Patiala",
+    "day": 2,
+    "arrival": "00:43:00",
+    "departure": "00:45:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "PTE",
+    "station_name": "Patiala Cantt.",
+    "day": 2,
+    "arrival": "00:49:00",
+    "departure": "00:49:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "DBN",
+    "station_name": "Dhablan",
+    "day": 2,
+    "arrival": "00:57:00",
+    "departure": "00:57:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "NBA",
+    "station_name": "Nabha",
+    "day": 2,
+    "arrival": "01:10:00",
+    "departure": "01:12:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KKRL",
+    "station_name": "Kakrala",
+    "day": 2,
+    "arrival": "01:18:00",
+    "departure": "01:18:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "CTW",
+    "station_name": "Chhintanwala",
+    "day": 2,
+    "arrival": "01:25:00",
+    "departure": "01:25:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KLSX",
+    "station_name": "Kaulseri",
+    "day": 2,
+    "arrival": "01:31:00",
+    "departure": "01:31:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "DUI",
+    "station_name": "DHURI JN",
+    "day": 2,
+    "arrival": "01:38:00",
+    "departure": "01:43:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "ALL",
+    "station_name": "ALAL",
+    "day": 2,
+    "arrival": "01:54:00",
+    "departure": "01:54:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "SEQ",
+    "station_name": "SEKHA",
+    "day": 2,
+    "arrival": "02:00:00",
+    "departure": "02:00:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BNN",
+    "station_name": "BARNALA",
+    "day": 2,
+    "arrival": "02:08:00",
+    "departure": "02:10:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "HYA",
+    "station_name": "HADIAYA",
+    "day": 2,
+    "arrival": "02:15:00",
+    "departure": "02:15:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "GUNS",
+    "station_name": "GHUNAS",
+    "day": 2,
+    "arrival": "02:22:00",
+    "departure": "02:22:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "TAPA",
+    "station_name": "TAPA",
+    "day": 2,
+    "arrival": "02:27:00",
+    "departure": "02:27:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "JHK",
+    "station_name": "JETHUKE",
+    "day": 2,
+    "arrival": "02:31:00",
+    "departure": "02:31:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "PUL",
+    "station_name": "RAMPURA PHUL",
+    "day": 2,
+    "arrival": "02:38:00",
+    "departure": "02:40:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "LHM",
+    "station_name": "LEHRA MUHABBAT",
+    "day": 2,
+    "arrival": "02:53:00",
+    "departure": "02:53:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BCU",
+    "station_name": "BHUCHCHU",
+    "day": 2,
+    "arrival": "03:06:00",
+    "departure": "03:06:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BTIC",
+    "station_name": "BHATINDA CANTT",
+    "day": 2,
+    "arrival": "03:19:00",
+    "departure": "03:19:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BTI",
+    "station_name": "BHATINDA JN",
+    "day": 2,
+    "arrival": "03:35:00",
+    "departure": "04:05:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BWX",
+    "station_name": "BAHMAN DIWANA",
+    "day": 2,
+    "arrival": "04:14:00",
+    "departure": "04:14:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BHX",
+    "station_name": "BULLUANA",
+    "day": 2,
+    "arrival": "04:20:00",
+    "departure": "04:20:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "GDB",
+    "station_name": "GIDDARBAHA",
+    "day": 2,
+    "arrival": "04:31:00",
+    "departure": "04:33:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "FSR",
+    "station_name": "FAQARSAR",
+    "day": 2,
+    "arrival": "04:43:00",
+    "departure": "04:43:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "MOT",
+    "station_name": "MALOUT",
+    "day": 2,
+    "arrival": "04:51:00",
+    "departure": "04:53:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "PKK",
+    "station_name": "PAKKI",
+    "day": 2,
+    "arrival": "05:14:00",
+    "departure": "05:14:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BFE",
+    "station_name": "BAHAWAL BASI",
+    "day": 2,
+    "arrival": "05:26:00",
+    "departure": "05:26:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "ABS",
+    "station_name": "ABOHAR",
+    "day": 2,
+    "arrival": "05:38:00",
+    "departure": "05:40:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KLWL",
+    "station_name": "KILANWALI PUNJAB",
+    "day": 2,
+    "arrival": "05:53:00",
+    "departure": "05:53:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "PJK",
+    "station_name": "PANJ KOSI",
+    "day": 2,
+    "arrival": "06:04:00",
+    "departure": "06:04:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "BKWA",
+    "station_name": "BAKAYANWALA",
+    "day": 2,
+    "arrival": "06:14:00",
+    "departure": "06:14:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "KTPK",
+    "station_name": "KOTHA PAKKI",
+    "day": 2,
+    "arrival": "06:21:00",
+    "departure": "06:21:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "HMK",
+    "station_name": "HINDUMALKOTE",
+    "day": 2,
+    "arrival": "06:24:00",
+    "departure": "06:24:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "ORKI",
+    "station_name": "ORKI",
+    "day": 2,
+    "arrival": "06:36:00",
+    "departure": "06:36:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "FTH",
+    "station_name": "FATUHI",
+    "day": 2,
+    "arrival": "06:45:00",
+    "departure": "06:45:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "MOPR",
+    "station_name": "MOHANPURA",
+    "day": 2,
+    "arrival": "06:59:00",
+    "departure": "06:59:00"
+  },
+  {
+    "train_number": "14887-Slip",
+    "station_code": "SGNR",
+    "station_name": "SHRI GANGANAGAR",
+    "day": 2,
+    "arrival": "07:10:00",
+    "departure": "None"
+  }
+]

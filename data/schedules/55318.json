@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "55318",
+    "station_code": "KPV",
+    "station_name": "KASHIPUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "11:35:00"
+  },
+  {
+    "train_number": "55318",
+    "station_code": "SKX",
+    "station_name": "SARKARA",
+    "day": 1,
+    "arrival": "11:47:00",
+    "departure": "11:49:00"
+  },
+  {
+    "train_number": "55318",
+    "station_code": "BPZ",
+    "station_name": "BAZPUR",
+    "day": 1,
+    "arrival": "11:57:00",
+    "departure": "11:59:00"
+  },
+  {
+    "train_number": "55318",
+    "station_code": "BRDT",
+    "station_name": "BERIA DAULAT",
+    "day": 1,
+    "arrival": "12:10:00",
+    "departure": "12:11:00"
+  },
+  {
+    "train_number": "55318",
+    "station_code": "GUB",
+    "station_name": "GULARBHOJ",
+    "day": 1,
+    "arrival": "12:18:00",
+    "departure": "12:20:00"
+  },
+  {
+    "train_number": "55318",
+    "station_code": "LKU",
+    "station_name": "LAL KUAN",
+    "day": 1,
+    "arrival": "13:00:00",
+    "departure": "None"
+  }
+]

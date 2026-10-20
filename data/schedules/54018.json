@@ -1,0 +1,58 @@
+[
+  {
+    "train_number": "54018",
+    "station_code": "BNW",
+    "station_name": "Bhiwani",
+    "day": 1,
+    "arrival": "None",
+    "departure": "16:00:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "BNWC",
+    "station_name": "Bhiwani City",
+    "day": 1,
+    "arrival": "16:10:00",
+    "departure": "16:10:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "BMLL",
+    "station_name": "Bamla",
+    "day": 1,
+    "arrival": "16:15:00",
+    "departure": "16:16:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "KHRK",
+    "station_name": "Kharak",
+    "day": 1,
+    "arrival": "16:26:00",
+    "departure": "16:26:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "KLNK",
+    "station_name": "Kalanaur Kalan",
+    "day": 1,
+    "arrival": "16:34:00",
+    "departure": "16:36:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "LHLL",
+    "station_name": "Lahli",
+    "day": 1,
+    "arrival": "16:44:00",
+    "departure": "16:46:00"
+  },
+  {
+    "train_number": "54018",
+    "station_code": "ROK",
+    "station_name": "ROHTAK JN",
+    "day": 1,
+    "arrival": "17:20:00",
+    "departure": "None"
+  }
+]

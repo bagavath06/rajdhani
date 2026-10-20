@@ -1,0 +1,26 @@
+[
+  {
+    "train_number": "43921",
+    "station_code": "TRL",
+    "station_name": "TIRUVALLUR",
+    "day": 1,
+    "arrival": "None",
+    "departure": "05:50:00"
+  },
+  {
+    "train_number": "43921",
+    "station_code": "EGT",
+    "station_name": "EGATTUR HALT",
+    "day": 1,
+    "arrival": "05:55:00",
+    "departure": "00:01:00"
+  },
+  {
+    "train_number": "43921",
+    "station_code": "KBT",
+    "station_name": "KADAMBATTUR",
+    "day": 1,
+    "arrival": "06:00:00",
+    "departure": "None"
+  }
+]

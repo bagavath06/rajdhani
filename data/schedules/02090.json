@@ -1,0 +1,74 @@
+[
+  {
+    "train_number": "02090",
+    "station_code": "CUR",
+    "station_name": "Churu",
+    "day": 1,
+    "arrival": "None",
+    "departure": "14:00:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "BUB",
+    "station_name": "Bissau",
+    "day": 1,
+    "arrival": "14:15:00",
+    "departure": "14:16:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "MWR",
+    "station_name": "Mahansar",
+    "day": 1,
+    "arrival": "14:26:00",
+    "departure": "14:27:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "RSWT",
+    "station_name": "Ramgarh Shekhawati",
+    "day": 1,
+    "arrival": "14:36:00",
+    "departure": "14:37:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "QMRS",
+    "station_name": "Kayamsar",
+    "day": 1,
+    "arrival": "14:47:00",
+    "departure": "14:48:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "FPS",
+    "station_name": "Fatehpur Shekhawati",
+    "day": 1,
+    "arrival": "15:03:00",
+    "departure": "15:04:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "LNH",
+    "station_name": "Lachhmangarh Sikar",
+    "day": 1,
+    "arrival": "15:25:00",
+    "departure": "15:26:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "RDK",
+    "station_name": "Rasheedpura Khori",
+    "day": 1,
+    "arrival": "15:41:00",
+    "departure": "15:42:00"
+  },
+  {
+    "train_number": "02090",
+    "station_code": "SIKR",
+    "station_name": "Sikar Junction",
+    "day": 1,
+    "arrival": "16:05:00",
+    "departure": "None"
+  }
+]

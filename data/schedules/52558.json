@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "52558",
+    "station_code": "BDMA",
+    "station_name": "Budhma",
+    "day": 1,
+    "arrival": "None",
+    "departure": "06:25:00"
+  },
+  {
+    "train_number": "52558",
+    "station_code": "MRIJ",
+    "station_name": "Murliganj",
+    "day": 1,
+    "arrival": "07:14:00",
+    "departure": "07:16:00"
+  },
+  {
+    "train_number": "52558",
+    "station_code": "RPLY",
+    "station_name": "Rupauli",
+    "day": 1,
+    "arrival": "07:29:00",
+    "departure": "07:29:00"
+  },
+  {
+    "train_number": "52558",
+    "station_code": "JNKR",
+    "station_name": "Janakinagar",
+    "day": 1,
+    "arrival": "07:35:00",
+    "departure": "07:36:00"
+  },
+  {
+    "train_number": "52558",
+    "station_code": "HPI",
+    "station_name": "Harapatti",
+    "day": 1,
+    "arrival": "07:53:00",
+    "departure": "07:53:00"
+  },
+  {
+    "train_number": "52558",
+    "station_code": "BNKI",
+    "station_name": "Banmankhi Junction",
+    "day": 1,
+    "arrival": "08:20:00",
+    "departure": "None"
+  }
+]

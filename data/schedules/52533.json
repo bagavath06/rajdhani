@@ -1,0 +1,42 @@
+[
+  {
+    "train_number": "52533",
+    "station_code": "BNKI",
+    "station_name": "Banmankhi Junction",
+    "day": 1,
+    "arrival": "None",
+    "departure": "20:15:00"
+  },
+  {
+    "train_number": "52533",
+    "station_code": "AUI",
+    "station_name": "Aurahi",
+    "day": 1,
+    "arrival": "20:50:00",
+    "departure": "20:51:00"
+  },
+  {
+    "train_number": "52533",
+    "station_code": "BAKT",
+    "station_name": "Barhara Kothi",
+    "day": 1,
+    "arrival": "21:18:00",
+    "departure": "21:19:00"
+  },
+  {
+    "train_number": "52533",
+    "station_code": "RBN",
+    "station_name": "Raghubans Nagar",
+    "day": 1,
+    "arrival": "21:37:00",
+    "departure": "21:38:00"
+  },
+  {
+    "train_number": "52533",
+    "station_code": "BHGJ",
+    "station_name": "Bihariganj",
+    "day": 1,
+    "arrival": "22:15:00",
+    "departure": "None"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "train_number": "56102",
+    "station_code": "SA",
+    "station_name": "SALEM JN",
+    "day": 1,
+    "arrival": "None",
+    "departure": "17:30:00"
+  },
+  {
+    "train_number": "56102",
+    "station_code": "MGSJ",
+    "station_name": "MAGNESITE JN",
+    "day": 1,
+    "arrival": "17:36:00",
+    "departure": "17:36:00"
+  },
+  {
+    "train_number": "56102",
+    "station_code": "OML",
+    "station_name": "OMALUR",
+    "day": 1,
+    "arrival": "17:49:00",
+    "departure": "17:50:00"
+  },
+  {
+    "train_number": "56102",
+    "station_code": "TOS",
+    "station_name": "TOLASAMPATTI",
+    "day": 1,
+    "arrival": "17:58:00",
+    "departure": "18:00:00"
+  },
+  {
+    "train_number": "56102",
+    "station_code": "MCRD",
+    "station_name": "MECHERI ROAD",
+    "day": 1,
+    "arrival": "18:11:00",
+    "departure": "18:13:00"
+  },
+  {
+    "train_number": "56102",
+    "station_code": "MTDM",
+    "station_name": "METUR DAM",
+    "day": 1,
+    "arrival": "18:45:00",
+    "departure": "None"
+  }
+]
