@@ -12,3 +12,11 @@ def get_train(number):
         if train["number"] == number:
             return train
     return None
+    import json
+def get_schedule(number):
+    schedules = json.loads(open("data/schedules/number.json").read())
+    for schedule in schedules:
+        if schedule["train_number"] == number:
+        return schedules
+    else:
+        return None
