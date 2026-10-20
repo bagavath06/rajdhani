@@ -1,8 +1,0 @@
-
-from getstation import get_station
-
-def test_get_station(code):
-    assert get_station("SBC") == code
-
-
-

@@ -7,10 +7,10 @@ def get_all_stations():
     
     stations = json.loads(open("data/stations.json").read())
     return stations
-import stations
-from stations import get_all_stations
-def get_station(code):
 
+def get_station(code):
+    stations = json.loads(open("data/stations.json").read())
+    
     for station in stations:
         if station["code"] == code:
         
@@ -18,4 +18,3 @@ def get_station(code):
        
     return None
     
-

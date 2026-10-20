@@ -4,11 +4,12 @@
 import json
     
 def get_all_stations():
-
-    return json.loads(open("data/stations.json").read())
-
+    
+    stations = json.loads(open("data/stations.json").read())
+    return stations
 
 def get_station(code):
+    stations = json.loads(open("data/stations.json").read())
     
     for station in stations:
         if station["code"] == code:
@@ -17,4 +18,3 @@ def get_station(code):
        
     return None
     
-
