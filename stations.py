@@ -10,6 +10,8 @@ def get_all_stations():
 import stations
 from stations import get_all_stations
 def get_station(code):
+    stations = json.loads(open("data/stations.json").read())
+    
 
     for station in stations:
         if station["code"] == code:
